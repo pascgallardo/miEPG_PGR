@@ -1,4 +1,6 @@
 # Fuente: https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz
+5f984b18dfe75800070e8645,Pluto TV Cine Navideño,https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png
+5f984fdc470d460007a67094,MTV Hits Navidad,https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png
 68d566603d3a9580eb461251,Paramount Network de Pluto TV,https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png
 68f103545c876cf7307b4e37,Cheers,https://images.pluto.tv/channels/68f103545c876cf7307b4e37/colorLogoPNG_1760653870523.png
 68de3db35fc0afe85de0b843,Comedia a lo bestia de Pluto TV,https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png
@@ -149,5 +151,3 @@
 5f98537a5a4341000733aefe,MTV Embarazada a los 16,https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png
 604f81a49ef73300070e554f,MTV Teen Mom,https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png
 63eb9495a8b227000841bf64,MTV Vergüenza ajena,https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png
-5f984b18dfe75800070e8645,Pluto TV Cine Navideño,https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png
-5f984fdc470d460007a67094,MTV Hits Navidad,https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png

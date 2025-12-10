@@ -45,6 +45,7 @@
 6675bbf37f512eb266c46c82,FIGHT NETWORK,https://media.unreel.me/prod/sportsplus/logo/7607dd92-7305-4bab-886e-c38fe745fff7
 6675b8b426d7aa9a5450a849,Hard Knocks,https://media.unreel.me/prod/sportsplus/logo/4b9c5132-9c96-4128-9f24-d0f63442515a
 6675bb584629276717291b17,MVMT Culture,https://media.unreel.me/prod/freelivesports/logo/98403785-3bba-4f7d-bee8-0eada4d790c8
+6675bfec4c09eba5ff39e479,Fite 24/7,https://media.unreel.me/prod/sportsplus/logo/3162b767-e063-4875-af8e-42faf418eb80
 67acd478af7d4a4aef9c3354,MMA TV,https://media.unreel.me/prod/freelivesports/logo/9cb9b4ff-2958-4179-bd0b-bc9a44888cc7
 6791796ab9c17f9469346be6,Inside Arm Wrestling,https://media.unreel.me/prod/freelivesports/logo/2f902298-97ad-401b-b076-c3b8405dfa29
 67fec250aad8e07622f57570,Lights Out Xreme Fighting,https://media.unreel.me/prod/freelivesports/logo/0a55bf25-a79a-44a0-bcdb-ca7f5d4f59fe
@@ -75,6 +76,7 @@
 66b0ebd5cd7808e59b6f35d6,H20 TV,https://media.unreel.me/prod/freelivesports/logo/59987eb6-cbd7-4a38-b59f-597fc0f8ca45
 681b9d6eb95e0938cb79e5be,Skull Bound TV,https://media.unreel.me/prod/freelivesports/logo/512e69d0-b21d-42b8-acdb-06bc2df7ca1d
 6675b734a3f2191ee5161c2d,Choppertown,https://media.unreel.me/prod/sportsplus/logo/71a84f5d-8c67-4d54-8a82-7854b9227914
+6675b93433d0e31efc120124,Omstars TV,https://media.unreel.me/prod/sportsplus/logo/c4708210-a3aa-41d8-b77d-456f3e52f7d2
 6761eb6e560259210963313e,MORE U,https://media.unreel.me/prod/freelivesports/logo/dd0a200f-61af-4034-ac2e-0b338d583120
 6746497202b68a9b5d23a744,Commune,https://media.unreel.me/prod/freelivesports/logo/18cb2d05-8c68-43b8-9aad-802e1e196fff
 6675bad59db1ef77befe9837,TRACE Sport Stars,https://media.unreel.me/prod/sportsplus/logo/234a42b4-2768-4c10-99e8-454ef31031da
@@ -89,3 +91,4 @@
 6675ba23a139017a32428faa,FUEL TV,https://media.unreel.me/prod/sportsplus/logo/a88c79a7-4f11-451e-a62b-f295efb375f4
 68a3913636cf1d83afe35072,eClutch Access,https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f
 68a3a2dc90e4094f6286e55a,Drone TV,https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58
+6938bc88a8faca8cb429f969,Joel Osteen network,https://media.unreel.me/prod/freelivesports/logo/3db2d826-c03e-4b59-90c5-3ffc7b98b23b
