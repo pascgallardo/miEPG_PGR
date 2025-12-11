@@ -46,7 +46,6 @@
 67f95fa76b11614ab0caaef3,Hechiceras,https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG_1747414259619.png
 631fb6be21b7440007b9f606,Hechizada,https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png
 63eb95baa99571000898a078,MacGyver,https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png
-66a26a7846762a0008258d4e,Baywatch,https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png
 677d93afe650a700081e5f18,Popeye,https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png
 5dcde0cc2efd2700090b7ff4,Pluto TV Novelas,https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png
 686eed4c677f2f98b4a1ccd4,Pluto TV Novelas de Otros Continentes,https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1762228024515.png
