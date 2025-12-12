@@ -4,7 +4,7 @@
 5e972a21ad709d00074195ba,Estrellas de Acción,https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png
 61b793ccf571b80007b7a610,Adrenalina Pura TV,https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png
 5dcdde78f080d900098550e4,Pluto TV Cine Comedia,https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG_1762281945243.png
-5dcddfcb229eff00091b6bdf,Pluto TV Cine Drama,https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG_1762208335925.png
+5dcddfcb229eff00091b6bdf,Pluto TV Cine Drama,https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG_1765466087404.png
 5dd7ea2aeab5230009986735,Pluto TV Cine Romance,https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png
 5ddc4e8bcbb9010009b4e84f,Pluto TV Cine Suspenso,https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png
 624af40c004f8000079b784d,Pluto TV Cine Crimen,https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png
@@ -35,11 +35,11 @@
 67e5941f0812459cb682d9c6,Relic Hunter,https://images.pluto.tv/channels/67e5941f0812459cb682d9c6/colorLogoPNG_1745511571298.png
 5dcde1317578340009b751d0,Pluto TV Series,https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png
 655f626d57fe4a00085c7c3e,Pluto TV Series de Comedia,https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png
-655f636d954b020008c93299,Pluto TV Series de Drama,https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1762208450420.png
+655f636d954b020008c93299,Pluto TV Series de Drama,https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png
 67e5987eef24f48ffca08fd7,Doc Martin,https://images.pluto.tv/channels/67e5987eef24f48ffca08fd7/colorLogoPNG_1745592891380.png
-6806d570c178637410ae4962,Pluto TV Series de Otros Continentes,https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1762227752907.png
-6185a9a88b2ce30007de5128,Pluto TV Dramas Coreanos,https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1762186822446.png
-6661d5424b10960008599fa3,Pluto TV Dramas Coreanos Teen,https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1762186920058.png
+6806d570c178637410ae4962,Pluto TV Series de Otros Continentes,https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1765466496602.png
+6185a9a88b2ce30007de5128,Pluto TV Dramas Coreanos,https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png
+6661d5424b10960008599fa3,Pluto TV Dramas Coreanos Teen,https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png
 639751f81a36b400072b8f5a,Vive Kanal D Drama,https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png
 5dd837642c6e9300098ad484,Pluto TV Series Latinas,https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png
 5de802659167b10009e7deba,Pluto TV Series Retro,https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png
@@ -48,12 +48,12 @@
 63eb95baa99571000898a078,MacGyver,https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png
 677d93afe650a700081e5f18,Popeye,https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png
 5dcde0cc2efd2700090b7ff4,Pluto TV Novelas,https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png
-686eed4c677f2f98b4a1ccd4,Pluto TV Novelas de Otros Continentes,https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1762228024515.png
-6474a7958e3c0a0008b97cae,Pluto TV Novelas de México,https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1762191899265.png
+686eed4c677f2f98b4a1ccd4,Pluto TV Novelas de Otros Continentes,https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png
+6474a7958e3c0a0008b97cae,Pluto TV Novelas de México,https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png
 646ccdd0939a5900088a1980,Corazón,https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png
 604bdf4e6d0abc0007ba77ad,Sin Tetas No Hay Paraíso,https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png
 63211ba9cad976000794f988,La Selección,https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png
-6474a86917f5e100089a0c1c,Pluto TV Novelas de Venezuela,https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1762186724373.png
+6474a86917f5e100089a0c1c,Pluto TV Novelas de Venezuela,https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png
 5dcde197f6591d0009839e04,Pluto TV Reality,https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png
 64510d3ad3fdde00080951f2,MTV Drag,https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png
 5fab088b3279760007d4e4fd,MTV Pluto TV,https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png
