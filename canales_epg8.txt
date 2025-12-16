@@ -17,7 +17,7 @@
 5dfcde52d28b09000a42d7a2,Pluto TV A La Mexicana,https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png
 609059dc63be6e0007b4eca6,Pluto TV Cine Clásico,https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png
 5dd6ddb30a1d8a000908ed4c,Pluto TV Cine Familia,https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1762273018940.png
-5dd6ed41526c77000941411c,Pluto TV Cine Navidad,https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1761061283313.png
+5dd6ed41526c77000941411c,Pluto TV Cine Navidad,https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1765842782585.png
 66e1e05a15d2c60008e4b2db,MTV Música Navideña,https://images.pluto.tv/channels/66e1e05a15d2c60008e4b2db/colorLogoPNG.png
 600728952b1776000776526d,Paramount+ Presenta,https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png
 655f62ff954b020008c91ec6,Pluto TV Series de Crimen,https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png

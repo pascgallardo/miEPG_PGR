@@ -129,7 +129,7 @@ My Padel TV,My Padel TV,https://media.tvup.cloud/canales/color_lg_669e7c664641c2
 Tennis Channel,Tennis Channel,https://media.tvup.cloud/canales/color_lg_6641c6c0e6e81024bb6171b2_1733130445118.png
 Rugby Spain,Rugby Spain,https://media.tvup.cloud/canales/color_lg_67ea5bd64f9cb1be71461795_1750846676105.png
 Surf Channel TV,Surf Channel TV,https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3_1731408353544.png
-European League of Football,European League of Football,https://media.tvup.cloud/canales/color_lg_671a18d7a5e2f02c456154f6_1739786234023.png
+TEFO2 - European League of Football,TEFO2 - European League of Football,https://media.tvup.cloud/canales/color_lg_671a18d7a5e2f02c456154f6_1739786234023.png
 DFB Play TV,DFB Play TV,https://media.tvup.cloud/canales/color_lg_67ab8140d8408152166c2c70_1764334750092.png
 INTROUBLE,INTROUBLE,https://media.tvup.cloud/canales/color_lg_67a0a9927668774da5215303_1739965102633.png
 Boing,Boing,https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png
@@ -208,7 +208,6 @@ TV3 CAT (dial 280),TV3 CAT (dial 280),https://media.tvup.cloud/canales/color_lg_
 Canal Sur Andalucía,Canal Sur Andalucía,https://media.tvup.cloud/canales/color_lg_5ee9fff71ce1aa005e15903a.png
 TVG Sat,TVG Sat,https://media.tvup.cloud/canales/color_lg_5ee9f9b1b5254100802858a6.png
 Aragón TV Int,Aragón TV Int,https://media.tvup.cloud/canales/color_lg_5ee9fd0c1ce1aa005e159034.png
-À Punt Global,À Punt Global,https://media.tvup.cloud/canales/color_lg_5eea039068808e0075a18ec0.png
 Canal Extremadura Sat,Canal Extremadura Sat,https://media.tvup.cloud/canales/color_lg_5eea025168808e0075a18ebf.png
 Telemadrid Internacional,Telemadrid Internacional,https://media.tvup.cloud/canales/color_lg_5eea1a3668e3f10084d59a2b.png
 ETB Basque,ETB Basque,https://media.tvup.cloud/canales/color_lg_5ee9fb1628d1e700655d6c44.png
@@ -264,6 +263,8 @@ Cooking Panda,Cooking Panda,https://media.tvup.cloud/canales/color_lg_6294d04cff
 Heritage+,Heritage+,https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png
 Wedo Big Stories,Wedo Big Stories,https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png
 Xtrem Sports,Xtrem Sports,https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png
+Pocoyó (dial 501),Pocoyó (dial 501),https://media.tvup.cloud/canales/color_lg_642c2b9dc27d59001cf7e050.png
+Qello Concerts (dial 502),Qello Concerts (dial 502),https://media.tvup.cloud/canales/color_lg_6450e32e71fda6c361d2f38a.png
 SIC Internacional,SIC Internacional,https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png
 SIC Noticias,SIC Noticias,https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png
 RTPi,RTPi,https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277.png
