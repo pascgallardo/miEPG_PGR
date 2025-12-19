@@ -110,7 +110,7 @@
 63d2c140c111bc0008cb890b,TeleFórmula,https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png
 652e922db4b047000825f975,Milenio Televisión,https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png
 673f7446030a2c0008231bc3,C4 en Alerta,https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png
-5dcde07af1c85b0009b18651,Pluto TV Deportes,https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1764267004165.png
+5dcde07af1c85b0009b18651,Pluto TV Deportes,https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png
 65cf60d166eec80008724e6f,Azteca Deportes Premium,https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png
 6320d2755e54db000783fd87,Claro Sports Mexico,https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png
 63f7e3f9dff38e00082a57af,ITV Deportes,https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png

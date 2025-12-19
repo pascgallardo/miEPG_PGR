@@ -70,7 +70,6 @@
 6675ba37b9ab4742a8a8cc85,GCTV,https://media.unreel.me/prod/sportsplus/logo/03aa563c-92e6-4bcb-8509-8760df887cb2
 6707d8a0e8c26b78203b9deb,Outdoor America,https://media.unreel.me/prod/freelivesports/logo/48338028-9a53-4f65-ac05-1a48e5604ac9
 6675bcdd2916d97ce3c66e5b,Wired2Fish,https://media.unreel.me/prod/sportsplus/logo/3d30b61d-216f-4639-8b45-270b09911dc6
-6740e672d77ace101bdc2d7b,Carbon TV,https://media.unreel.me/prod/freelivesports/logo/4716808f-c4c0-4acc-b305-72f1d9c4da38
 6675c1ce0485604f67e34409,Hunt Fish TV,https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91
 672a69a5873afb52c5fc1497,Sports Fishing,https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c
 6675be9aa139017a3242925e,Pursuit UP,https://media.unreel.me/prod/sportsplus/logo/9d1e572a-01e1-47ab-9fce-7172476db225
