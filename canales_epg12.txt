@@ -1,22 +1,21 @@
 # Fuente: https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz
-67b79781eab92d6624ee0a33,European Football League,https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51
-6675bbb3a139017a3242909e,RACER International,https://media.unreel.me/prod/freelivesports/logo/9fc17fec-6c99-4dc0-9fe5-abe85faeab49
-67f41e06811b7e0fb25171d1,Harlem Globetrotters,https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783
+68b5f68ecce9c4384b9c1dc4,Unbeaten (Worldwide),https://media.unreel.me/prod/freelivesports/logo/09fa93ff-a539-4d81-bbbf-da599e11e77c
+6675bd20e1827c8af5d7a7c0,Sports Illustrated TV,https://media.unreel.me/prod/freelivesports/logo/093d2e50-386f-4b8b-bc9e-d6ed59b9c5bc
+6675bed4a2823e9a829eda97,Motorvision,https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a
+6675bd5ba2823e9a829ed9d9,PokerGO,https://media.unreel.me/prod/sportsplus/logo/50d85ea2-c58d-41e1-9e39-14b034323b99
 688295059924f9f6ea72dbe0,Red Bull TV (Spain),https://media.unreel.me/prod/freelivesports/logo/af323f32-15cf-4c11-9d97-178ab8963992
 6675bc9450bec7ad1dd144e8,World Surf League,https://media.unreel.me/prod/freelivesports/logo/dc077c18-0387-4092-b000-54fd976f3645
-67daf9a75b812f089f86b42e,K-Baseball TV (KBO),https://media.unreel.me/prod/freelivesports/logo/22addd67-1439-4ce9-9feb-318490edbe62
 6675bddf08ff831167bd410d,World Poker Tour,https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f
-6675bc0089524b38dbf58292,MTRSPT1,https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add
 6675bcd1d8d389e6ed671402,GLORY Kickboxing,https://media.unreel.me/prod/sportsplus/logo/0e0173e2-7dca-4b08-aa63-f0ea4c989405
 672a67138e0fe64b11195701,Escape TV,https://media.unreel.me/prod/freelivesports/logo/5dd7d490-69f5-4e11-b524-34a02662348c
 6675c105dfa6f735be514aea,Billiard TV,https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b
-68b5f68ecce9c4384b9c1dc4,Unbeaten (Worldwide),https://media.unreel.me/prod/freelivesports/logo/09fa93ff-a539-4d81-bbbf-da599e11e77c
 66631956055826f5809baa95,PFL,https://media.unreel.me/prod/sportsplus/logo/2c4caee9-e20d-4a88-adea-6dc9c3c78c41
 690bd93eb99006859752b2ac,Bowling TV,https://media.unreel.me/prod/freelivesports/logo/bd76bda5-899f-4f9a-99a0-94739afddde2
 6675b91de1827c8af5d7a544,Powersports World,https://media.unreel.me/prod/freelivesports/logo/7a6ef117-9590-4c31-8ee1-6311a94973e3
-6675bd20e1827c8af5d7a7c0,Sports Illustrated TV,https://media.unreel.me/prod/freelivesports/logo/093d2e50-386f-4b8b-bc9e-d6ed59b9c5bc
 687a783e928ee2ca866b7faa,Tennis TV,https://media.unreel.me/prod/freelivesports/logo/5db9d9c0-666f-4153-a55b-0de074aba0c7
 6675be6a0485604f67e34186,Strongman Champions League,https://media.unreel.me/prod/sportsplus/logo/3cf9a158-a2c6-449b-8c16-cb61daa5ea2e
+682b8d834b0bb44bd5b74958,Absinthe TV,https://media.unreel.me/prod/freelivesports/logo/6d6eaa59-99a7-434f-b2e3-65c65afb4805
+66b0ebb38011e1206fab2931,FloRacing,https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2
 6675b7bda139017a32428e74,SportsGrid,https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2
 6675c077b464f958050c8e7b,BLEAV Football,https://media.unreel.me/prod/sportsplus/logo/e8c966f7-d28c-4bd9-822c-998e85489184
 673b69a49d8c78e3561485b3,GFN Soccer TV,https://media.unreel.me/prod/freelivesports/logo/f9081f8e-2478-42ec-95ac-9bcb27d264ba
@@ -26,17 +25,16 @@
 671936aee4b561864c211127,ACE TV,https://media.unreel.me/prod/freelivesports/logo/a0198825-7700-4a3a-8399-338e8e1d9c64
 67b7c8b1f4706c72766e6e70,AYM Sports,https://media.unreel.me/prod/freelivesports/logo/1a53b6f6-fe05-4354-9e41-40a5ef6f271f
 68543f26a4a3e82dffc86da2,Sports Connect,https://media.unreel.me/prod/freelivesports/logo/a9063832-0462-484e-bf9f-a1d5426dd98c
+6675bbb3a139017a3242909e,RACER International,https://media.unreel.me/prod/freelivesports/logo/9fc17fec-6c99-4dc0-9fe5-abe85faeab49
+6675bc0089524b38dbf58292,MTRSPT1,https://media.unreel.me/prod/sportsplus/logo/c8a648c2-8962-4965-a4e7-603dc5df3add
 682f92f34202358e6e99c59e,Motorsport.tv,https://media.unreel.me/prod/freelivesports/logo/d71e3c9a-681c-4dbd-b437-2a507b78b7f1
 675c767406563ac6560ae104,SPEEDVISION,https://media.unreel.me/prod/freelivesports/logo/76d71ef3-ac50-4d01-99d0-16b35a58235c
 666318a8a2498f66a3603397,NHRA,https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50
 6675bae1d823954d12bb5b44,RPM Motorsport,https://media.unreel.me/prod/sportsplus/logo/e1c40b46-8899-42be-9505-27431f558a9b
-66b0ebb38011e1206fab2931,FloRacing,https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2
-6675bed4a2823e9a829eda97,Motorvision,https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a
 6675b898581c77d305af1545,Nitro Circus TV,https://media.unreel.me/prod/freelivesports/logo/a1df54a3-e23a-4b0c-bf5e-158e7c02609e
 6761ec319b691191bc706e39,Pickle TV,https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5
 681a52869fef78f6ddd6753d,My Padel TV,https://media.unreel.me/prod/freelivesports/logo/1a25cdbc-b1bc-4974-ab62-8a7cd4a4b505
 67e2fb3e548ae02169c017c4,Pac 12 Insider,https://media.unreel.me/prod/freelivesports/logo/d16251f8-ff5b-4e36-be75-eb60aa43b0db
-6675bd5ba2823e9a829ed9d9,PokerGO,https://media.unreel.me/prod/sportsplus/logo/50d85ea2-c58d-41e1-9e39-14b034323b99
 6663176e6303503e39621403,Poker Night In America,https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432
 6675b6c2bc38196c09596830,WPT Live!,https://media.unreel.me/prod/freelivesports/logo/0105fd2e-a5f2-4666-84e9-4b77a484ffb5
 6675c08cd0ea16d1c73ad39d,WPT Spain,https://media.unreel.me/prod/freelivesports/logo/90b172cb-3adf-4fcc-8c1d-31720aafff29
@@ -57,7 +55,10 @@
 6675bbd47620a64769e3aaa7,World of Freesports,https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982
 6793f38b28cc86e5b548fd1c,Adventure Zone Sports Network,https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87
 6849b955d58379ecd0a5371e,DFB Play,https://media.unreel.me/prod/freelivesports/logo/57d1b830-bc09-482d-ae77-afe4477aabd8
+67f41e06811b7e0fb25171d1,Harlem Globetrotters,https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783
+67b79781eab92d6624ee0a33,European Football League,https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51
 67d9e85646fbdd154c733552,Cricket Gold,https://media.unreel.me/prod/freelivesports/logo/81162d22-43a3-4ce4-a50f-76ecf4b14fba
+67daf9a75b812f089f86b42e,K-Baseball TV (KBO),https://media.unreel.me/prod/freelivesports/logo/22addd67-1439-4ce9-9feb-318490edbe62
 6675b8bb2916d97ce3c66c0f,Perfect Game TV,https://media.unreel.me/prod/sportsplus/logo/9f28b472-3256-49bc-b27e-32638ceff5ce
 672a6a6a8e0fe64b11198015,Moonball Sports TV,https://media.unreel.me/prod/freelivesports/logo/961caf5f-0495-4bfa-a239-da3eaafe891e
 67193b14ebe91798e1df746e,Premier League Lacrosse (Int'),https://media.unreel.me/prod/freelivesports/logo/1fd98f1d-6c51-4dd7-bcfa-708b89d93a0d
@@ -84,7 +85,6 @@
 6838daeb7711e8dcf95d34c8,American Stories Network,https://media.unreel.me/prod/freelivesports/logo/6bfb0b89-48e5-46fe-b4b3-ec6fef24e1fc
 6717da0636dc92fb49346e64,Greatest Sports Legends &amp; Laughs,https://media.unreel.me/prod/freelivesports/logo/23e783cc-61c9-4cc4-b30f-bd7203fa4f62
 670800411a95445e2203071e,Documentary+,https://media.unreel.me/prod/freelivesports/logo/9f6d504c-b4d1-433a-8bb0-a7b7c8142be9
-682b8d834b0bb44bd5b74958,Absinthe TV,https://media.unreel.me/prod/freelivesports/logo/6d6eaa59-99a7-434f-b2e3-65c65afb4805
 6675bde91de4405de4d48712,Popular Science,https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288
 68af5411356f6fb90655e8d0,Golf Network,https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842
 6675ba23a139017a32428faa,FUEL TV,https://media.unreel.me/prod/sportsplus/logo/a88c79a7-4f11-451e-a62b-f295efb375f4
