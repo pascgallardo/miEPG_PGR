@@ -124,6 +124,7 @@ Motorvision TV,Motorvision TV,https://media.tvup.cloud/canales/color_lg_5e455c96
 MMA TV,MMA TV,https://media.tvup.cloud/canales/color_lg_6294d284c044ca001e71987d.png
 Fuel TV,Fuel TV,https://media.tvup.cloud/canales/color_lg_64e720715bc77dacbbbb6ec8.png
 Trace Sport Stars,Trace Sport Stars,https://media.tvup.cloud/canales/color_lg_6458cdd3462b2c49012785fe.png
+My Padel TV,My Padel TV,https://media.tvup.cloud/canales/color_lg_669e7c664641c24ee2ea8b16.png
 Tennis Channel,Tennis Channel,https://media.tvup.cloud/canales/color_lg_6641c6c0e6e81024bb6171b2_1733130445118.png
 Rugby Spain,Rugby Spain,https://media.tvup.cloud/canales/color_lg_67ea5bd64f9cb1be71461795_1750846676105.png
 Surf Channel TV,Surf Channel TV,https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3_1731408353544.png
@@ -223,6 +224,7 @@ TV Ripollès,TV Ripollès,https://media.tvup.cloud/canales/color_lg_5cfa47f9e155
 TeleVigo,TeleVigo,https://media.tvup.cloud/canales/color_lg_6915b9aa884f6dff8a65fc68_1765814597577.png
 12TV,12TV,https://media.tvup.cloud/canales/color_lg_68dbacd8fa03e9d7985cd6f4_1760096737452.png
 TeleBilbao,TeleBilbao,https://media.tvup.cloud/canales/color_lg_68dbacf408f02632a129362b_1760097164503.png
+Canal 4 Televisió,Canal 4 Televisió,https://media.tvup.cloud/canales/color_lg_5ee9ef4068808e0075a18ea0.png
 CLICKRADIOTV,CLICKRADIOTV,https://media.tvup.cloud/canales/color_lg_69396ba549c4b5621a9f3276_1765814538344.png
 Televisió L'Hospitalet,Televisió L'Hospitalet,https://media.tvup.cloud/canales/color_lg_5ffff9413f2376002503bb2c.png
 BDN Televisió,BDN Televisió,https://media.tvup.cloud/canales/color_lg_6007eebf9ee9270031e56568.png
@@ -244,7 +246,6 @@ Canal San Roque,Canal San Roque,https://media.tvup.cloud/canales/color_lg_615bf8
 Estepona TV,Estepona TV,https://media.tvup.cloud/canales/color_lg_615c5924f6e98a001d68f893.jpg
 9 La Loma TV,9 La Loma TV,https://media.tvup.cloud/canales/color_lg_615c5aa3f6e98a001d68fb14.png
 TVM Córdoba,TVM Córdoba,https://media.tvup.cloud/canales/color_lg_616835e5f83e8a001af668d4.png
-101tv Antequera,101tv Antequera,https://media.tvup.cloud/canales/color_lg_616837a59880a4002115c33b.png
 Distrito TV,Distrito TV,https://media.tvup.cloud/canales/color_lg_618ba3a774c6880023a7ea82.png
 Déjate de Historias,Déjate de Historias,https://media.tvup.cloud/canales/color_lg_68dbad0fb99dbf0299283651_1760096916790.png
 50TV,50TV,https://media.tvup.cloud/canales/color_lg_64071465501362001b232195.png
