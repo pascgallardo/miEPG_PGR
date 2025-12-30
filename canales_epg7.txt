@@ -1,5 +1,4 @@
 # Fuente: https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz
-5f984b18dfe75800070e8645,Pluto TV Cine Navideño,https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png
 5f984fdc470d460007a67094,MTV Hits Navidad,https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png
 68d566603d3a9580eb461251,Paramount Network de Pluto TV,https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png
 68f103545c876cf7307b4e37,Cheers,https://images.pluto.tv/channels/68f103545c876cf7307b4e37/colorLogoPNG_1760653870523.png
@@ -14,7 +13,6 @@
 5f1acd36779de70007a680d1,Curro Jiménez,https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png
 65dded6966eec80008947157,Call the Midwife,https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG.png
 6245c03922d9d4000760d205,Melrose Place,https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png
-664c76520120f40008b81db9,Los vigilantes de la playa,https://images.pluto.tv/channels/664c76520120f40008b81db9/colorLogoPNG.png
 60c343007bcabe0007242aa6,El Comisario,https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png
 6578808014fbe400086e21bc,Medium,https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png
 664c76d68ea5560008c6c7a4,Alerta Cobra,https://images.pluto.tv/channels/664c76d68ea5560008c6c7a4/colorLogoPNG.png
@@ -101,8 +99,8 @@
 60dd6b1da79e4d0007309455,Nature Time,https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina,https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
 64db2e0835425100080f2f5a,Pluto TV Diseño,https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
-686cd8bb9d079f48dbbdfecb,Metal Rocks,https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/colorLogoPNG_1756372280523.png
 65786abdb3801200084c593a,Homeful,https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png
+686cd8bb9d079f48dbbdfecb,Metal Rocks,https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/colorLogoPNG_1756372280523.png
 622f42b831233300078658cc,Ciudadanos por el mundo,https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png
 5f1aca0b4e448e00075e7c5e,Bob Esponja,https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
 6181404ef48321000797bc41,iCarly,https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png
@@ -139,11 +137,6 @@
 60d3583ef310610007fb02b1,Euronews,https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png
 66c45c0de7f5e80008b82005,CNN Headlines,https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1745489270438.png
 6231ede1be5b460007f91bc1,CBS News 24/7,https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png
-6076cd1df8576d0007c82193,VH1 Classics,https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png
-65786d29dfed030008ce2fa7,MTV Rock,https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png
-60a26a056d55b30007918d5a,MTV Music Made in Spain,https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png
-61ea759737679900078ff559,MTV Party Music,https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png
-65787eab32c1b300089a84d7,MTV Reggaeton,https://images.pluto.tv/channels/65787eab32c1b300089a84d7/colorLogoPNG.png
 5f1ab3c7778230000735cf41,MTV Catfish TV Show,https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png
 62ac3d7dc23b400008ae5b5a,MTV Jerseys,https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png
 5f1aadf373bed3000794d1d7,MTV Originals,https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png
