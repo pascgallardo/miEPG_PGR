@@ -231,7 +231,7 @@ Nick.Junior.es,Nick Junior,https://programacion-tv.elpais.com/imagenes/canales/6
 Nickelodeon.es,Nickelodeon,https://programacion-tv.elpais.com/imagenes/canales/200.jpg
 Nova.es,Nova,https://programacion-tv.elpais.com/imagenes/canales/509.jpg
 Odisea.es,Odisea,https://programacion-tv.elpais.com/imagenes/canales/135.jpg
-Oficios.perdidos.es,Oficios perdidos,https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png
+Oficios.perdidos.es,Oficios perdidos,
 Onda.Algeciras.TV.es,Onda Algeciras TV,https://programacion-tv.elpais.com/imagenes/canales/753.jpg
 Paramount.Network.es,Paramount Network,https://programacion-tv.elpais.com/imagenes/canales/716.jpg
 Planeta.de.Cine.es,Planeta de Cine,https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png
