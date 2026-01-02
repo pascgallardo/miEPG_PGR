@@ -51,6 +51,8 @@ Canal.7.Televalencia.es,Canal 7 Televalencia,https://cdn.sincroguia.tv/uploads/i
 Canal.Cocina.es,Canal Cocina,https://programacion-tv.elpais.com/imagenes/canales/183.jpg
 Canal.Extremadura.Sat.es,Canal Extremadura Sat,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/extrem.png
 Canal.Extremadura.TV.es,Canal Extremadura TV,https://programacion-tv.elpais.com/imagenes/canales/582.jpg
+Canal.FlixOlé.1.es,Canal FlixOlé 1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/flix1.png
+Canal.FlixOlé.2.es,Canal FlixOlé 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/flix2.png
 Canal.Fútbol.Replay.es,Canal Fútbol Replay,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/futrep.png
 Canal.Parlamento.es,Canal Parlamento,https://programacion-tv.elpais.com/imagenes/canales/604.jpg
 Canal.Sur.2.es,Canal Sur 2,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/9f/10000031.png
@@ -231,7 +233,7 @@ Nick.Junior.es,Nick Junior,https://programacion-tv.elpais.com/imagenes/canales/6
 Nickelodeon.es,Nickelodeon,https://programacion-tv.elpais.com/imagenes/canales/200.jpg
 Nova.es,Nova,https://programacion-tv.elpais.com/imagenes/canales/509.jpg
 Odisea.es,Odisea,https://programacion-tv.elpais.com/imagenes/canales/135.jpg
-Oficios.perdidos.es,Oficios perdidos,
+Oficios.perdidos.es,Oficios perdidos,https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png
 Onda.Algeciras.TV.es,Onda Algeciras TV,https://programacion-tv.elpais.com/imagenes/canales/753.jpg
 Paramount.Network.es,Paramount Network,https://programacion-tv.elpais.com/imagenes/canales/716.jpg
 Planeta.de.Cine.es,Planeta de Cine,https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png

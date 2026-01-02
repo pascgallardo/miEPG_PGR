@@ -57,7 +57,6 @@ XTRM,XTRM,https://media.tvup.cloud/canales/5c93b34396a41e3cdd08be30logoColor.png
 DARK,DARK,https://media.tvup.cloud/canales/color_lg_5f7f1098e4fd9d00641b8783.png
 Sundance TV,Sundance TV,https://media.tvup.cloud/canales/color_lg_5bd893517525c60f90c0ba6a.png
 Somos,Somos,https://media.tvup.cloud/canales/color_lg_5c066ce8af988941cfbcb14f.png
-Paramount Network,Paramount Network,https://media.tvup.cloud/canales/color_lg_5ac5e61303080405b20a4fef.png
 Be Mad,Be Mad,https://media.tvup.cloud/canales/color_lg_5ac5c4c303080405b20a4fe1.png
 Cines Verdi TV (dial 49),Cines Verdi TV (dial 49),https://media.tvup.cloud/canales/color_lg_649977e7ca8cb98b3d9ccf7c.png
 Cine Feel Good Verdi TV,Cine Feel Good Verdi TV,https://media.tvup.cloud/canales/color_lg_65b0fa5ea9d9e0e7df13780e.png
