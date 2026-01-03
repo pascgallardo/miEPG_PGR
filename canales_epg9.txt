@@ -7,7 +7,6 @@ romance-rakuten-tv,Películas Románticas,https://images-0.rakuten.tv/storage/gl
 spanish-cinema-rakuten-tv,Cine Español,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg
 sci-fi-rakuten-tv,Sci-Fi,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg
 thriller-rakuten-tv,Thrillers,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg
-family-rakuten-tv,100% Navidad,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fe76f469-0869-4bd8-a5de-a471d9740965.png
 mytime-movie-network-spanish,MyTime Movie Network,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg
 cine-friki,Cine Friki,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg
 dark-matter-es-new,Dark Matter,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/cd1e98b4-2d26-486d-a615-bd556debbf20.jpeg
@@ -86,6 +85,7 @@ now-rock,NOW Rock,https://images-1.rakuten.tv/storage/global-live-channel/transl
 vevo-latino-es,Vevo Latino,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/acffba3b-1779-48a8-bf69-de8f2cdf69c2.jpeg
 vevo-pop-es,Vevo Pop,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f796c006-b189-4b90-b8ff-6a42cf6d4bd7.jpeg
 now-90s00s,NOW 90s00s,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/798cc3b5-1f31-4bee-97d2-39a6555d7b07.jpeg
+family-rakuten-tv,En Familia,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8aea0628-6592-4363-9ccc-7adcce81b116.jpeg
 rantaro-ninja-boy-rakuten-tv,Rantaró, el ninja boy,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c03fa5a5-dd8d-4e53-ba59-352993c4e6fb.jpeg
 baby-shark-tv,Baby Shark TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a037e33c-a084-4a63-b433-b227d0bc2c59.jpeg
 las-tres-mellizas,Las tres mellizas,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5fca5e18-a011-44e0-a411-608be7e29a84.jpeg
