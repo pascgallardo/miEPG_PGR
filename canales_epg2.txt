@@ -93,6 +93,7 @@ Vivir con perros,Vivir con perros,https://media.tvup.cloud/canales/color_lg_628c
 Fashion TV,Fashion TV,https://media.tvup.cloud/canales/color_lg_639737a1355098001a413cbf.png
 Historia y Vida,Historia y Vida,https://media.tvup.cloud/canales/color_lg_668507f37af6025d72e24193.png
 Love The Planet,Love The Planet,https://media.tvup.cloud/canales/color_lg_64e480ccdc3cd8224ded0426.png
+El Mueble,El Mueble,https://media.tvup.cloud/canales/color_lg_692ec41de3d555edbe178836_1767099123599.png
 EscapaTV,EscapaTV,https://media.tvup.cloud/canales/color_lg_667eb39f46a1b3c800aa90cd.png
 Oficios perdidos,Oficios perdidos,https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png
 ZenLIFE,ZenLIFE,https://media.tvup.cloud/canales/color_lg_661414e8317db681aee6b0a1.png
@@ -300,3 +301,4 @@ Stingray The Spa,Stingray The Spa,https://media.tvup.cloud/canales/color_lg_670f
 Stingray Soul Storm,Stingray Soul Storm,https://media.tvup.cloud/canales/color_lg_6710ec60093504d2d21a3e9d_1729849056447.png
 Stingray DanceFloor Fillers,Stingray DanceFloor Fillers,https://media.tvup.cloud/canales/color_lg_671215c3093504d2d21a8822_1729849235326.png
 Party Tyme Karaoke Int.,Party Tyme Karaoke Int.,https://media.tvup.cloud/canales/color_lg_639ca362965697001bff075f.png
+Descubre Tivify,Descubre Tivify,https://media.tvup.cloud/canales/color_lg_5ef828a88e71ea00650e81cf.png

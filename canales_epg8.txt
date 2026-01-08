@@ -17,9 +17,6 @@
 5dfcde52d28b09000a42d7a2,Pluto TV A La Mexicana,https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png
 609059dc63be6e0007b4eca6,Pluto TV Cine Clásico,https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png
 5dd6ddb30a1d8a000908ed4c,Pluto TV Cine Familia,https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1762273018940.png
-5dd6ed41526c77000941411c,Pluto TV Cine Navidad,https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1767715346445.png
-66e1e05a15d2c60008e4b2db,MTV Música Navideña,https://images.pluto.tv/channels/66e1e05a15d2c60008e4b2db/colorLogoPNG.png
-600728952b1776000776526d,Paramount+ Presenta,https://images.pluto.tv/channels/600728952b1776000776526d/colorLogoPNG.png
 655f62ff954b020008c91ec6,Pluto TV Series de Crimen,https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png
 63eb9255c111bc0008fe6ec4,CSI: Miami,https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png
 63eb947c4e83e70008ab877b,NCIS,https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png
@@ -162,7 +159,6 @@
 5fab09a8749b1a00077d35d2,Nickelodeon Teen,https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png
 620ff0a01f9e8700076c6f9d,Nickelodeon iCarly,https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png
 5fcea93ffcf94500071c4b2f,Kenan y Kel,https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png
-6495c6ad115d060008bf6b52,PAW Patrol Patrulla de Cachorros,https://images.pluto.tv/channels/6495c6ad115d060008bf6b52/colorLogoPNG.png
 5ddd7cb2cbb9010009b4fe32,Nick Jr. Club,https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png
 619d5e6a093e7c0007489211,Baby Shark TV,https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png
 5ebac49ce4dc8b00078b23bc,Babyfirst,https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png
@@ -173,15 +169,14 @@
 6759ee82bd523200083b4f0f,Avatar: La Leyenda de Aang,https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png
 5ea7215005d66d0007e8128a,Rugrats,https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png
 645952687cb4b100084ed52e,Nickelodeon Toons,https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG_1754038340046.png
-6254598f5083f800076d8563,Bob Esponja Pantalones Cuadrados,https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1764610312186.png
-6322099c822bbc00074857db,Los Padrinos Mágicos,https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG_1764627064818.png
+6254598f5083f800076d8563,Bob Esponja Pantalones Cuadrados,https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1767826638635.png
+6322099c822bbc00074857db,Los Padrinos Mágicos,https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG_1767810452010.png
 63dd5d7a4e83e700088fbca8,Las Tortugas Ninja,https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png
 5dd6dae8ce788b0009eaf77b,Pluto TV Kids,https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png
 6047fabfce6e8e00070bcc9f,MTV Biggest Pop,https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png
 66a11a21a79dea0008aa90ca,MTV Classic,https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png
 66a01b52a4ee27000808ea36,MTV Rocks,https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png
 62b218fc511d4b00070ddc0c,MTV Flow Latino,https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png
-67b4a4e41a5ca7608025da79,MTV on Tour!,https://images.pluto.tv/channels/67b4a4e41a5ca7608025da79/colorLogoPNG.png
 63dac1b78795f300086d5ca6,TikTok Radio en Español,https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png
 6868152657543d1f8be4ece3,Concert Channel,https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png
 5f85ca40eda1b10007b967cd,Conciertos por Stingray,https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png
