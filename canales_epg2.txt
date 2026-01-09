@@ -67,7 +67,7 @@ Runtime Thriller + Terror,Runtime Thriller + Terror,https://media.tvup.cloud/can
 Runtime Crimen,Runtime Crimen,https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png
 Runtime Romance,Runtime Romance,https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png
 Runtime Clásicos,Runtime Clásicos,https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png
-Runtime Christmas,Runtime Christmas,https://media.tvup.cloud/canales/color_lg_642297c5fe71e4001bd0970d_1764580348761.png
+Runtime Familia,Runtime Familia,https://media.tvup.cloud/canales/color_lg_642297c5fe71e4001bd0970d_1767862705619.png
 Planeta de Cine,Planeta de Cine,https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png
 Film&amp;Co,Film&amp;Co,https://media.tvup.cloud/canales/color_lg_628cdee165774400228d971f.png
 Cine Friki,Cine Friki,https://media.tvup.cloud/canales/color_lg_641098c475965f001c37812a.png
