@@ -42,10 +42,13 @@
 5de802659167b10009e7deba,Pluto TV Series Retro,https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png
 67f95fa76b11614ab0caaef3,Hechiceras,https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG_1747414259619.png
 631fb6be21b7440007b9f606,Hechizada,https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png
+68ffc086a530e036bc8f0305,Mi Bella Genio,https://images.pluto.tv/channels/68ffc086a530e036bc8f0305/colorLogoPNG_1762795921468.png
 63eb95baa99571000898a078,MacGyver,https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png
 677d93afe650a700081e5f18,Popeye,https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png
+68a3a97fd8f7693ae3f8575f,Los Pitufos,https://images.pluto.tv/channels/68a3a97fd8f7693ae3f8575f/colorLogoPNG_1760386874134.png
 5dcde0cc2efd2700090b7ff4,Pluto TV Novelas,https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png
 686eed4c677f2f98b4a1ccd4,Pluto TV Novelas de Otros Continentes,https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png
+5ddc503ac7ef120009b101a2,Pluto TV Documentales,https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png
 6474a7958e3c0a0008b97cae,Pluto TV Novelas de México,https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png
 646ccdd0939a5900088a1980,Corazón,https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png
 604bdf4e6d0abc0007ba77ad,Sin Tetas No Hay Paraíso,https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png
@@ -129,6 +132,7 @@
 5ebaccf1734aaf0007142c86,FailArmy,https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png
 5ebacbcae43a6d000787b88e,The Pet Collective,https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png
 678029c654f43dad4b5c1ec0,Bromas Gags - Just for Laughs,https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png
+6320ddef274b1b0007b2ee88,Revive Gran Hermano,https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG_1762821719974.png
 646ccc7a2858cb0008127367,Azteca UNO -1 hora,https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png
 646cce4d1593940008a33f09,Azteca Internacional,https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png
 64e35aff6b1fdb0008ea8441,Imagen TV+,https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png
