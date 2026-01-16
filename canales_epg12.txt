@@ -27,6 +27,7 @@
 6675bbb3a139017a3242909e,RACER International,https://media.unreel.me/prod/freelivesports/logo/9fc17fec-6c99-4dc0-9fe5-abe85faeab49
 682f92f34202358e6e99c59e,Motorsport.tv,https://media.unreel.me/prod/freelivesports/logo/d71e3c9a-681c-4dbd-b437-2a507b78b7f1
 675c767406563ac6560ae104,SPEEDVISION,https://media.unreel.me/prod/freelivesports/logo/76d71ef3-ac50-4d01-99d0-16b35a58235c
+67917ab78c569dd6bc2eb2c4,MotorRacing,https://media.unreel.me/prod/freelivesports/logo/cfc459ed-5207-4661-b4b1-9c273b365af9
 6675b91de1827c8af5d7a544,Powersports World,https://media.unreel.me/prod/freelivesports/logo/7a6ef117-9590-4c31-8ee1-6311a94973e3
 666318a8a2498f66a3603397,NHRA,https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50
 6675bae1d823954d12bb5b44,RPM Motorsport,https://media.unreel.me/prod/sportsplus/logo/e1c40b46-8899-42be-9505-27431f558a9b
@@ -54,6 +55,7 @@
 67ad38735451dfa36d3d3d1a,GoPro,https://media.unreel.me/prod/freelivesports/logo/8280d034-d6c9-4628-83b9-9d0a6dda1095
 6675b9974c09eba5ff39e005,InTrouble,https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986
 6675bbd47620a64769e3aaa7,World of Freesports,https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982
+67917a6de0eff6898a8584ff,HorizonSports,https://media.unreel.me/prod/freelivesports/logo/af78b66f-4130-413f-870f-dc98f6ed2888
 6793f38b28cc86e5b548fd1c,Adventure Zone Sports Network,https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87
 6849b955d58379ecd0a5371e,DFB Play,https://media.unreel.me/prod/freelivesports/logo/57d1b830-bc09-482d-ae77-afe4477aabd8
 67f41e06811b7e0fb25171d1,Harlem Globetrotters,https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783
@@ -91,3 +93,4 @@
 68a3a2dc90e4094f6286e55a,Drone TV,https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58
 69209b8b022b0830e186c96c,RVTV,https://media.unreel.me/prod/freelivesports/logo/41927144-751b-41de-b451-077f421c7818
 6938bc88a8faca8cb429f969,Joel Osteen network,https://media.unreel.me/prod/freelivesports/logo/3db2d826-c03e-4b59-90c5-3ffc7b98b23b
+695d764ad33a113e45a09c0c,Waypoint TV,https://media.unreel.me/prod/freelivesports/logo/08aaf5dd-1c53-4129-8487-c1f2ac82e40d
