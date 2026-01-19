@@ -93,4 +93,6 @@
 68a3a2dc90e4094f6286e55a,Drone TV,https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58
 69209b8b022b0830e186c96c,RVTV,https://media.unreel.me/prod/freelivesports/logo/41927144-751b-41de-b451-077f421c7818
 6938bc88a8faca8cb429f969,Joel Osteen network,https://media.unreel.me/prod/freelivesports/logo/3db2d826-c03e-4b59-90c5-3ffc7b98b23b
+6943e7dc182a4a3d2bcd3c10,Top Barca,https://media.unreel.me/prod/freelivesports/logo/3092f43f-1ef2-4357-be60-2706955b7018
+6943e94c4a975d542ea0d676,Top Barca en Espanyol,https://media.unreel.me/prod/freelivesports/logo/ba995e95-3461-4ecd-a748-4fcc13b349f5
 695d764ad33a113e45a09c0c,Waypoint TV,https://media.unreel.me/prod/freelivesports/logo/08aaf5dd-1c53-4129-8487-c1f2ac82e40d
