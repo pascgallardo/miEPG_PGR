@@ -175,7 +175,7 @@
 645952687cb4b100084ed52e,Nickelodeon Toons,https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG_1754038340046.png
 6254598f5083f800076d8563,Bob Esponja Pantalones Cuadrados,https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1767826638635.png
 6322099c822bbc00074857db,Los Padrinos Mágicos,https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG_1767810452010.png
-63dd5d7a4e83e700088fbca8,Las Tortugas Ninja,https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png
+63dd5d7a4e83e700088fbca8,Las Tortugas Ninja,https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG_1768926025035.png
 5dd6dae8ce788b0009eaf77b,Pluto TV Kids,https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png
 6047fabfce6e8e00070bcc9f,MTV Biggest Pop,https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png
 66a11a21a79dea0008aa90ca,MTV Classic,https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png
