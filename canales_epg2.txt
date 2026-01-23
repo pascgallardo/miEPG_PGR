@@ -200,7 +200,6 @@ DW English,DW English,https://media.tvup.cloud/canales/color_lg_65c3a5d432f1684d
 OAN Plus,OAN Plus,https://media.tvup.cloud/canales/color_lg_62bb0117b1ff2c0026dab95a.png
 Bloomberg Originals,Bloomberg Originals,https://media.tvup.cloud/canales/color_lg_6731ebee592b6de6d6789d04_1737111214259.png
 BFM TV,BFM TV,https://media.tvup.cloud/canales/color_lg_5f901eb373c9880074cc406f.png
-1+1 News,1+1 News,https://media.tvup.cloud/canales/color_lg_67b4673312c340d44a9a4090_1740572313860.png
 Al Jazeera Arabic,Al Jazeera Arabic,https://media.tvup.cloud/canales/5c6d7d27a1759118f52096c6logoColor.png
 TRT Arabi,TRT Arabi,https://media.tvup.cloud/canales/5cb8469bf75662004cbb4481logoColor.png
 TV3 CAT,TV3 CAT,https://media.tvup.cloud/canales/5c59a481df377c004c5519aalogoColor.png
@@ -298,4 +297,3 @@ Stingray The Spa,Stingray The Spa,https://media.tvup.cloud/canales/color_lg_670f
 Stingray Soul Storm,Stingray Soul Storm,https://media.tvup.cloud/canales/color_lg_6710ec60093504d2d21a3e9d_1729849056447.png
 Stingray DanceFloor Fillers,Stingray DanceFloor Fillers,https://media.tvup.cloud/canales/color_lg_671215c3093504d2d21a8822_1729849235326.png
 Party Tyme Karaoke Int.,Party Tyme Karaoke Int.,https://media.tvup.cloud/canales/color_lg_639ca362965697001bff075f.png
-Descubre Tivify,Descubre Tivify,https://media.tvup.cloud/canales/color_lg_5ef828a88e71ea00650e81cf.png
