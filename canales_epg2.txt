@@ -171,7 +171,6 @@ Satén TV | Promo,Satén TV | Promo,https://media.tvup.cloud/canales/color_lg_67
 Canal 24 horas,Canal 24 horas,https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1768217632330.png
 Negocios TV,Negocios TV,https://media.tvup.cloud/canales/color_lg_60dab53deb84d1001aa69c13.png
 3CatInfo,3CatInfo,https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094_1758096590448.png
-El País,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
 El Toro TV,El Toro TV,https://media.tvup.cloud/canales/color_lg_5f9be2ba52dc8c007fc95d13.png
 El Confidencial,El Confidencial,https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68.png
 Canal Parlamento,Canal Parlamento,https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png
@@ -297,3 +296,4 @@ Stingray The Spa,Stingray The Spa,https://media.tvup.cloud/canales/color_lg_670f
 Stingray Soul Storm,Stingray Soul Storm,https://media.tvup.cloud/canales/color_lg_6710ec60093504d2d21a3e9d_1729849056447.png
 Stingray DanceFloor Fillers,Stingray DanceFloor Fillers,https://media.tvup.cloud/canales/color_lg_671215c3093504d2d21a8822_1729849235326.png
 Party Tyme Karaoke Int.,Party Tyme Karaoke Int.,https://media.tvup.cloud/canales/color_lg_639ca362965697001bff075f.png
+Descubre Tivify,Descubre Tivify,https://media.tvup.cloud/canales/color_lg_5ef828a88e71ea00650e81cf.png
