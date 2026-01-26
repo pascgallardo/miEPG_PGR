@@ -1,6 +1,6 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
-plex.tv.NFL.Channel.plex,NFL Channel,https://metadata-static.plex.tv/3/gracenote/3e780ef62d5b3474a4ad489aa1121261.jpg
-plex.tv.Stories.by.AMC.plex,Stories by AMC,https://metadata-static.plex.tv/6/gracenote/6708245222d060544ead3a6f03a4a130.jpg
+plex.tv.NFL.Channel.plex,NFL Channel,https://metadata-static.plex.tv/2/gracenote/2cb10a4fcfe552dc85b754cfe44370a8.jpg
+plex.tv.Stories.by.AMC.plex,Stories by AMC,https://metadata-static.plex.tv/b/gracenote/bf2c696370609ef3219ae14a6f7d9da4.jpg
 plex.tv.Miramax.Movie.Channel.plex,Miramax Movie Channel,https://metadata-static.plex.tv/6/gracenote/6f405ed1c61cbed873a97fd94007a071.jpg
 plex.tv.Hallmark.Movies.&amp;.More.plex,Hallmark Movies &amp; More,https://metadata-static.plex.tv/2/gracenote/268fc98fb8b705cabbc9e895fe3a6af9.jpg
 plex.tv.ION.plex,ION,https://metadata-static.plex.tv/4/gracenote/4f6cabbb59dd109d439e0051eebca7bb.jpg
