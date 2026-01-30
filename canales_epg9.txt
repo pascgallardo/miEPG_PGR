@@ -109,7 +109,6 @@ historia-y-vida,Historia y Vida,https://images-3.rakuten.tv/storage/global-live-
 euronews-live-spa,Euronews EN DIRECTO,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0c9f38a6-5df7-4480-a994-a3a63ae695e6.jpeg
 actualidad-360,Actualidad 360,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6e42888b-dbe7-4acc-a07e-9cd81d3de1b7.jpeg
 the-reuters-60,The Reuters 60,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg
-revry-news,Revry News,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/3f6c9f74-ee6f-43b9-959e-f63992e2e83d.png
 bloomberg-originals-new,Bloomberg Originals,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d6c3cf95-3570-44fa-a3db-ca215ded6396.jpeg
 bloomberg-tv-plus,Bloomberg TV+,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80bb6ac5-9dbf-44fb-8716-dd84aec360f8.jpeg
 cgtn-es,CGTN,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg

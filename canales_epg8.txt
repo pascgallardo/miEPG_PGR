@@ -142,7 +142,7 @@
 68b88712e777774982269ce9,Tastemade Viajes,https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png
 64fb1f6e6625510008c00848,Homeful,https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png
 68b887c2e77777498226a0de,Tastemade Hogar,https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png
-5dcde0657444a40009cd2422,Pluto TV Estilo de Vida,https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1759333647384.png
+5dcde0657444a40009cd2422,Pluto TV Estilo de Vida,https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1769706464896.png
 5f998c1fc54853000797bacd,Tastemade,https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png
 6894fc3f66f164e402f4fd14,Dulce by elGourmet,https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG_1756447016242.png
 6894febddbd49c964f3b66c8,Plato del Dia by elGourmet,https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png
