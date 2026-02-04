@@ -5,7 +5,7 @@
 695d764ad33a113e45a09c0c,Waypoint TV,https://media.unreel.me/prod/freelivesports/logo/08aaf5dd-1c53-4129-8487-c1f2ac82e40d
 6675b7bda139017a32428e74,SportsGrid,https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2
 67b7c8b1f4706c72766e6e70,AYM Sports,https://media.unreel.me/prod/freelivesports/logo/1a53b6f6-fe05-4354-9e41-40a5ef6f271f
-67b79781eab92d6624ee0a33,European Football League,https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51
+68a3a2dc90e4094f6286e55a,Drone TV,https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58
 6761ec319b691191bc706e39,Pickle TV,https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5
 672a6a6a8e0fe64b11198015,Moonball Sports TV,https://media.unreel.me/prod/freelivesports/logo/961caf5f-0495-4bfa-a239-da3eaafe891e
 6943e7dc182a4a3d2bcd3c10,Top Barca,https://media.unreel.me/prod/freelivesports/logo/3092f43f-1ef2-4357-be60-2706955b7018
@@ -58,6 +58,7 @@
 6793f38b28cc86e5b548fd1c,Adventure Zone Sports Network,https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87
 6849b955d58379ecd0a5371e,DFB Play,https://media.unreel.me/prod/freelivesports/logo/57d1b830-bc09-482d-ae77-afe4477aabd8
 67f41e06811b7e0fb25171d1,Harlem Globetrotters,https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783
+67b79781eab92d6624ee0a33,European Football League,https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51
 67d9e85646fbdd154c733552,Cricket Gold,https://media.unreel.me/prod/freelivesports/logo/81162d22-43a3-4ce4-a50f-76ecf4b14fba
 67daf9a75b812f089f86b42e,K-Baseball TV (KBO),https://media.unreel.me/prod/freelivesports/logo/22addd67-1439-4ce9-9feb-318490edbe62
 6675b8bb2916d97ce3c66c0f,Perfect Game TV,https://media.unreel.me/prod/sportsplus/logo/9f28b472-3256-49bc-b27e-32638ceff5ce
@@ -92,7 +93,7 @@
 6675bde91de4405de4d48712,Popular Science,https://media.unreel.me/prod/freelivesports/logo/fd143394-5285-40a8-adca-a50243e58288
 68af5411356f6fb90655e8d0,Golf Network,https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842
 6675ba23a139017a32428faa,FUEL TV,https://media.unreel.me/prod/sportsplus/logo/a88c79a7-4f11-451e-a62b-f295efb375f4
-68a3a2dc90e4094f6286e55a,Drone TV,https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58
 69209b8b022b0830e186c96c,RVTV,https://media.unreel.me/prod/freelivesports/logo/41927144-751b-41de-b451-077f421c7818
 6938bc88a8faca8cb429f969,Joel Osteen network,https://media.unreel.me/prod/freelivesports/logo/3db2d826-c03e-4b59-90c5-3ffc7b98b23b
 6943e94c4a975d542ea0d676,Top Barca en Espanyol,https://media.unreel.me/prod/freelivesports/logo/ba995e95-3461-4ecd-a748-4fcc13b349f5
+698298987b62c73309c5256b,Cirque du Soleil,https://media.unreel.me/prod/freelivesports/logo/3a544454-5beb-49db-87fe-898abd8a4811
