@@ -58,7 +58,7 @@ lifestyle-rakuten-tv,Estilo y Vida,https://images-3.rakuten.tv/storage/global-li
 gipsy-kings-rakuten-tv,Los Gipsy Kings,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5cc63b2b-870e-46fd-889b-ae81f798c9d7.jpeg
 fashion-tv,Fashion TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg
 the-design-network-new,The Design Network,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0d7ac09c-6941-41cd-9351-ff6f73a81ed6.jpeg
-1-1-travel,1+1 Travel,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7a3e2bbb-6f32-4800-84e6-5f880f67103d.png
+1-1-travel,1+1 Travel,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/67849c11-43a6-4ba2-b4e0-ba3d173a03cb.png
 travelxp-es,Travelxp,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg
 vivir-con-gatos,Vivir con gatos,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg
 vivir-con-perros,Vivir con perros,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0084e46d-1059-410d-89cf-e9526ca5138f.jpeg
