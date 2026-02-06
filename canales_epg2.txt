@@ -170,7 +170,6 @@ Satén TV | Promo,Satén TV | Promo,https://media.tvup.cloud/canales/color_lg_67
 Canal 24 horas,Canal 24 horas,https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1768217632330.png
 Negocios TV,Negocios TV,https://media.tvup.cloud/canales/color_lg_60dab53deb84d1001aa69c13.png
 3CatInfo,3CatInfo,https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094_1758096590448.png
-El País,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
 El Toro TV,El Toro TV,https://media.tvup.cloud/canales/color_lg_5f9be2ba52dc8c007fc95d13.png
 El Confidencial (dial 205),El Confidencial (dial 205),https://media.tvup.cloud/canales/color_lg_6450e3d6975f53a85eb36e2e.png
 Canal Parlamento,Canal Parlamento,https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png
