@@ -170,6 +170,7 @@ Satén TV | Promo,Satén TV | Promo,https://media.tvup.cloud/canales/color_lg_67
 Canal 24 horas,Canal 24 horas,https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1768217632330.png
 Negocios TV,Negocios TV,https://media.tvup.cloud/canales/color_lg_60dab53deb84d1001aa69c13.png
 3CatInfo,3CatInfo,https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094_1758096590448.png
+El País,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
 El Toro TV,El Toro TV,https://media.tvup.cloud/canales/color_lg_5f9be2ba52dc8c007fc95d13.png
 El Confidencial (dial 205),El Confidencial (dial 205),https://media.tvup.cloud/canales/color_lg_6450e3d6975f53a85eb36e2e.png
 Canal Parlamento,Canal Parlamento,https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png
@@ -225,7 +226,7 @@ CLICKRADIOTV,CLICKRADIOTV,https://media.tvup.cloud/canales/color_lg_69396ba549c4
 Televisió L'Hospitalet,Televisió L'Hospitalet,https://media.tvup.cloud/canales/color_lg_5ffff9413f2376002503bb2c.png
 BDN Televisió,BDN Televisió,https://media.tvup.cloud/canales/color_lg_6007eebf9ee9270031e56568.png
 Vallès Visió,Vallès Visió,https://media.tvup.cloud/canales/color_lg_6048fa49f585750031e19839.png
-Canal Málaga,Canal Málaga,https://media.tvup.cloud/canales/5c6d7b39a1759118f5209679logoColor.png
+Canal Málaga,Canal Málaga,https://media.tvup.cloud/canales/color_lg_5c6d7b39a1759118f5209679_1770304520641.png
 Telegranada,Telegranada,https://media.tvup.cloud/canales/color_lg_67fe47b34f9cb1be714d6adc_1744717748635.png
 Fibwi TV Autonómica,Fibwi TV Autonómica,https://media.tvup.cloud/canales/color_lg_5bb5d815968944004b1fb4fd.png
 Canal 4 Tenerife,Canal 4 Tenerife,https://media.tvup.cloud/canales/color_lg_69451e57e698a88c0b0bb6e1_1767024708556.png
@@ -241,7 +242,6 @@ Canal San Roque,Canal San Roque,https://media.tvup.cloud/canales/color_lg_615bf8
 Estepona TV,Estepona TV,https://media.tvup.cloud/canales/color_lg_615c5924f6e98a001d68f893.jpg
 9 La Loma TV,9 La Loma TV,https://media.tvup.cloud/canales/color_lg_615c5aa3f6e98a001d68fb14.png
 TVM Córdoba,TVM Córdoba,https://media.tvup.cloud/canales/color_lg_616835e5f83e8a001af668d4.png
-Canal 9 Soria,Canal 9 Soria,https://media.tvup.cloud/canales/color_lg_6914b8d9b2dff90fb6eaf5a3_1767024584962.png
 Distrito TV,Distrito TV,https://media.tvup.cloud/canales/color_lg_618ba3a774c6880023a7ea82.png
 Déjate de Historias,Déjate de Historias,https://media.tvup.cloud/canales/color_lg_68dbad0fb99dbf0299283651_1760096916790.png
 50TV,50TV,https://media.tvup.cloud/canales/color_lg_64071465501362001b232195.png
