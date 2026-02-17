@@ -19,7 +19,7 @@ alarm-for-cobra-rakuten-tv,Alerta Cobra - Brigada especial de carreteras,https:/
 aguila-roja-rakuten-tv,Águila Roja,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0f724508-ed27-486a-849c-b3c6e9a05e00.jpeg
 filmrise-sci-fi-es,FilmRise Sci-Fi,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/277ead19-5335-42c8-8c64-31bda5696bb9.jpeg
 stormcast-novelas-spa,Stormcast Novelas,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/15ffb483-6ae2-46f1-9d08-a6e3a8445ee9.jpeg
-bbc-drama-es,BBC Drama,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b7955dd9-07e0-48b2-baf8-bbbee37cd2eb-bbc-drama-1639673931.jpeg
+bbc-series-es,BBC Series,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ac6b11e-3ef5-48d7-a7b8-2639183af3ab.jpeg
 beyblade-es,Beyblade,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/dac38e6b-007a-4c8f-88e2-198b4cef2035.jpeg
 rakuten-viki-es,Rakuten VIKI,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg
 vive-kanal-d-drama,Vive Kanal D Drama,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf0c7e3e-b46f-4f81-8d31-f096fba8d761.png
@@ -78,12 +78,12 @@ stingray-hit-list,Stingray: Hitlist,https://images-2.rakuten.tv/storage/global-l
 stingray-remember-the-80-s,Stingray: Remember the 80’s,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/32a49d06-f203-4b4a-829c-4d1f66bf6a03.jpeg
 qello-concerts-by-stingray,Qello Concerts by Stingray,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg
 deluxe-lounge-hd,Deluxe Lounge HD,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/864f2b27-4702-4308-850c-f7a1c73d4298.jpeg
-now-70s,NOW 70s,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e60f4df9-a0e1-4d45-9b3c-ee619812b2bc.jpeg
-now-80s,NOW 80s,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg
-now-rock,NOW Rock,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e92f17dc-61c7-4249-9d1c-8013899220af.jpeg
+that-s-70s,That's 70s,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/21ddd31b-ff64-4afe-aaca-0eb13b1a7cff.jpeg
+now-80s,That's 80s,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d1bd1f06-f3a0-47ec-abac-62342ff42fdb.jpeg
+that-s-rock,That's ROCK,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e8d66036-f48b-417d-961d-45b7bf5ca5c7.jpeg
 vevo-latino-es,Vevo Latino,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/acffba3b-1779-48a8-bf69-de8f2cdf69c2.jpeg
 vevo-pop-es,Vevo Pop,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f796c006-b189-4b90-b8ff-6a42cf6d4bd7.jpeg
-now-90s00s,NOW 90s00s,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/798cc3b5-1f31-4bee-97d2-39a6555d7b07.jpeg
+that-s-90s00s,That's 90s00s,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/4f51ac5c-a9ee-43ef-b44e-4eba377df3b2.jpeg
 family-rakuten-tv,En Familia,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8aea0628-6592-4363-9ccc-7adcce81b116.jpeg
 rantaro-ninja-boy-rakuten-tv,Rantaró, el ninja boy,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c03fa5a5-dd8d-4e53-ba59-352993c4e6fb.jpeg
 baby-shark-tv,Baby Shark TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a037e33c-a084-4a63-b433-b227d0bc2c59.jpeg
