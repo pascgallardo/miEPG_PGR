@@ -69,7 +69,6 @@ Runtime Romance (dial 56),Runtime Romance (dial 56),https://media.tvup.cloud/can
 Runtime Clásicos,Runtime Clásicos,https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png
 Runtime Familia,Runtime Familia,https://media.tvup.cloud/canales/color_lg_642297c5fe71e4001bd0970d_1767862705619.png
 Planeta de Cine,Planeta de Cine,https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png
-Film&amp;Co,Film&amp;Co,https://media.tvup.cloud/canales/color_lg_628cdee165774400228d971f.png
 Cine Friki,Cine Friki,https://media.tvup.cloud/canales/color_lg_641098c475965f001c37812a.png
 Cine Western,Cine Western,https://media.tvup.cloud/canales/color_lg_65b7d1de3003cf8efe6fc754.png
 Todo Pasión (dial 63),Todo Pasión (dial 63),https://media.tvup.cloud/canales/color_lg_692d6cfe82708370790bf99d_1764584702914.png
@@ -145,6 +144,7 @@ Toon Goggles EN,Toon Goggles EN,https://media.tvup.cloud/canales/color_lg_623b5f
 Gross Out TV,Gross Out TV,https://media.tvup.cloud/canales/color_lg_6294ce5effcafa001a293c8f.png
 Mezzo,Mezzo,https://media.tvup.cloud/canales/color_lg_5e442b7a852d67006ca7e8c6.png
 Mezzo Live,Mezzo Live,https://media.tvup.cloud/canales/color_lg_5e442cfa3eb7c200593cd2c9.png
+Stingray Classica,Stingray Classica,https://media.tvup.cloud/canales/color_lg_698306c8497ec26c754c85f9_1770898604967.png
 Clips Don't Lie,Clips Don't Lie,https://media.tvup.cloud/canales/color_lg_683ef0750f3cea6ce5be7721_1756996692168.png
 SOL Música,SOL Música,https://media.tvup.cloud/canales/color_lg_653ba0f052f985e26c4180b1.png
 Qello Concerts,Qello Concerts,https://media.tvup.cloud/canales/color_lg_628b2d6a76d04a001a52833f.png
@@ -152,9 +152,9 @@ Trace Urban,Trace Urban,https://media.tvup.cloud/canales/color_lg_6458ca8827684c
 Trace Latina,Trace Latina,https://media.tvup.cloud/canales/color_lg_6458cbea462b2c4901272564.png
 Trace Brasil,Trace Brasil,https://media.tvup.cloud/canales/color_lg_6458ccb08535b3af28328edf.png
 ZUT TV,ZUT TV,https://media.tvup.cloud/canales/color_lg_659e8d1d33a4d3a2376bd1cc.png
-NOW Rock,NOW Rock,https://media.tvup.cloud/canales/color_lg_654b5f2e77b3a0f30b1c97e3.png
-NOW 70's,NOW 70's,https://media.tvup.cloud/canales/color_lg_654b5e18c4c1cd948e73d382.png
-NOW 80's,NOW 80's,https://media.tvup.cloud/canales/color_lg_654b5eb7088090b763a00be2.png
+that's ROCK,that's ROCK,https://media.tvup.cloud/canales/color_lg_654b5f2e77b3a0f30b1c97e3_1771317203255.png
+that's 70s,that's 70s,https://media.tvup.cloud/canales/color_lg_654b5e18c4c1cd948e73d382_1771316325091.png
+that's 80s,that's 80s,https://media.tvup.cloud/canales/color_lg_654b5eb7088090b763a00be2_1771316710232.png
 Qwest TV,Qwest TV,https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d551fab_1739965973280.png
 Flamenco Auditorio,Flamenco Auditorio,https://media.tvup.cloud/canales/color_lg_65a6abfa553a99a65f47dd78.png
 Movie Music,Movie Music,https://media.tvup.cloud/canales/color_lg_679393fd97c8c3631a9e13bb_1741083590706.png
