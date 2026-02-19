@@ -69,6 +69,7 @@ Runtime Romance (dial 56),Runtime Romance (dial 56),https://media.tvup.cloud/can
 Runtime Clásicos,Runtime Clásicos,https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png
 Runtime Familia,Runtime Familia,https://media.tvup.cloud/canales/color_lg_642297c5fe71e4001bd0970d_1767862705619.png
 Planeta de Cine,Planeta de Cine,https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png
+Film&amp;Co,Film&amp;Co,https://media.tvup.cloud/canales/color_lg_628cdee165774400228d971f.png
 Cine Friki,Cine Friki,https://media.tvup.cloud/canales/color_lg_641098c475965f001c37812a.png
 Cine Western,Cine Western,https://media.tvup.cloud/canales/color_lg_65b7d1de3003cf8efe6fc754.png
 Todo Pasión (dial 63),Todo Pasión (dial 63),https://media.tvup.cloud/canales/color_lg_692d6cfe82708370790bf99d_1764584702914.png
