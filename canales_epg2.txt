@@ -218,6 +218,7 @@ CMM Global,CMM Global,https://media.tvup.cloud/canales/color_lg_5eea195817824600
 Betevé,Betevé,https://media.tvup.cloud/canales/color_lg_5cdc1465d1a7460050d8af0a.png
 La 8 Mediterráneo,La 8 Mediterráneo,https://media.tvup.cloud/canales/color_lg_60d9efa9593c07001c560ac7.png
 7TV Andalucía,7TV Andalucía,https://media.tvup.cloud/canales/color_lg_60d9f0a21627ac0021b5163a.png
+Almería 24h TV,Almería 24h TV,https://media.tvup.cloud/canales/color_lg_698def4dc22523263e940c36_1771498988873.png
 VOTV,VOTV,https://media.tvup.cloud/canales/5b042f54b63af22346518c50logoColor.png
 TV Ripollès,TV Ripollès,https://media.tvup.cloud/canales/color_lg_5cfa47f9e1553f0057b85fd6.png
 TeleVigo,TeleVigo,https://media.tvup.cloud/canales/color_lg_6915b9aa884f6dff8a65fc68_1765814597577.png
@@ -231,22 +232,24 @@ Canal Málaga,Canal Málaga,https://media.tvup.cloud/canales/color_lg_5c6d7b39a1
 Telegranada,Telegranada,https://media.tvup.cloud/canales/color_lg_67fe47b34f9cb1be714d6adc_1744717748635.png
 Fibwi TV Autonómica,Fibwi TV Autonómica,https://media.tvup.cloud/canales/color_lg_5bb5d815968944004b1fb4fd.png
 Canal 4 Tenerife,Canal 4 Tenerife,https://media.tvup.cloud/canales/color_lg_69451e57e698a88c0b0bb6e1_1767024708556.png
-Onda15 TV,Onda15 TV,https://media.tvup.cloud/canales/color_lg_63c679168dcf980022d96090.png
+AhoraTV,AhoraTV,https://media.tvup.cloud/canales/color_lg_6967ab2361ba8dd3746d3efd_1771499255018.png
 Telemedina,Telemedina,https://media.tvup.cloud/canales/color_lg_698e0b9bc22523263e941f04_1770976665373.png
-Canal Sierra de Cádiz,Canal Sierra de Cádiz,https://media.tvup.cloud/canales/color_lg_613af2893a662c001b8d0c4d.png
+ImasTV,ImasTV,https://media.tvup.cloud/canales/color_lg_6915b90db2dff90fb6eb1efd_1771498615972.png
 Mijas 3.40 TV,Mijas 3.40 TV,https://media.tvup.cloud/canales/color_lg_613af4457038bc00229ea1a7.png
 Alcarria TV,Alcarria TV,https://media.tvup.cloud/canales/color_lg_63230482971329001b97dce5.png
 Teleonuba,Teleonuba,https://media.tvup.cloud/canales/color_lg_6149ee545cbd910021b08676.png
 Condavisión,Condavisión,https://media.tvup.cloud/canales/color_lg_614a0ce6d4d1c4001a4b051f.png
+Guada TV,Guada TV,https://media.tvup.cloud/canales/color_lg_698df1cdc22523263e940e07_1771498779991.png
 Canal 4 Televisió,Canal 4 Televisió,https://media.tvup.cloud/canales/color_lg_5ee9ef4068808e0075a18ea0.png
 Onda Algeciras,Onda Algeciras,https://media.tvup.cloud/canales/color_lg_615bf5b52d185400263f4fa1.png
 Canal San Roque,Canal San Roque,https://media.tvup.cloud/canales/color_lg_615bf89a2d185400263f544e.png
 Estepona TV,Estepona TV,https://media.tvup.cloud/canales/color_lg_615c5924f6e98a001d68f893.jpg
 9 La Loma TV,9 La Loma TV,https://media.tvup.cloud/canales/color_lg_615c5aa3f6e98a001d68fb14.png
 TVM Córdoba,TVM Córdoba,https://media.tvup.cloud/canales/color_lg_616835e5f83e8a001af668d4.png
+Telemiño,Telemiño,https://media.tvup.cloud/canales/color_lg_698e0c08c22523263e941f45_1771498301451.png
 Distrito TV,Distrito TV,https://media.tvup.cloud/canales/color_lg_618ba3a774c6880023a7ea82.png
 Déjate de Historias,Déjate de Historias,https://media.tvup.cloud/canales/color_lg_68dbad0fb99dbf0299283651_1760096916790.png
-50TV,50TV,https://media.tvup.cloud/canales/color_lg_64071465501362001b232195.png
+Televisió d'Eivissa i Formentera,Televisió d'Eivissa i Formentera,https://media.tvup.cloud/canales/color_lg_698e0d24c22523263e941fc8_1771498035642.png
 TAC 12,TAC 12,https://media.tvup.cloud/canales/color_lg_618bac9b0cf6f10021217b45.png
 Afortunadas TV,Afortunadas TV,https://media.tvup.cloud/canales/color_lg_6390883685f6a400200dd4f9.png
 Durangaldeko Telebista,Durangaldeko Telebista,https://media.tvup.cloud/canales/color_lg_63d11c83cdcc0f0023cc5db7.png
