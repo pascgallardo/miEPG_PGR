@@ -46,7 +46,7 @@
 63eb95baa99571000898a078,MacGyver,https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png
 677d93afe650a700081e5f18,Popeye,https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png
 68a3a97fd8f7693ae3f8575f,Los Pitufos,https://images.pluto.tv/channels/68a3a97fd8f7693ae3f8575f/colorLogoPNG_1760386874134.png
-5dcde0cc2efd2700090b7ff4,Pluto TV Novelas,https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png
+5dcde0cc2efd2700090b7ff4,Pluto TV Novelas,https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1771613462863.png
 686eed4c677f2f98b4a1ccd4,Pluto TV Novelas de Otros Continentes,https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png
 5ddc503ac7ef120009b101a2,Pluto TV Documentales,https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png
 6474a7958e3c0a0008b97cae,Pluto TV Novelas de México,https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png
