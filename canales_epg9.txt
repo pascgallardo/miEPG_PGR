@@ -60,6 +60,7 @@ fashion-tv,Fashion TV,https://images-3.rakuten.tv/storage/global-live-channel/tr
 the-design-network-new,The Design Network,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0d7ac09c-6941-41cd-9351-ff6f73a81ed6.jpeg
 1-1-travel,1+1 Travel,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/67849c11-43a6-4ba2-b4e0-ba3d173a03cb.png
 travelxp-es,Travelxp,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg
+med-tv,Med.TV,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ab7a2d2a-67cc-4e80-848b-ec163019bae3.jpeg
 vivir-con-gatos,Vivir con gatos,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg
 vivir-con-perros,Vivir con perros,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0084e46d-1059-410d-89cf-e9526ca5138f.jpeg
 stingray-naturescape,Stingray Naturescape,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7791905f-9f8d-45ca-8ddd-a808cab7eb24.jpeg
