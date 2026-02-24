@@ -113,7 +113,6 @@
 5dcde07af1c85b0009b18651,Pluto TV Deportes,https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png
 65cf60d166eec80008724e6f,Azteca Deportes Premium,https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png
 6320d2755e54db000783fd87,Claro Sports Mexico,https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG_1770389965710.png
-6974098df88c3f90fe19cabf,Claro Sports 2,https://images.pluto.tv/channels/6974098df88c3f90fe19cabf/colorLogoPNG_1769803743284.png
 63f7e3f9dff38e00082a57af,ITV Deportes,https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png
 5e98b0447665f200078caded,Pluto TV Peleas,https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png
 5f99a772c54853000797bf18,Lucha Libre AAA,https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png
