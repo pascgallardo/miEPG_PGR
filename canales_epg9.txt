@@ -44,6 +44,7 @@ fifa-plus-es-new,FIFA+,https://images-0.rakuten.tv/storage/global-live-channel/t
 mypadel-tv,MyPadel TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/1de5d983-6666-4d47-8f02-b7a898f2ebc3.png
 laliga-inside,LaLiga Inside,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg
 inter-24-7-eng,INTER 24/7,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3519342e-d891-46ef-923e-27b698550a13.jpeg
+rally-tv-fast,Rally.TV FAST+,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ae3344c-16ea-4c6d-8c5d-37aceec4b8f7.jpeg
 fuel-tv-new,FUEL TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/d7755b9a-5d95-4d1c-8615-d061c709ea2d.jpeg
 billiards-tv,World Billiards TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe.png
 hard-knocks-fighting-championship,Hard Knocks Fighting Championship,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398.jpeg
@@ -101,6 +102,7 @@ todo-crimen,Todo Crimen,https://images-3.rakuten.tv/storage/global-live-channel/
 a-haunting-spa,Historias de ultratumba,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e70ee1d0-6aee-4c0b-97b3-f797acf6d6be.jpeg
 crimenes-reales,Crímenes Reales,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ff4a2f43-f916-4e28-b349-632744ad68f2.jpeg
 aftershock-meo-lc,Aftershock Mi Extraña Obsesión/Loca Compulsión,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a39db06d-1e23-476a-8eda-ee9460c31ef7.jpeg
+royalworld-es,Royalworld - Nobleza y dinastías,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/706db597-244a-4939-9453-ea7b0c543d70.jpeg
 naturaleza,Naturaleza,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7f26f4ea-f964-4d23-a365-dbbd55108e26.jpeg
 weather-spy-new,Weather Spy,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg
 nature-time-es,Nature Time,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140fe96a-bda7-4ea2-b1ba-798224c28f46.jpeg
