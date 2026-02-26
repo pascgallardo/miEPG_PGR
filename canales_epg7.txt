@@ -73,6 +73,7 @@
 632c6df43d2bc5000751f621,Inazuma Eleven,https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png
 608035b8d8705f0007260287,Pluto TV Anime,https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png
 63eb96754e83e70008ab8941,Yu-Gi-Oh!,https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png
+61373c865ed5810007173fbc,Avatar,https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png
 680ba8992472a7200a183eb5,One Piece,https://images.pluto.tv/channels/680ba8992472a7200a183eb5/colorLogoPNG_1748955630923.png
 628751bb7154a40007168843,South Park,https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png
 68de3db35fc0afe85de0b843,Comedia a lo bestia de Pluto TV,https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png
@@ -106,7 +107,6 @@
 68d27949793c71d988ca624c,Los Pitufos,https://images.pluto.tv/channels/68d27949793c71d988ca624c/colorLogoPNG_1760370849099.png
 63c69c87808b740007599fe1,Érase una vez...,https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png
 68779a09c691b3f0964127c6,Heidi,https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png
-61373c865ed5810007173fbc,Avatar,https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png
 61373f1a12dd9f00077dcd6f,Las Tortugas Ninja,https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png
 6880aa28164eb4890282e803,Pluto TV Toons,https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png
 5f1aab1d29b39600073e243f,Pluto TV Kids,https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png
