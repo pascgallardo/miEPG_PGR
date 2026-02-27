@@ -87,6 +87,7 @@
 673b785252254eb082e18520,The Boat Show,https://media.unreel.me/prod/freelivesports/logo/3153e0bf-1b87-470c-8959-b07a6676c152
 6838daeb7711e8dcf95d34c8,American Stories Network,https://media.unreel.me/prod/freelivesports/logo/6bfb0b89-48e5-46fe-b4b3-ec6fef24e1fc
 6717da0636dc92fb49346e64,Greatest Sports Legends &amp; Laughs,https://media.unreel.me/prod/freelivesports/logo/23e783cc-61c9-4cc4-b30f-bd7203fa4f62
+68114951dc7bfd176ab1044f,GINX TV,https://media.unreel.me/prod/freelivesports/logo/ba4bf3ca-a9ec-47dd-a089-5c68e7bb4d54
 68a3913636cf1d83afe35072,eClutch Access,https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f
 672a67138e0fe64b11195701,Escape TV,https://media.unreel.me/prod/freelivesports/logo/5dd7d490-69f5-4e11-b524-34a02662348c
 670800411a95445e2203071e,Documentary+,https://media.unreel.me/prod/freelivesports/logo/9f6d504c-b4d1-433a-8bb0-a7b7c8142be9
