@@ -65,11 +65,11 @@
 620fd9f4afb9a80007a9c6d5,MTV Teen Mom,https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png
 625461ef01f27a0007976ad1,MTV Catfish,https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png
 5dd6d935d000120009bc1132,Pluto TV  Competencias,https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png
-6647c02422494d000804b13a,Sony One Shark Tank México,https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG.png
+6647c02422494d000804b13a,Sony One Shark Tank México,https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png
 5e3ddbd27091820009f86dd9,MasterChef,https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1762358606733.png
 6095ad97351eb0000754c1e6,Hells Kitchen,https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png
 5e46e64dc73db400094b5f0b,Minuto Para Ganar,https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png
-662bf39756fc840008f25cb9,Sony One Competencias,https://images.pluto.tv/channels/662bf39756fc840008f25cb9/logo7_2-20250116184319.png
+662bf39756fc840008f25cb9,Sony One Escape Perfecto,https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png
 5ed6828192e8b3000743ef61,Wipe Out,https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png
 6495af324c014a000842e923,Desafío Super Humanos,https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png
 68b784d03e17b7676a0378f7,Shockwave,https://images.pluto.tv/channels/68b784d03e17b7676a0378f7/colorLogoPNG_1760108955019.png
@@ -118,7 +118,7 @@
 5f99a772c54853000797bf18,Lucha Libre AAA,https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png
 64df7a9a44fe100009b6ac5a,DAZN Combat,https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png
 64f6163a30ab3300083d870e,PFL MMA,https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png
-67a52cd4ec91870008a62164,UFC,https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG.png
+67a52cd4ec91870008a62164,UFC,https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png
 66997d18a1b69e00082ee85f,FIFA+,https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png
 67813f893886aa863497733d,Red Bull TV,https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png
 65df731cec9fda0008b7aa8d,South Park: Colección Cartman,https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png
