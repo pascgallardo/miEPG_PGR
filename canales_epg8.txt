@@ -54,6 +54,7 @@
 604bdf4e6d0abc0007ba77ad,Sin Tetas No Hay Paraíso,https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png
 63211ba9cad976000794f988,La Selección,https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png
 6474a86917f5e100089a0c1c,Pluto TV Novelas de Venezuela,https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png
+698a45156dc3c71eb1ba6599,Pluto TV Amor y Mentiras,https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/colorLogoPNG_1771861302998.png
 5dcde197f6591d0009839e04,Pluto TV Reality,https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png
 64510d3ad3fdde00080951f2,MTV Drag,https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png
 5fab088b3279760007d4e4fd,MTV Pluto TV,https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png
@@ -101,6 +102,7 @@
 680bdaf54d7cf165c705f91e,Zona Investigación TV,https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1749054649625.png
 5e67d41b93312100076f3fca,Los archivos del FBI,https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png
 5efb8c19b2678b000780d032,Archivos Forenses,https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png
+697c9bc2a7ce9d5a3d83504a,Dr. G,https://images.pluto.tv/channels/697c9bc2a7ce9d5a3d83504a/colorLogoPNG_1771861519995.png
 5ea71d48af1d0b0007d837f4,The New Detectives,https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png
 5f610042272f68000867685b,Misterios sin Resolver,https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png
 62310d5a5dc9550007c6f580,CBS News,https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1732045727243.png
