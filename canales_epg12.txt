@@ -98,4 +98,3 @@
 6938bc88a8faca8cb429f969,Joel Osteen network,https://media.unreel.me/prod/freelivesports/logo/3db2d826-c03e-4b59-90c5-3ffc7b98b23b
 6943e94c4a975d542ea0d676,Top Barca en Espanyol,https://media.unreel.me/prod/freelivesports/logo/ba995e95-3461-4ecd-a748-4fcc13b349f5
 695d80af6bc7cedaa26a0bcb,POWERtube TV,https://media.unreel.me/prod/freelivesports/logo/b81ff3ab-bd75-4ad0-850c-e61bd19be1e0
-69a5de3c44f96c50c0a58d9a,Pickleball TV,https://media.unreel.me/prod/freelivesports/logo/96f8256e-2f78-4f14-b12a-747d14e7b06a
