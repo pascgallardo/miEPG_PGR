@@ -3,7 +3,6 @@ https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/tiviepg
 https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz
-https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml.gz
 https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
 https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz
 https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz
