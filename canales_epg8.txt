@@ -1,190 +1,176 @@
-# Fuente: https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/mx.xml.gz
-5dcde437229eff00091b6c30,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1769014514491.png
-5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción,https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png
-5e972a21ad709d00074195ba,Estrellas de Acción,https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png
-61b793ccf571b80007b7a610,Adrenalina Pura TV,https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png
-5dcdde78f080d900098550e4,Pluto TV Cine Comedia,https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG_1762281945243.png
-5dcddfcb229eff00091b6bdf,Pluto TV Cine Drama,https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG_1765466087404.png
-5dd7ea2aeab5230009986735,Pluto TV Cine Romance,https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png
-5ddc4e8bcbb9010009b4e84f,Pluto TV Cine Suspenso,https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png
-624af40c004f8000079b784d,Pluto TV Cine Crimen,https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png
-5dcddf1ed95e740009fef7ab,Pluto TV Cine Terror,https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG_1730472485648.png
-6838a98df9bd067a38d1b8f7,Pluto TV Criaturas Malditas,https://images.pluto.tv/channels/6838a98df9bd067a38d1b8f7/colorLogoPNG_1752518925358.png
-5f2817d3d7573a00080f9175,Pluto TV Sci-Fi,https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png
-62c5d80dc6de440007e033eb,Runtime,https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png
-5defde6d6c07b50009cf0757,Pluto TV  Nuestro Cine,https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png
-6806d519fea7414f33f57016,Pluto TV Cine Inspirador,https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png
-5dfcde52d28b09000a42d7a2,Pluto TV A La Mexicana,https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png
-609059dc63be6e0007b4eca6,Pluto TV Cine Clásico,https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png
-5dd6ddb30a1d8a000908ed4c,Pluto TV Cine Familia,https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1762273018940.png
-655f62ff954b020008c91ec6,Pluto TV Series de Crimen,https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png
-63eb9255c111bc0008fe6ec4,CSI: Miami,https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png
-63eb947c4e83e70008ab877b,NCIS,https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png
-6764203df433320008836bc6,Los Asesinatos de Midsomer,https://images.pluto.tv/channels/6764203df433320008836bc6/colorLogoPNG.png
-67f960680072d6b187a0682e,Números,https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG_1747415112008.png
-6479ff1c17f5e10008ad2797,Pluto TV Series de Acción,https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png
-64ff270f30ab3300084e259c,Rookie Blue: Policías Novatos,https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png
-678aa0b3680721c77c5035dd,The Walking Dead by AMC,https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png
-5ec5761aabe4690007f6e047,Pluto TV Star Trek,https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png
-65662f8a2c46f300088a84cc,Pluto TV Series de Sci-Fi,https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png
-67e598e28b99330f75b4c629,Andromeda,https://images.pluto.tv/channels/67e598e28b99330f75b4c629/colorLogoPNG_1745592400066.png
-66b3af1c3a4ad200081c7d03,Z Nation,https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png
-67e5941f0812459cb682d9c6,Relic Hunter,https://images.pluto.tv/channels/67e5941f0812459cb682d9c6/colorLogoPNG_1745511571298.png
-5dcde1317578340009b751d0,Pluto TV Series,https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png
-655f626d57fe4a00085c7c3e,Pluto TV Series de Comedia,https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png
-655f636d954b020008c93299,Pluto TV Series de Drama,https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png
-67e5987eef24f48ffca08fd7,Doc Martin,https://images.pluto.tv/channels/67e5987eef24f48ffca08fd7/colorLogoPNG_1745592891380.png
-6806d570c178637410ae4962,Pluto TV Series de Otros Continentes,https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1765466496602.png
-6185a9a88b2ce30007de5128,Pluto TV Dramas Coreanos,https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png
-6661d5424b10960008599fa3,Pluto TV Dramas Coreanos Teen,https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png
-639751f81a36b400072b8f5a,Vive Kanal D Drama,https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png
-5dd837642c6e9300098ad484,Pluto TV Series Latinas,https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png
-5de802659167b10009e7deba,Pluto TV Series Retro,https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png
-67f95fa76b11614ab0caaef3,Hechiceras,https://images.pluto.tv/channels/67f95fa76b11614ab0caaef3/colorLogoPNG_1747414259619.png
-631fb6be21b7440007b9f606,Hechizada,https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png
-68ffc086a530e036bc8f0305,Mi Bella Genio,https://images.pluto.tv/channels/68ffc086a530e036bc8f0305/colorLogoPNG_1762795921468.png
-63eb95baa99571000898a078,MacGyver,https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png
-677d93afe650a700081e5f18,Popeye,https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png
-68a3a97fd8f7693ae3f8575f,Los Pitufos,https://images.pluto.tv/channels/68a3a97fd8f7693ae3f8575f/colorLogoPNG_1760386874134.png
-5dcde0cc2efd2700090b7ff4,Pluto TV Novelas,https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1771613462863.png
-686eed4c677f2f98b4a1ccd4,Pluto TV Novelas de Otros Continentes,https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png
-5ddc503ac7ef120009b101a2,Pluto TV Documentales,https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png
-6474a7958e3c0a0008b97cae,Pluto TV Novelas de México,https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png
-646ccdd0939a5900088a1980,Corazón,https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png
-604bdf4e6d0abc0007ba77ad,Sin Tetas No Hay Paraíso,https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png
-63211ba9cad976000794f988,La Selección,https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png
-6474a86917f5e100089a0c1c,Pluto TV Novelas de Venezuela,https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png
-698a45156dc3c71eb1ba6599,Pluto TV Amor y Mentiras,https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/colorLogoPNG_1771861302998.png
-5dcde197f6591d0009839e04,Pluto TV Reality,https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png
-64510d3ad3fdde00080951f2,MTV Drag,https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png
-5fab088b3279760007d4e4fd,MTV Pluto TV,https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png
-5de91b7ea86ee60009d89e75,MTV Reality,https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png
-6851b909954170e0128bc71d,MTV Dating,https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1750686878183.png
-61a52615cbef2500072876e2,Acapulco Shore Pluto TV,https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png
-638693db857364000781b471,MTV Con Mi Ex,https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png
-5e98a911c881310007d7aae2,MTV Ridiculousness,https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png
-620fd9f4afb9a80007a9c6d5,MTV Teen Mom,https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png
-625461ef01f27a0007976ad1,MTV Catfish,https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png
-5dd6d935d000120009bc1132,Pluto TV  Competencias,https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png
-6647c02422494d000804b13a,Sony One Shark Tank México,https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png
-5e3ddbd27091820009f86dd9,MasterChef,https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1762358606733.png
-6095ad97351eb0000754c1e6,Hells Kitchen,https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png
-5e46e64dc73db400094b5f0b,Minuto Para Ganar,https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png
-662bf39756fc840008f25cb9,Sony One Escape Perfecto,https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png
-5ed6828192e8b3000743ef61,Wipe Out,https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png
-6495af324c014a000842e923,Desafío Super Humanos,https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png
-68b784d03e17b7676a0378f7,Shockwave,https://images.pluto.tv/channels/68b784d03e17b7676a0378f7/colorLogoPNG_1760108955019.png
-5dd85eac039bba0009e86d1d,Pluto TV Naturaleza,https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png
-66a92375cd0d31000847b219,Monstruos de Rio,https://images.pluto.tv/channels/66a92375cd0d31000847b219/colorLogoPNG.png
-681ba2729624e6275efe0044,NatureTime,https://images.pluto.tv/channels/681ba2729624e6275efe0044/colorLogoPNG_1746817067569.png
-5f4fed840a2764000720d966,Paisajes por Stingray,https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png
-61099f2b40d0640007fc5aa2,El Encantador de Perros,https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png
-5ddc266f80e3550009136843,Pluto TV Aventura,https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png
-62154548a2be360007cb02f0,Ice Pilots,https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png
-5dd6dc7480e3550009133d4a,Pluto TV Velocidad,https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png
-64025592953da40008bf9238,Obsesión por los Autos,https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png
-656e2536fbc15b00084ae29d,Mi Coche Clásico,https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png
-60e5ea9a9bb4200008376f76,Motorvision TV,https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png
-5df265697ec3510009df1ef0,Pluto TV Vida Real,https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG_1732044810230.png
-6419ab7c9189ce000865a469,COPS,https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png
-5f9992c685a2a80007fa414a,Dog el cazarrecompensas,https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png
-5f23102d5e239d00074b092a,Empeños a lo bestia,https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png
-6109ab25b84d6a0007504886,Pluto TV Mi Obsesión Favorita,https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png
-678533155e0e6a000828cd48,Untold Stories of the ER,https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png
-5f230e416b68ff00075b0139,Misterios Medicos,https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png
-63a084934734f30007457b2c,Smithsonian Channel Pluto TV,https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png
-5de5758e1a30dc00094fcd6c,Pluto TV Historia,https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png
-5dcde2f53449c50009b2b4dc,Pluto TV Misterios,https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png
-5f4d3696d938c900072679fd,Historias de Ultratumba,https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png
-645d1abbe1979c0008779d5a,Archivos Extraterrestres,https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png
-5dcde27ffae9520009c0c75a,Pluto TV Investiga,https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png
-6109a9f5531b840007a4a187,Cazador de Homicidas,https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png
-680bdaf54d7cf165c705f91e,Zona Investigación TV,https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1749054649625.png
-5e67d41b93312100076f3fca,Los archivos del FBI,https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png
-5efb8c19b2678b000780d032,Archivos Forenses,https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png
-697c9bc2a7ce9d5a3d83504a,Dr. G,https://images.pluto.tv/channels/697c9bc2a7ce9d5a3d83504a/colorLogoPNG_1771861519995.png
-5ea71d48af1d0b0007d837f4,The New Detectives,https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png
-5f610042272f68000867685b,Misterios sin Resolver,https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png
-62310d5a5dc9550007c6f580,CBS News,https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1732045727243.png
-619d59b7cbef25000728221c,Euronews Español,https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png
-67d9b0ebc290c9499046e88f,RCN Noticias,https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png
-646ccd3681844c000974d6f4,ADN Noticias,https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG_1761233566409.png
-63d2c140c111bc0008cb890b,TeleFórmula,https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png
-652e922db4b047000825f975,Milenio Televisión,https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png
-673f7446030a2c0008231bc3,C4 en Alerta,https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png
-5dcde07af1c85b0009b18651,Pluto TV Deportes,https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png
-65cf60d166eec80008724e6f,Azteca Deportes Premium,https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png
-6320d2755e54db000783fd87,Claro Sports Mexico,https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG_1770389965710.png
-63f7e3f9dff38e00082a57af,ITV Deportes,https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png
-5e98b0447665f200078caded,Pluto TV Peleas,https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png
-5f99a772c54853000797bf18,Lucha Libre AAA,https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png
-64df7a9a44fe100009b6ac5a,DAZN Combat,https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png
-64f6163a30ab3300083d870e,PFL MMA,https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png
-67a52cd4ec91870008a62164,UFC,https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png
-66997d18a1b69e00082ee85f,FIFA+,https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png
-67813f893886aa863497733d,Red Bull TV,https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png
-65df731cec9fda0008b7aa8d,South Park: Colección Cartman,https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png
-65df7272ec9fda0008b7a970,South Park: Colección Kenny,https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png
-65df73520d4561000817c29b,South Park: Colección Kyle,https://images.pluto.tv/channels/65df73520d4561000817c29b/colorLogoPNG.png
-65df72db18036500081a8292,South Park: Colección Stan,https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png
-609ae5cd48d3200007b0a98e,Comedy Central South Park,https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG_1764595225705.png
-62d0895ebe7a970008785244,Daria,https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png
-62d08af527ce19000731eaa0,La Familia del Barrio,https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png
-5e8397936791b30007ebb5a7,Pluto TV Humor,https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png
-5ffcc21a432945000762d06b,Comedy Central Pluto TV,https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1762352083476.png
-5ebaccf1734aaf0007142c86,FailArmy,https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png
-5ebacbcae43a6d000787b88e,The Pet Collective,https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png
-678029c654f43dad4b5c1ec0,Bromas Gags - Just for Laughs,https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png
-6320ddef274b1b0007b2ee88,Revive Gran Hermano,https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG_1762821719974.png
-646ccc7a2858cb0008127367,Azteca UNO -1 hora,https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png
-646cce4d1593940008a33f09,Azteca Internacional,https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png
-64e35aff6b1fdb0008ea8441,Imagen TV+,https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png
-652e91fd6208700008dcaf7b,Canal 6 CdMX,https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG.png
-68224482c5d53e1351aaf2f2,Canal Claro,https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png
-68ba0910e1d03fec7d5c084f,Al Ritmo del Jaripeo,https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/colorLogoPNG_1760471497704.png
-68b88712e777774982269ce9,Tastemade Viajes,https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png
-64fb1f6e6625510008c00848,Homeful,https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png
-68b887c2e77777498226a0de,Tastemade Hogar,https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png
-5dcde0657444a40009cd2422,Pluto TV Estilo de Vida,https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1772217964895.png
-5f998c1fc54853000797bacd,Tastemade,https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png
-6894fc3f66f164e402f4fd14,Dulce by elGourmet,https://images.pluto.tv/channels/6894fc3f66f164e402f4fd14/colorLogoPNG_1756447016242.png
-6894febddbd49c964f3b66c8,Plato del Dia by elGourmet,https://images.pluto.tv/channels/6894febddbd49c964f3b66c8/colorLogoPNG_1756396393218.png
-5dcde17bf6591d0009839e02,Pluto TV Anime,https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png
-5ee92e72fb286e0007285fec,Naruto,https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png
-64c92fea3c3344000869e8a9,Naruto Shippuden,https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png
-656f37f257fe4a000884dfee,Boruto: Naruto Next Generations,https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png
-6870072ca9d5c45c3e9466f1,Pokémon,https://images.pluto.tv/channels/6870072ca9d5c45c3e9466f1/colorLogoPNG_1752173270400.png
-65d916a2f7f0af0008b6540d,Hunter x Hunter,https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png
-626c2ed933a2890007e91422,Death Note,https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png
-66c790f780a0af0008583aa4,JoJo’s Bizarre Adventure,https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png
-5fceaab478f2af00080ff51f,Yu-Gi-Oh,https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png
-64666345f3f5b1000882bfb4,Captain Tsubasa,https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png
-66b26665d512590008c507b7,Inuyasha,https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png
-5ff4b9ccf938f8000779eb99,One Piece,https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png
-5ff608e60e2996000768c366,Tokusato,https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png
-5ff3934600d4c7000733ff49,Pluto TV E-Sports,https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png
-5fab09a8749b1a00077d35d2,Nickelodeon Teen,https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png
-620ff0a01f9e8700076c6f9d,Nickelodeon iCarly,https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png
-5fcea93ffcf94500071c4b2f,Kenan y Kel,https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png
-5ddd7cb2cbb9010009b4fe32,Nick Jr. Club,https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png
-619d5e6a093e7c0007489211,Baby Shark TV,https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png
-5ebac49ce4dc8b00078b23bc,Babyfirst,https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png
-5dcde2ac4bc6c500094ab45b,Pluto TV Junior,https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png
-5f4d3d06fb60d8000781fce8,El Reino Infantil,https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png
-6824cda00101510f9eeaa011,Nickelodeon Clásico,https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG_1750110888810.png
-66c79221b1a34600087e264d,Hey Arnold!,https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png
-6759ee82bd523200083b4f0f,Avatar: La Leyenda de Aang,https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png
-5ea7215005d66d0007e8128a,Rugrats,https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png
-645952687cb4b100084ed52e,Nickelodeon Toons,https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG_1754038340046.png
-6254598f5083f800076d8563,Bob Esponja Pantalones Cuadrados,https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1767826638635.png
-6322099c822bbc00074857db,Los Padrinos Mágicos,https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG_1767810452010.png
-63dd5d7a4e83e700088fbca8,Las Tortugas Ninja,https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG_1768926025035.png
-5dd6dae8ce788b0009eaf77b,Pluto TV Kids,https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png
-6047fabfce6e8e00070bcc9f,MTV Biggest Pop,https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png
-66a11a21a79dea0008aa90ca,MTV Classic,https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png
-66a01b52a4ee27000808ea36,MTV Rocks,https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png
-62b218fc511d4b00070ddc0c,MTV Flow Latino,https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png
-63dac1b78795f300086d5ca6,TikTok Radio en Español,https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png
-6868152657543d1f8be4ece3,Concert Channel,https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png
-5f85ca40eda1b10007b967cd,Conciertos por Stingray,https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png
-5f85cf621d6d2200079f1de0,Karaoke por Stingray,https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png
+# Fuente: https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz
+ES26000068D,Estilo y Vida – Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000068D_20241126T043113SQUARE.png
+ESBC4100001NZ,La 1,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20260224T030732SQUARE.png
+ESBD3000002GP,Canal Sur Andalucía,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3000002GP_20251230T030914SQUARE.png
+ESBC4100002AG,La 2,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100002AG_20260224T030735SQUARE.png
+ES300004C9,Sony One Shark Tank,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20260224T030825SQUARE.png
+ESAJ3800006TT,MTV Cribs,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800006TT_20241106T142236SQUARE.png
+ESAJ380000226,MTV Originals,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ380000226_20241022T050331SQUARE.png
+ES3300004P0,RTVE Saber y Ganar,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300004P0_20250819T033238SQUARE.png
+ES3800002V5,Dhar Mann TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800002V5_20251111T011933SQUARE.png
+ES7000056Z,Yu-Gi-Oh!,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES7000056Z_20250408T021823SQUARE.png
+ES1400001T8,Beyblade,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400001T8_20241106T142204SQUARE.png
+ES300029LP,Anime Visión,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png
+ES3000288I,Anime Visión Classics,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000288I_20250326T013528SQUARE.png
+ES4300001K6,Chicas Guapas TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300001K6_20251125T101421SQUARE.png
+ES26000025M,¡Hola! Play,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png
+ES4100001XD,Mark Rober TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100001XD_20251111T011941SQUARE.png
+ESBC3500002PW,Ideas en 5 Minutos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png
+ES42000022E,Xataka,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES42000022E_20251202T002550SQUARE.png
+ESBD1300004IG,Azteca Internacional,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300004IG_20241022T050448SQUARE.png
+ESBA3300033PL,Encantador de Perros,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300033PL_20241022T050532SQUARE.png
+ESBC4700003RJ,Teen Vee,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700003RJ_20241106T142207SQUARE.png
+ES500002NY,H2O &amp; Friends,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500002NY_20250408T021758SQUARE.png
+ES4700001VS,2M,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4700001VS_20260224T030748SQUARE.png
+ES4300006I4,El Mueble,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300006I4_20251202T002547SQUARE.png
+ES4400002LI,Mi Casa,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400002LI_20260120T031331SQUARE.png
+ES1700003C6,Coreano by CJ ENM,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700003C6_20250826T004843SQUARE.png
+ES2200001SF,Fireplace Vibes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200001SF_20250729T045059SQUARE.png
+ES400002P5,Cuéntame cómo pasó,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20260224T030751SQUARE.png
+ES33000036Q,RTVE La Moderna,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000036Q_20260224T030806SQUARE.png
+ES3300006QL,RTVE La Promesa,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20260224T030712SQUARE.png
+ES500009ZJ,FreeTV Estelar,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500009ZJ_20260224T030757SQUARE.png
+ES500005BP,Águila Roja,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250610T010520SQUARE.png
+ESBD1300003VN,Corazón,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300003VN_20241022T050520SQUARE.png
+ES440000327,Todo Drama,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260120T031340SQUARE.png
+ES2900001DQ,BBC Series,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900001DQ_20251013T053428SQUARE.png
+ESBC1700001QI,Vive Kanal D Drama,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700001QI_20241022T051151SQUARE.png
+ES300002Y6,Sony One Series Thriller,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20260224T030822SQUARE.png
+ES300003D4,Sony One Éxitos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20260224T030832SQUARE.png
+ES300005EL,Sony One The Blacklist,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20260224T030828SQUARE.png
+ES30000145,Sony One Series Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20260224T030818SQUARE.png
+ES2900002JG,Los Gipsy Kings - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900002JG_20250923T011554SQUARE.png
+ES200040YF,Series K DRAMA,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png
+ESBD4100001DU,K-Drama+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20251013T053448SQUARE.png
+ES200041FT,Series K COMEDIA ROMÁNTICA,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png
+ES900001SH,Mr Bean Animated,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png
+ES260000968,Euronews EN DIRECTO,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000968_20250415T021754SQUARE.png
+ESBC4100004J1,24H,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100004J1_20260224T030740SQUARE.png
+ES300034BT,Actualidad 360,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300034BT_20250307T152150SQUARE.png
+ESBD3400001AA,Negocios TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20251013T053501SQUARE.png
+ESBC39000033J,El País,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC39000033J_20241106T142306SQUARE.png
+ESBC1400001L8,El Confidencial,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png
+ESBD190000137,CNN Headlines,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20251209T004301SQUARE.png
+ESBD36000026Z,CNBC,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD36000026Z_20241106T142258SQUARE.png
+ES2300004XW,Al Jazeera,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300004XW_20251118T015346SQUARE.png
+ESBC400003YM,NBC News NOW,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20241106T142315SQUARE.png
+ES34000039I,CNN en Español,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png
+ES3400004SS,Sky News International,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400004SS_20250624T020505SQUARE.png
+ESBD1100001PQ,FRANCE 24 FAST,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1100001PQ_20241106T142311SQUARE.png
+ES1300001QC,DW,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1300001QC_20250902T003627SQUARE.png
+ESBA3300024AJ,Bloomberg TV+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300024AJ_20241106T142255SQUARE.png
+ESBA3300029UG,El Comisario,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300029UG_20241022T051014SQUARE.png
+ESBA3300025WZ,Los Asesinatos de Midsomer,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300025WZ_20241022T050739SQUARE.png
+ES2600001MC,Forensic Files,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600001MC_20250722T005647SQUARE.png
+ES1600004JV,Todo Crimen,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600004JV_20250819T033248SQUARE.png
+ES33000025N,Crimen &amp; Historia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000025N_20250715T004330SQUARE.png
+ESBD3700001S0,DATELINE 24/7,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20241022T051012SQUARE.png
+ES3300001MC,Crimenes Reales,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300001MC_20241210T052636SQUARE.png
+ES2600005G9,Crimen - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600005G9_20241126T043110SQUARE.png
+ES45000012U,Alerta Cobra,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES45000012U_20251202T002544SQUARE.png
+ESBD2600001ME,Tennis Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20250923T011606SQUARE.png
+ES30000091V,MyPadel TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000091V_20241022T050555SQUARE.png
+ES20000065W,Tennis+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES20000065W_20260113T032333SQUARE.png
+ES3800001V1,Red Bull TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3800001V1_20260113T032331SQUARE.png
+ES4300004JP,Rugby Challenge,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4300004JP_20260120T031337SQUARE.png
+ESBC410000577,Teledeporte,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20260224T030743SQUARE.png
+ESBD3600001Q1,La Liga Inside,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3600001Q1_20241022T050545SQUARE.png
+ES3200003OC,DFB Play TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200003OC_20251230T030907SQUARE.png
+ES1100001MT,Top Barça,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1100001MT_20260224T030836SQUARE.png
+ES300031A5,GOL CLASSICS,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300031A5_20260224T025336SQUARE.png
+ESBC2700009B4,FIFA+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700009B4_20251028T011349SQUARE.png
+ESBD3200001EG,Motorvision,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200001EG_20241022T051031SQUARE.png
+ES51000017V,Rally.TV FAST+,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES51000017V_20260120T031334SQUARE.png
+ES3400002PY,Surf Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3400002PY_20250121T012834SQUARE.png
+ESBD2900001P9,World Poker Tour,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2900001P9_20241022T051205SQUARE.png
+ES300032LR,Gaming Central League of Legends,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300032LR_20260224T030801SQUARE.png
+ESBC4100003WE,Clan,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100003WE_20260224T030737SQUARE.png
+ES5000001CS,LooLoo Kids,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES5000001CS_20250218T035957SQUARE.png
+ESBD130000205,Pitufo TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png
+ES17000065P,BABY SHARK TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png
+ES4800002OZ,Caillou,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4800002OZ_20250121T012820SQUARE.png
+ESBC3900004ED,Pocoyó,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3900004ED_20250211T014050SQUARE.png
+ESBC4700001GR,duckTV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700001GR_20241022T050629SQUARE.png
+ES4400005EJ,Cry Babies,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400005EJ_20251209T004308SQUARE.png
+ESBD5100001G0,SuperToons TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png
+ESBD3200002V5,La Abeja Maya,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3200002V5_20250307T152147SQUARE.png
+ES340000152,Video Game Heroes,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES340000152_20250326T013206SQUARE.png
+ESBD2300003S5,Rabbids : La invasion,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20251013T053506SQUARE.png
+ESBA33000324U,Rugrats,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000324U_20241022T050615SQUARE.png
+ESBA33000262Z,Bob Esponja,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA33000262Z_20250307T152119SQUARE.png
+ES2600008NX,Rantaró, El Ninja Boy,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600008NX_20241210T052643SQUARE.png
+ES4400001N3,Las 3 Mellizas,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400001N3_20260120T031327SQUARE.png
+ESAJ38000046O,Pluto TV Kids,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ38000046O_20241022T050405SQUARE.png
+ESBA3300028OE,iCarly,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300028OE_20241022T050631SQUARE.png
+ESBC2700002LO,Grjngo - Películas Del Oeste,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700002LO_20260224T030804SQUARE.png
+ES700004C8,Runtime Familia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES700004C8_20260127T040120SQUARE.png
+ES260001081,En Familia - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260001081_20251230T030900SQUARE.png
+ES33000058B,RTVE Somos Cine,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250729T045042SQUARE.png
+ESBC1700004PX,Trailers,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1700004PX_20250715T004332SQUARE.png
+ESBA2200004G5,MyTime Movie Network,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA2200004G5_20260127T040117SQUARE.png
+ESBC2700011AZ,Cines Verdi TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700011AZ_20241022T050514SQUARE.png
+ESAJ3800001KT,Pluto TV Cine Estelar,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800001KT_20241022T050403SQUARE.png
+ESBC400001QQ,Runtime,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400001QQ_20241022T050617SQUARE.png
+ES2600013H4,Películas Top - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600013H4_20241022T050605SQUARE.png
+ES4200001MR,Moviesphere,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4200001MR_20251209T125859SQUARE.png
+ESBD800004KU,Runtime Romance,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20260224T030809SQUARE.png
+ES2600012C9,Películas Románticas - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600012C9_20241022T050603SQUARE.png
+ES900002ZD,Todo Pasión,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900002ZD_20250422T103210SQUARE.png
+ESBC2700012RP,Cine Feel Good – Verdi TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700012RP_20241022T050510SQUARE.png
+ESBD8000033W,Runtime Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD8000033W_20250722T005652SQUARE.png
+ES260000700,Comedia - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES260000700_20241022T051222SQUARE.png
+ES300007KS,Sony One Hits Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300007KS_20260224T030815SQUARE.png
+ES2300005G7,Cine Western,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2300005G7_20260127T040149SQUARE.png
+ESBC2700003T8,Bigtime - Películas Gratis,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png
+ES2200003DA,Runtime Clásicos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2200003DA_20250916T003539SQUARE.png
+ES500008IU,FreeTV Clásico,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500008IU_20260224T030754SQUARE.png
+ES2800001G7,Planeta de Cine,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800001G7_20250624T022314SQUARE.png
+ES3000008O8,Cine Español - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3000008O8_20241022T050508SQUARE.png
+ES170000433,NEW K-MOVIES,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES170000433_20251013T053454SQUARE.png
+ESBC40000248,Action Movie Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png
+ES500004NO,Sci-Fi - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500004NO_20250408T021816SQUARE.png
+ESBD800001RJ,Cine Friki,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800001RJ_20251111T011927SQUARE.png
+ES4100002WB,Thrillers - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4100002WB_20251125T101442SQUARE.png
+ESBD80000288,Runtime Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD80000288_20251209T004318SQUARE.png
+ES300006QJ,Sony One Hits Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20260224T025339SQUARE.png
+ES2600003UM,Películas de Drama - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600003UM_20241022T050439SQUARE.png
+ES2600004BD,Acción - Rakuten TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600004BD_20241126T043053SQUARE.png
+ESBC2100002LV,Vevo Latino,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20241022T051144SQUARE.png
+ESBD230000289,Vevo Retro,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000289_20250513T005434SQUARE.png
+ESBC2100001IU,Vevo Pop,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20241022T051146SQUARE.png
+ESBA3300042Y6,Trace Latina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20241022T051129SQUARE.png
+ESBA3300043M0,Trace Urban,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20241022T051131SQUARE.png
+ESBD2300004Y7,Sol Música,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20241022T051039SQUARE.png
+ES2500001F9,Cool Summer Channel,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2500001F9_20241023T143110SQUARE.png
+ES32000027M,CLIPS don't lie,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES32000027M_20250729T045050SQUARE.png
+ES1700005ME,NEW KPOP,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1700005ME_20251013T053458SQUARE.png
+ES3900001QG,K-POP by CJ ENM,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3900001QG_20251125T101427SQUARE.png
+ES1000001EF,SMTOWN,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1000001EF_20260224T030812SQUARE.png
+ESBA1500001C4,Deluxe Lounge HD,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1500001C4_20241022T050252SQUARE.png
+ESAJ3800007PC,Pluto TV Cocina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800007PC_20241022T050753SQUARE.png
+ES300033TI,Viajes &amp; Sabores,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300033TI_20250805T005128SQUARE.png
+ESBC27000040I,GoUSA TV,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20250610T010506SQUARE.png
+ES33000079W,RTVE Cocina,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000079W_20260210T035850SQUARE.png
+ES24000028L,Ice Pilots,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES24000028L_20251111T011935SQUARE.png
+ES1600002QL,La Fiebre del Jade,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600002QL_20250923T011551SQUARE.png
+ES2700002YP,Top Gear,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2700002YP_20250805T005824SQUARE.png
+ES2800002MM,Mayday: Catástrofe Aérea,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2800002MM_20251013T053451SQUARE.png
+ES1400002CJ,CURIOSITY Now,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1400002CJ_20250527T014616SQUARE.png
+ES12000024R,Historia y Vida,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES12000024R_20250819T033234SQUARE.png
+ESBD1400003QN,Royalworld - Nobleza y Dinastias,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400003QN_20260210T035856SQUARE.png
+ES3200001F1,BBC Earth,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3200001F1_20260127T040146SQUARE.png
+ESBA22000102A,NatureTime,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA22000102A_20241022T050748SQUARE.png
+ESBA330004121,WildEarth,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA330004121_20241022T051202SQUARE.png
+ES1600003FF,Naturaleza,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600003FF_20250527T014628SQUARE.png
+ESBC4700002TD,Love the Planet,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20250722T005644SQUARE.png
+ESBC170000388,WaterBear,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20241022T051159SQUARE.png
+ESBA140000504,Stormcast Novelas,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20241022T051108SQUARE.png
+ESBC43000013T,Todo Novelas,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20241106T142336SQUARE.png
+ES3600001Y7,Rebelde,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260127T040157SQUARE.png
+ES2900003S3,Piel Salvaje,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2900003S3_20251111T011943SQUARE.png
+ESAJ3800005C5,Comedia Made in Spain,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800005C5_20241022T050710SQUARE.png
+ESAJ3800003LX,MTV Catfish,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ3800003LX_20241022T050742SQUARE.png
+ESBA1400006NP,FailArmy,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20260210T035845SQUARE.png
+ESAJ4500023Y5,People Are Awesome,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20241022T050750SQUARE.png
+ESAJ4500016BH,The Pet Collective,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20241022T050852SQUARE.png
+ESBC2700008SK,Just For Laughs,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20241022T051028SQUARE.png
