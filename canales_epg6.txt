@@ -67,7 +67,6 @@ stingray-naturescape,Stingray Naturescape,https://images-1.rakuten.tv/storage/gl
 hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1,¡HOLA! Play,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b7fa7e1a-c47f-4d90-98e7-7c64c77dbbdb.png
 daystar-spa,Daystar Español,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/129d0817-c05d-447f-85ba-acac21db4307.jpeg
 daystar-eng,Daystar TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/efe4aad6-6114-4535-adab-44ac9d552fcc.jpeg
-tastemade-sp,Tastemade,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/be766dfd-b8cd-4ab5-b3c3-8ac719b81e9c-tastemade-1640938879.jpeg
 gusto-tv-new,Gusto TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg
 a-bocados,A bocados,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bc94df36-c17c-4496-a6f1-39bd133ddc49.jpeg
 metal-rocks,Metal.Rocks,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3.jpeg
