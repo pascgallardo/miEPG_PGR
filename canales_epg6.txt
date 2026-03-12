@@ -1,119 +1,145 @@
-# Fuente: https://helmerluzo.github.io/RakutenTV_HL/epg/RakutenTV.xml.gz
-top-movies-rakuten-tv,Pelis Top,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg
-action-rakuten-tv,Películas de Acción,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg
-comedy-rakuten-tv,Comedia,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg
-drama-rakuten-tv,Películas de Drama,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/400caa96-4298-41ae-92a4-8a2406fc81c8.jpeg
-romance-rakuten-tv,Películas Románticas,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ec9d1d83-74cc-443d-b2ec-b51b970fe831.jpeg
-spanish-cinema-rakuten-tv,Cine Español,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/294f65bc-fa27-494d-9cb5-423260b7e875.jpeg
-sci-fi-rakuten-tv,Sci-Fi,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0e491eb-8f73-4bd9-a034-0fe9fd6984d7.jpeg
-thriller-rakuten-tv,Thrillers,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8f5f37e8-70f0-4d3d-b8cd-ce5f34d6e916.jpeg
-mytime-movie-network-spanish,MyTime Movie Network,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e9ebb3e1-2419-4299-91f5-20256e320589.jpeg
-cine-friki,Cine Friki,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/2c7d3efb-0e8c-49b8-a130-05f95b4c53ba.jpeg
-dark-matter-es-new,Dark Matter,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/cd1e98b4-2d26-486d-a615-bd556debbf20.jpeg
-verdi-tv,Verdi TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d5f81eaf-cdac-4537-b5db-5d927af79833.jpeg
-feel-good-tv,Feel Good TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/c7ff802e-6aa3-4231-8aaf-c8c64b511013.jpeg
-grjngo-es,Grjngo,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg
-cine-western-es,Cine Western,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg
-crime-rakuten-tv,Crimen,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg
-alarm-for-cobra-rakuten-tv,Alerta Cobra - Brigada especial de carreteras,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/88e3e3ac-d820-4fc4-a62a-44896724aac4.jpeg
-aguila-roja-rakuten-tv,Águila Roja,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0f724508-ed27-486a-849c-b3c6e9a05e00.jpeg
-filmrise-sci-fi-es,FilmRise Sci-Fi,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/277ead19-5335-42c8-8c64-31bda5696bb9.jpeg
-bbc-series-es,BBC Series,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ac6b11e-3ef5-48d7-a7b8-2639183af3ab.jpeg
-beyblade-es,Beyblade,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/dac38e6b-007a-4c8f-88e2-198b4cef2035.jpeg
-rakuten-viki-es,Rakuten VIKI,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg
-vive-kanal-d-drama,Vive Kanal D Drama,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf0c7e3e-b46f-4f81-8d31-f096fba8d761.png
-todo-novelas,Todo Novelas,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg
-bbc-top-gear-spa,Top Gear en español,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/36527b18-2a5c-4977-8c04-60dd6e57db24-top-gear-en-espanol-1651835741.jpeg
-yu-gi-oh-new-spa,Yu-Gi-Oh!,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/f23b1f1a-4854-441c-8522-9bf991f0bf21.jpeg
-mr-bean-es,Mr. Bean,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/7ff74f0d-63d9-44f5-99e3-d11bdbf81197.jpeg
-mr-bean-live-action,Mr. Bean - Live Action,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/494bf8eb-ab6c-40ba-884a-3625c9181e1d.jpeg
-todo-comedia,Todo Comedia,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/90b320ab-42d4-4a7a-9f7b-643d6c028014.jpeg
-todo-drama,Todo Drama,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fd26c4b5-868a-4520-8791-d016d0dd46b8.jpeg
-rookie-blue-spa,Rookie Blue,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4fd593d9-67b8-46a6-ad8a-b89a33bc4572.jpeg
-wedotv-amor,wedotv Amor,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f2eabb04-9a91-4acb-97ff-8eab64c09446.jpeg
-animevision,AnimeVisión,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3ad26428-c55b-4645-8202-c349ccbb52cc.jpeg
-animevision-classics,AnimeVisión Classics,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/56e7f02c-0dbf-49cf-b8a2-c6b7e2d02c35.jpeg
-the-pet-collective-new,The Pet Collective,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b471d6b6-5694-46b3-8a33-6dbb0f76cf53.jpeg
-people-are-awesome-new,People Are Awesome,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f.jpeg
-revry,Revry,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/51021714-5a06-4be2-b0ff-6f5de75e742e.png
-jukin-fail-army-new,Fail Army,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/e481c9fa-07c8-4345-8638-47527a0b807b.jpeg
-top-barca-es,TOP Barça,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721.jpeg
-fifa-plus-es-new,FIFA+,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/381e0e02-e3e4-4bf8-af7d-0751ec0cd395.png
-mypadel-tv,MyPadel TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/1de5d983-6666-4d47-8f02-b7a898f2ebc3.png
-laliga-inside,LaLiga Inside,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/99ae16ca-3e5a-4f96-8924-46d2c034f959.jpeg
-inter-24-7-eng,INTER 24/7,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/3519342e-d891-46ef-923e-27b698550a13.jpeg
-rally-tv-fast,Rally.TV FAST+,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ae3344c-16ea-4c6d-8c5d-37aceec4b8f7.jpeg
-fuel-tv-new,FUEL TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/d7755b9a-5d95-4d1c-8615-d061c709ea2d.jpeg
-billiards-tv,World Billiards TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe.png
-hard-knocks-fighting-championship,Hard Knocks Fighting Championship,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398.jpeg
-glory-kickboxing,GLORY Kickboxing,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/0a96318f-fb4e-444c-950b-91f0524ca77c.jpeg
-surf-channel,Surf Channel,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ee7406e0-5a2a-49dc-9722-f3888314566c-surf-channel-1631785285.jpeg
-pfl-mma,PFL MMA,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg
-racer-international,RACER International,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e99fd425-48f6-4ced-b550-a9faca315a4d.jpeg
-red-bull-tv-es,Red Bull TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg
-motorvision-tv-spanish,MOTORVISION.TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1c0727dc-17ab-4c8b-b6d9-3b300fb3f458.png
-tennis-plus,Tennis+,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/a0922c6a-1c35-4fe3-a0cd-688efa948a68.jpeg
-lifestyle-rakuten-tv,Estilo y Vida,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/84e0b7b3-1612-470a-afdc-67a8c5b0fbbe.jpeg
-gipsy-kings-rakuten-tv,Los Gipsy Kings,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5cc63b2b-870e-46fd-889b-ae81f798c9d7.jpeg
-fashion-tv,Fashion TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/7995fcb8-ac5f-494c-8384-53e8f0a19cf6-fashion-tv-1602688597.jpeg
-the-design-network-new,The Design Network,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0d7ac09c-6941-41cd-9351-ff6f73a81ed6.jpeg
-1-1-travel,1+1 Travel,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/67849c11-43a6-4ba2-b4e0-ba3d173a03cb.png
-travelxp-es,Travelxp,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/d439f753-ad31-4078-b63d-8109bfb0bf7d.jpeg
-med-tv,Med.TV,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ab7a2d2a-67cc-4e80-848b-ec163019bae3.jpeg
-vivir-con-gatos,Vivir con gatos,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/230687ab-a57f-4fba-81f5-30f71bea8142.jpeg
-vivir-con-perros,Vivir con perros,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/0084e46d-1059-410d-89cf-e9526ca5138f.jpeg
-stingray-naturescape,Stingray Naturescape,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7791905f-9f8d-45ca-8ddd-a808cab7eb24.jpeg
-5-minutes-craft-es,Ideas en 5 minutos,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/b5fc34b2-b51a-4418-a52d-bd479fd3d6e1.jpeg
-hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1,¡HOLA! Play,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b7fa7e1a-c47f-4d90-98e7-7c64c77dbbdb.png
-daystar-spa,Daystar Español,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/129d0817-c05d-447f-85ba-acac21db4307.jpeg
-daystar-eng,Daystar TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/efe4aad6-6114-4535-adab-44ac9d552fcc.jpeg
-gusto-tv-new,Gusto TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/aab23ab0-5c0a-42bd-83bc-99224807f95a-gusto-tv-1652347326.jpeg
-a-bocados,A bocados,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bc94df36-c17c-4496-a6f1-39bd133ddc49.jpeg
-metal-rocks,Metal.Rocks,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3.jpeg
-qwest-tv,Qwest TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea0298dc-538a-44b7-b58c-fa23625ff1a0.jpeg
-flamenco-auditorio,Flamenco Auditorio,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/02365da1-268e-42e2-8fe2-5d6486ac5ddc.jpeg
-stingray-greatest-hits,Stingray Greatest Hits,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/6d183d7f-50c9-40f6-825f-e3d70f97247d.jpeg
-stingray-hit-list,Stingray: Hitlist,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/04f1c1b9-2e32-4464-825c-4aa740b3981f-stingray-hitlist-1607508431.jpeg
-stingray-remember-the-80-s,Stingray: Remember the 80’s,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/32a49d06-f203-4b4a-829c-4d1f66bf6a03.jpeg
-qello-concerts-by-stingray,Qello Concerts by Stingray,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/47d3b1e4-e855-414a-89f5-b72e0c5cd32d.jpeg
-deluxe-lounge-hd,Deluxe Lounge HD,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/864f2b27-4702-4308-850c-f7a1c73d4298.jpeg
-that-s-70s,That's 70s,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/21ddd31b-ff64-4afe-aaca-0eb13b1a7cff.jpeg
-that-s-80s,That's 80s,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d1bd1f06-f3a0-47ec-abac-62342ff42fdb.jpeg
-that-s-rock,That's ROCK,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e8d66036-f48b-417d-961d-45b7bf5ca5c7.jpeg
-vevo-latino-es,Vevo Latino,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/acffba3b-1779-48a8-bf69-de8f2cdf69c2.jpeg
-vevo-pop-es,Vevo Pop,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f796c006-b189-4b90-b8ff-6a42cf6d4bd7.jpeg
-that-s-90s00s,That's 90s00s,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/4f51ac5c-a9ee-43ef-b44e-4eba377df3b2.jpeg
-family-rakuten-tv,En Familia,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/8aea0628-6592-4363-9ccc-7adcce81b116.jpeg
-rantaro-ninja-boy-rakuten-tv,Rantaró, el ninja boy,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c03fa5a5-dd8d-4e53-ba59-352993c4e6fb.jpeg
-baby-shark-tv,Baby Shark TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a037e33c-a084-4a63-b433-b227d0bc2c59.jpeg
-las-tres-mellizas,Las tres mellizas,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5fca5e18-a011-44e0-a411-608be7e29a84.jpeg
-pocoyo,Pocoyó,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b427e296-f7e7-488a-b8ac-f9822584acff.jpeg
-planeta-junior-spa,La abeja Maya,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/66532545-7c48-4163-8602-4c17c8bb12ac.jpeg
-ice-pilots-es,Pilotos del Ártico,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/47db66d1-8f73-451e-9244-34ce4b1c423c.jpeg
-jade-fever-es,La fiebre del jade,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4223433c-d101-452c-aced-2453b33d3126.jpeg
-cops-en-espanol,Cops En Español,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ba80c0fa-a357-4a50-927b-12e34ad75737.jpeg
-el-conquistador,El Conquistador,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/3779a116-fc8f-4720-8656-1a8eef566691.jpeg
-filmrise-forensic-files-spa,Archivos Forenses,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/33d033a2-326e-4f5b-b3dc-e8c8bf65e562-archivos-forenses-1642607532.jpeg
-filmrise-unsolved-mysteries-es,Misterios sin resolver,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2fc7195d-be0a-4c4c-bb7c-6b57202535b7.jpeg
-todo-crimen,Todo Crimen,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg
-a-haunting-spa,Historias de ultratumba,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e70ee1d0-6aee-4c0b-97b3-f797acf6d6be.jpeg
-crimenes-reales,Crímenes Reales,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ff4a2f43-f916-4e28-b349-632744ad68f2.jpeg
-aftershock-meo-lc,Aftershock Mi Extraña Obsesión/Loca Compulsión,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a39db06d-1e23-476a-8eda-ee9460c31ef7.jpeg
-royalworld-es,Royalworld - Nobleza y dinastías,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/706db597-244a-4939-9453-ea7b0c543d70.jpeg
-naturaleza,Naturaleza,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7f26f4ea-f964-4d23-a365-dbbd55108e26.jpeg
-weather-spy-new,Weather Spy,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg
-nature-time-es,Nature Time,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140fe96a-bda7-4ea2-b1ba-798224c28f46.jpeg
-cgtn-documentary,CGTN Documentary,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ca4d6759-647b-4519-99f6-e76de3963de5.jpeg
-oficios-perdidos,Oficios Perdidos,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9464f310-33c3-4e0f-b258-eeaf24d3fa51.png
-historia-y-vida,Historia y Vida,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/112ebdc0-159a-422f-9659-e9e6aa967df7.jpeg
-euronews-live-spa,Euronews EN DIRECTO,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/0c9f38a6-5df7-4480-a994-a3a63ae695e6.jpeg
-actualidad-360,Actualidad 360,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/6e42888b-dbe7-4acc-a07e-9cd81d3de1b7.jpeg
-the-reuters-60,The Reuters 60,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c3defe95-3188-4b5d-9cf6-68ca7b3e1767.jpeg
-bloomberg-originals-new,Bloomberg Originals,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d6c3cf95-3570-44fa-a3db-ca215ded6396.jpeg
-bloomberg-tv-plus,Bloomberg TV+,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80bb6ac5-9dbf-44fb-8716-dd84aec360f8.jpeg
-cgtn-es,CGTN,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/830975d8-58b0-443f-a276-f9eb93ef9364.jpeg
-africanews-eng,Africanews,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/5d1a76e1-5c26-4cf1-aed8-7101a5206922.jpeg
-cgtn,CGTN,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/82a28e14-7f41-4a39-b6b9-57de69feb0ef.jpeg
-newsworld-spa,NewsWorld,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/4939210a-0bec-4dd9-9ea4-40ed09db1dbc.jpeg
-el-pais,El País,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/2ed79327-afc6-47cb-9e5a-5b8c67aa60ff.jpeg
-france-24-en,France 24 FAST English,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/b4e13e24-5808-4dbb-8239-bf72c9611650.jpeg
+# Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz
+697a33faf5c44526a1271d55,Top Gear: Celebrities,https://images.pluto.tv/channels/697a33faf5c44526a1271d55/colorLogoPNG_1770305660204.png
+63d3da01c111bc0008ce65d0,Pluto TV Mujeres Protagonistas,https://images.pluto.tv/channels/63d3da01c111bc0008ce65d0/colorLogoPNG.png
+68e8fe3bcba140ddfe903677,Monster High,https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/colorLogoPNG_1761210192673.png
+657868a7a620e30008fdbfeb,Embrujadas,https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png
+6812206e1b3e3be031a5c363,Águila Roja,https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/colorLogoPNG_1754647874286.png
+685a995b460ac82fa504342c,The Good Wife,https://images.pluto.tv/channels/685a995b460ac82fa504342c/colorLogoPNG_1750771214380.png
+683457aebbc703dfd45a89eb,Merlí,https://images.pluto.tv/channels/683457aebbc703dfd45a89eb/colorLogoPNG_1749718381815.png
+5f1acce7f17797000718f9be,Ana y los 7,https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png
+65b91e530d9ab40008340d8d,Al salir de clase,https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png
+5f1acd36779de70007a680d1,Curro Jiménez,https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png
+65dded6966eec80008947157,Call the Midwife,https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG.png
+6245c03922d9d4000760d205,Melrose Place,https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png
+60c343007bcabe0007242aa6,El Comisario,https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png
+6578808014fbe400086e21bc,Medium,https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png
+664c76d68ea5560008c6c7a4,Alerta Cobra,https://images.pluto.tv/channels/664c76d68ea5560008c6c7a4/colorLogoPNG.png
+6745f0643a61d40008a61510,Rookie Blue,https://images.pluto.tv/channels/6745f0643a61d40008a61510/colorLogoPNG.png
+66d71c656b63480008cf0427,Cherif,https://images.pluto.tv/channels/66d71c656b63480008cf0427/colorLogoPNG.png
+6682bd9b8768aa0008f25be5,Los misterios de Murdoch,https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG_1764691773450.png
+5f1aca8310a30e00074fab92,Los Asesinatos de Midsomer,https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png
+65cf6ab58145cb0008129ca8,Pluto TV Series criminales,https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png
+619b9f16b8fee4000832d447,El Detective Endeavour,https://images.pluto.tv/channels/619b9f16b8fee4000832d447/colorLogoPNG.png
+6304f530440dc90007f514d3,Poirot &amp; Miss Marple,https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png
+66d71f8ee5de930008016f83,Alice Nevers,https://images.pluto.tv/channels/66d71f8ee5de930008016f83/colorLogoPNG_1730816120590.png
+61bb2814ac085a00074309a6,Unidad de investigación,https://images.pluto.tv/channels/61bb2814ac085a00074309a6/colorLogoPNG.png
+5f984f4a09e92d0007d74647,Archivos Forenses,https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png
+5f1acbed25948a0007ffbe65,Los archivos del FBI,https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png
+5f1acba0d1f6340007db8843,Los nuevos detectives,https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png
+60ed5fb9c4716d0007d180c5,Cazador de Homicidas,https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png
+654a35ce346f420008d5c36e,Pluto TV Invasión Alien,https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png
+64ddcbb14c5ed80008fad416,Crimen &amp; Historia,https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png
+64a3f200f238ce0008d47247,Pluto TV True Crime,https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png
+60218baa464ef900073168c1,Empeños a lo bestia,https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png
+68adc3fdd8f7693ae347a63a,Los Gipsy Kings,https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png
+6335a6b6e6f7a600076e589e,Cazasubastas,https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png
+686cd84603ad75cfd132d672,America's Next Top Model,https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png
+61b87bc867b03a0007864e0d,Pluto TV Reality,https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/colorLogoPNG_1748526677692.png
+68adc697116b783a33f99e6c,Pluto TV Impacto,https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png
+6554bd45aa9ffb00088e5589,COPS,https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png
+65254e8d81f9420008342cee,La fiebre del Jade,https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png
+6578836cdfed030008ce5bdb,Sí quiero ese vestido,https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/colorLogoPNG.png
+61b9edc4a4ca6100070bb407,Ice Pilots,https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png
+66448a5a8ce31100086ae45e,Ubeat lite,https://images.pluto.tv/channels/66448a5a8ce31100086ae45e/colorLogoPNG_1747991179448.png
+60e45687313c5f0007bc8e94,El encantador de perros,https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png
+60e4573c9f963e00077ecf25,Mi Extraña Obsesión,https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png
+6080345ebb49b90007ce0baf,Pluto TV Motor,https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png
+65bd0f53dc10a40008e68b96,Pluto TV Gasolina,https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png
+60d356a534f63f000850cdd7,Top Gear,https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG_1756396834691.png
+68d566603d3a9580eb461251,Paramount Network de Pluto TV,https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png
+5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción,https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png
+645a309c5a0cd5000873f609,Pluto TV Catástrofes,https://images.pluto.tv/channels/645a309c5a0cd5000873f609/colorLogoPNG.png
+5f6a38eaa5b68b0007a00e7a,Pluto TV Sci-Fi,https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png
+65ce480a78df2200131c597b,Pluto TV Psycho,https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png
+5f1ac8a87cd38d000745d7cf,Pluto TV Thrillers,https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png
+5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png
+5f1ac947dcd00d0007937c08,Pluto TV Cine Drama,https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png
+5f1ac8099c49f600076579b2,Pluto TV Cine Comedia,https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png
+655b5d865812e80008843bd1,Pluto TV Comedias Románticas,https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png
+5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico,https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG_1747044085204.png
+676e7b4a4bd636000819c6a7,SensaCine TV x Pluto,https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png
+6086d3f420fc8500075f8dbf,Runtime,https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png
+61373bb45168fe000773eecd,Pluto TV Cine Clásico,https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png
+60cc807324d60a0007708dc8,Pluto TV Cine de autor,https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png
+6385e82900ab2e000768a058,Pluto TV Western,https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png
+612ce5214bb5790007ad3016,Pluto TV Paranormal,https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png
+66b0dfa1d512590008bfa7fd,Pluto TV Gore &amp; Slasher,https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png
+65786888b228b7000843ad9a,Pluto TV Zombies,https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png
+6267d4d1fb694f0007a6af0e,Pluto TV Horror,https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png
+68e8fd7c3ede4398bc69af93,Dragon Ball Z,https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1770028454770.png
+685a996c7c4f2ad40cb4f276,Dragon Ball,https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG_1756876796024.png
+629a066860ef810008267b70,Detective Conan,https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG_1771323495777.png
+680ba8c3a48b3ead0db701cc,Los caballeros del Zodiaco,https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG_1758616347633.png
+683457e5f59cc6a13212fce4,Lupin,https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png
+632c6df43d2bc5000751f621,Inazuma Eleven,https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png
+608035b8d8705f0007260287,Pluto TV Anime,https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png
+63eb96754e83e70008ab8941,Yu-Gi-Oh!,https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png
+680ba8992472a7200a183eb5,One Piece,https://images.pluto.tv/channels/680ba8992472a7200a183eb5/colorLogoPNG_1748955630923.png
+628751bb7154a40007168843,South Park,https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png
+68de3db35fc0afe85de0b843,Comedia a lo bestia de Pluto TV,https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png
+5f1abf5fafb5ee0007d4d0ca,FailArmy,https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png
+604f8125c6669b00077f7699,Wipeout,https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png
+63d7a8e5a9957100086bfc23,South Park Versión Original,https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png
+5f28009b150b2500077766b8,Vaya semanita,https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png
+5f1abce155a03d0007718834,Pluto TV Comedia made in Spain,https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png
+68f103545c876cf7307b4e37,Cheers,https://images.pluto.tv/channels/68f103545c876cf7307b4e37/colorLogoPNG_1760653870523.png
+65786b94cbd0d60008f7e4d9,Star Trek: The Next Generation,https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG_1752727094278.png
+65787f2eb228b7000843fa5c,Star Trek: Voyager,https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png
+65dded9a0d456100081417ae,Primeval,https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png
+65ddec1ef7f0af0008be4b65,Pluto TV Series Sci-Fi,https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png
+662a69daa0a74e00087a1c72,Pluto TV Telenovelas Clásicas,https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png
+60b4c06717da110007ee1af6,Pluto TV Telenovelas,https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG_1733440547918.png
+6475bfec536e0c0008858e9f,Pluto TV K-Drama,https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png
+5f1ac8f49205650007bc15f1,Pluto TV Series,https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png
+60dafb9a0df1ba000758d37b,BBC Series,https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png
+61922be835f3910007fc58f6,En el punto de mira,https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png
+600ae6a78d801e0007117d21,Pluto TV Animales,https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png
+61cd7b49543066000713b620,Pluto TV Historia,https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png
+67517f923a61d40008c451f0,Historia y Vida,https://images.pluto.tv/channels/67517f923a61d40008c451f0/colorLogoPNG.png
+60dd6b1da79e4d0007309455,Nature Time,https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png
+5f1acdaa8ba90f0007d5e760,Pluto TV Cocina,https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
+690dd10a37b131228d76d5b1,El Mueble,https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png
+64db2e0835425100080f2f5a,Pluto TV Diseño,https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
+686cd8bb9d079f48dbbdfecb,Metal Rocks,https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/colorLogoPNG_1756372280523.png
+65786abdb3801200084c593a,Homeful,https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png
+622f42b831233300078658cc,Ciudadanos por el mundo,https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png
+5f1aca0b4e448e00075e7c5e,Bob Esponja,https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
+6181404ef48321000797bc41,iCarly,https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png
+63eb944dc111bc0008fe7021,Pluto TV Teen,https://images.pluto.tv/channels/63eb944dc111bc0008fe7021/colorLogoPNG_1761820520562.png
+68d27949793c71d988ca624c,Los Pitufos,https://images.pluto.tv/channels/68d27949793c71d988ca624c/colorLogoPNG_1760370849099.png
+63c69c87808b740007599fe1,Érase una vez...,https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png
+68779a09c691b3f0964127c6,Heidi,https://images.pluto.tv/channels/68779a09c691b3f0964127c6/colorLogoPNG_1760381113655.png
+61373f1a12dd9f00077dcd6f,Las Tortugas Ninja,https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png
+6880aa28164eb4890282e803,Pluto TV Toons,https://images.pluto.tv/channels/6880aa28164eb4890282e803/colorLogoPNG_1760522020317.png
+5f1aab1d29b39600073e243f,Pluto TV Kids,https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png
+62568a94ed1f380007b0211f,Winx Club,https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png
+691ddf2a3ae32cf55263476d,Pluto TV Forever Kids,https://images.pluto.tv/channels/691ddf2a3ae32cf55263476d/colorLogoPNG_1763569071053.png
+610c09219fc0430007a3fce6,Rugrats,https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png
+609e7e423e9173000706a681,Pluto TV Kids Classics,https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG_1750147033956.png
+5f1aa9bcd8160700076d45d1,Pluto TV Junior,https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png
+6888928eb52fb742416673d2,Mattel Junior,https://images.pluto.tv/channels/6888928eb52fb742416673d2/colorLogoPNG_1765806188472.png
+688892172928933015abe479,Barbie &amp; Friends,https://images.pluto.tv/channels/688892172928933015abe479/colorLogoPNG_1765806030713.png
+6523f672a6c38300088cb807,El Reino Infantil,https://images.pluto.tv/channels/6523f672a6c38300088cb807/colorLogoPNG.png
+6080381ab7c9ea00074ec64c,World Poker Tour,https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png
+67164414e40c4a00087f450d,MODUS Super Series Darts,https://images.pluto.tv/channels/67164414e40c4a00087f450d/colorLogoPNG_1732095042151.png
+69148c470155f9b136b5d856,Pluto TV Snooker 900,https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png
+663a440c8ea5560008a4db8a,Gaming Central: League of Legends,https://images.pluto.tv/channels/663a440c8ea5560008a4db8a/colorLogoPNG_1747990943632.png
+6618e22624e1d000087a111c,Gaming Central: Shooters,https://images.pluto.tv/channels/6618e22624e1d000087a111c/colorLogoPNG_1747991043995.png
+67921b873de7c8cf94233f52,UFC,https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png
+660c29f80cd4630008f1547c,FIFA+,https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png
+66fd36ca9269330008412b6c,Gol Classics,https://images.pluto.tv/channels/66fd36ca9269330008412b6c/colorLogoPNG_1747991119477.png
+65f96cd34e01740008ef1c97,Realmadrid TV,https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png
+67517fae5534bb0008187997,Actualidad 360,https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png
+60d3583ef310610007fb02b1,Euronews,https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png
+66c45c0de7f5e80008b82005,CNN Headlines,https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1745489270438.png
+6231ede1be5b460007f91bc1,CBS News 24/7,https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png
+5f1ab3c7778230000735cf41,MTV Catfish TV Show,https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png
+62ac3d7dc23b400008ae5b5a,MTV Jerseys,https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png
+5f1aadf373bed3000794d1d7,MTV Originals,https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png
+627d3176d7dfa500077042f1,MTV Geordies,https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png
+600169ec77e6f70008fa9cf0,MTV Dating,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png
+6130d8dc943001000708548d,MTV Reality,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1750751822893.png
+611b87946b7f420007c22361,MTV Tattoo a dos,https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png
+5f98537a5a4341000733aefe,MTV Embarazada a los 16,https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png
+604f81a49ef73300070e554f,MTV Teen Mom,https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png
+63eb9495a8b227000841bf64,MTV Vergüenza ajena,https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png
