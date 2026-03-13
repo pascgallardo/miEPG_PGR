@@ -1,4 +1,5 @@
 # Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz
+696e02423b9ce349c90edef9,Rally TV,https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png
 697a33faf5c44526a1271d55,Top Gear: Celebrities,https://images.pluto.tv/channels/697a33faf5c44526a1271d55/colorLogoPNG_1770305660204.png
 63d3da01c111bc0008ce65d0,Pluto TV Mujeres Protagonistas,https://images.pluto.tv/channels/63d3da01c111bc0008ce65d0/colorLogoPNG.png
 68e8fe3bcba140ddfe903677,Monster High,https://images.pluto.tv/channels/68e8fe3bcba140ddfe903677/colorLogoPNG_1761210192673.png
@@ -82,7 +83,6 @@
 63d7a8e5a9957100086bfc23,South Park Versión Original,https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png
 5f28009b150b2500077766b8,Vaya semanita,https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png
 5f1abce155a03d0007718834,Pluto TV Comedia made in Spain,https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png
-68f103545c876cf7307b4e37,Cheers,https://images.pluto.tv/channels/68f103545c876cf7307b4e37/colorLogoPNG_1760653870523.png
 65786b94cbd0d60008f7e4d9,Star Trek: The Next Generation,https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG_1752727094278.png
 65787f2eb228b7000843fa5c,Star Trek: Voyager,https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png
 65dded9a0d456100081417ae,Primeval,https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png
@@ -100,8 +100,8 @@
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina,https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
 690dd10a37b131228d76d5b1,El Mueble,https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png
 64db2e0835425100080f2f5a,Pluto TV Diseño,https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
-686cd8bb9d079f48dbbdfecb,Metal Rocks,https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/colorLogoPNG_1756372280523.png
 65786abdb3801200084c593a,Homeful,https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png
+686cd8bb9d079f48dbbdfecb,Metal Rocks,https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/colorLogoPNG_1756372280523.png
 622f42b831233300078658cc,Ciudadanos por el mundo,https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png
 5f1aca0b4e448e00075e7c5e,Bob Esponja,https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
 6181404ef48321000797bc41,iCarly,https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png

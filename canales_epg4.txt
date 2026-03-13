@@ -8,6 +8,7 @@
 643054b1fc3be59477853717-668420c2cd6f1d3940941157,Runtime Acción,https://provider-static.plex.tv/epg/cms/production/39d2ddfb-c83e-4dbd-85dd-748e951f3c1b/Runtime_ES_Accion_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-6922338150fe592fd6d5b7e8,Sony One | Series Comedia,https://provider-static.plex.tv/epg/cms/production/a7eaa20f-e1af-4d1e-aaa7-62a0f0316fe0/ES_FAST_Plex_ComedyTV_logo_dark.png
 643054b1fc3be59477853717-67e6979de1de65be88aeb39f,RCN Noticias,https://provider-static.plex.tv/epg/cms/production/078ace21-2c9e-4b63-b222-1dd0a525ad3e/RCN_NOTICIAS_BG_COLOR_n_-_JuanMa_VelasquezRDX.png
+643054b1fc3be59477853717-69b164bc87340e48b7b72247,CNN Headlines International,https://provider-static.plex.tv/epg/cms/production/c6b66b76-8050-4cc8-9e61-1ab6cc2b0015/CNN_HeadlinesInternational_RED_wht_logo.png
 643054b1fc3be59477853717-6477b95b7ba9c0d593859bfc,Cops en Español,https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png
 643054b1fc3be59477853717-692232ee5cbe620c1f9b6bc5,Sony One | Hits Comedia,https://provider-static.plex.tv/epg/cms/production/cbde5bbf-d9cb-4188-b1aa-fce8c91d5a45/ES_FAST_Plex_ComedyHits_logo_dark.png
 643054b1fc3be59477853717-66841fb8702b9db9f817725a,Runtime Ana y los 7,https://provider-static.plex.tv/epg/cms/production/b69028cf-3d86-4e92-a816-e5f4dfff47e7/Runtime_ES_Ana_y_Los_7_Dark_Mode_Logordx.png
@@ -18,10 +19,12 @@
 643054b1fc3be59477853717-67c24d5a45ae99120c07158c,Gata Salvaje,https://provider-static.plex.tv/epg/cms/production/c4604da1-d6b6-4043-95fb-9a90f4f0273c/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png
 643054b1fc3be59477853717-68645a8619cc2e163e38d161,Merli,https://provider-static.plex.tv/epg/cms/production/8e4cba66-9b4a-49e6-becf-bcfad804dcb9/MERLI_channel_logo_whiteRDX.png
 643054b1fc3be59477853717-66840486cd6f1d3940941151,Runtime Familia,https://provider-static.plex.tv/epg/cms/production/c0981fcf-6369-4c85-9a6e-09413be0911d/Runtime_ES_Familia_Attribution_Logordx.png
+643054b1fc3be59477853717-69a1fe1b0f8d297b3f6ac0f0,Crímenes Reales,https://provider-static.plex.tv/epg/cms/production/6c848a12-7e7c-467e-937f-557dedcda9e4/Crimines_Logo_1500x1000_LightAndDark.png
 643054b1fc3be59477853717-67200026769d5ec4bf51d63e,Crimen Y Historia,https://provider-static.plex.tv/epg/cms/production/0902ab10-e394-4ff0-9c94-506bc528e901/Logo_Crimen_Historia_1500x1000_DarkBackground_-_Belen_Bruno.png
 643054b1fc3be59477853717-692234015028288613484a8a,Sony One | Éxitos,https://provider-static.plex.tv/epg/cms/production/7a912ab4-bf9b-4918-9eff-05a351ff467d/ES_FAST_Plex_Faves_logo_dark.png
 643054b1fc3be59477853717-61d73ab0a7b7c7f703418516,Bloomberg TV,https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png
 643054b1fc3be59477853717-656236cc5dbccec83a87b647,Andromeda,https://provider-static.plex.tv/epg/cms/production/1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78/FilmRise_Andromeda_Color_Logo.png
+643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872,FilmRise Sci-Fi,https://provider-static.plex.tv/epg/cms/production/9cde6a13-0277-4e8a-9a31-4b7ff6669788/Plex_FilmRise_SciFi_Color_Logo.png
 643054b1fc3be59477853717-66ccae1a78822c7edc4b6df1,UFC,https://provider-static.plex.tv/epg/cms/production/e1cfac6a-9e69-443a-b14c-c99e2cb50ead/UFC_logo_WHT_1500x1000.png
 643054b1fc3be59477853717-656237c55dbccec83a87b649,Mutant X,https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png
 643054b1fc3be59477853717-6490e17c18a55242eea95991,Cine Friki,https://provider-static.plex.tv/epg/cms/production/1e8b55ca-ef52-42c6-8390-45b1561f3d15/CINE_FRIKI_-_Logo_blanc_1500x1000_-_JC_DERSOIR.png
@@ -71,6 +74,7 @@
 643054b1fc3be59477853717-65623e0eb7d737841f30a4ff,Cheaters en Español,https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png
 643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75,Naturaleza,https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png
 643054b1fc3be59477853717-64f0db77c2bc9b9001d46eaa,Oro TV,https://provider-static.plex.tv/epg/cms/production/ecf0c463-9ff8-4d9d-b756-0e9913c8ed60/Oro_TV_1500x1000-_For_dark_backgrounds.png
+643054b1fc3be59477853717-69ae4f38e657bab5f7a9b7ec,Bondi Rescue,https://provider-static.plex.tv/epg/cms/production/91ffbeaa-df66-4074-83d6-94cacb9622fa/Plex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png
 643054b1fc3be59477853717-63f0ca427b78030ed9990309,CombaTV,https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png
 643054b1fc3be59477853717-6469502df73356567a64ce8e,Clic,https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png
 643054b1fc3be59477853717-65b1568052aa31b8f64da064,C4 en Alerta,https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png
@@ -86,7 +90,6 @@
 643054b1fc3be59477853717-639ba57d3f4612cc150a5723,Pitufo TV,https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png
 643054b1fc3be59477853717-67a1a8ef2358ef4dd5c3018e,Lucha Plus,https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png
 643054b1fc3be59477853717-682d0bc9363625fa508aef43,Nature Time,https://provider-static.plex.tv/epg/cms/production/2264f961-88d5-46c6-a987-9d5dd7a15d69/NATURE_TIMEWHITE_LOGO.png
-643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872,FilmRise Sci-Fi,https://provider-static.plex.tv/epg/cms/production/9cde6a13-0277-4e8a-9a31-4b7ff6669788/Plex_FilmRise_SciFi_Color_Logo.png
 643054b1fc3be59477853717-66841b30702b9db9f8177258,Runtime Clásicos,https://provider-static.plex.tv/epg/cms/production/8019022a-2401-4d51-990c-fdf0f5ac1f54/Runtime_ES_Clasicos_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-6334a8e48a7b2a349d903b8c,Billiard TV,https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png
 643054b1fc3be59477853717-643f0ecd76de2b4015ae6c01,PFL MMA,https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png
