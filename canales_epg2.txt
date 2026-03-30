@@ -125,7 +125,6 @@ My Padel TV,My Padel TV,https://media.tvup.cloud/canales/color_lg_669e7c664641c2
 Tennis Channel,Tennis Channel,https://media.tvup.cloud/canales/color_lg_6641c6c0e6e81024bb6171b2_1733130445118.png
 Rugby Spain,Rugby Spain,https://media.tvup.cloud/canales/color_lg_67ea5bd64f9cb1be71461795_1750846676105.png
 Surf Channel TV,Surf Channel TV,https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3_1731408353544.png
-European League of Football,European League of Football,https://media.tvup.cloud/canales/color_lg_671a18d7a5e2f02c456154f6_1739786234023.png
 DFB Play TV,DFB Play TV,https://media.tvup.cloud/canales/color_lg_67ab8140d8408152166c2c70_1764334750092.png
 INTROUBLE,INTROUBLE,https://media.tvup.cloud/canales/color_lg_67a0a9927668774da5215303_1739965102633.png
 Boing,Boing,https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png
