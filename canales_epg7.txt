@@ -21,7 +21,6 @@ filmrise-sci-fi-es,FilmRise Sci-Fi,https://images-2.rakuten.tv/storage/global-li
 bbc-series-es,BBC Series,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7ac6b11e-3ef5-48d7-a7b8-2639183af3ab.jpeg
 beyblade-es,Beyblade,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/dac38e6b-007a-4c8f-88e2-198b4cef2035.jpeg
 rakuten-viki-es,Rakuten VIKI,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/81260d9f-23aa-4dd7-86c1-a898cab5379f.jpeg
-vive-kanal-d-drama,Vive Kanal D Drama,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/bf0c7e3e-b46f-4f81-8d31-f096fba8d761.png
 todo-novelas,Todo Novelas,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/87e940da-d9b1-4e7b-bf1b-499f3b0afe16.jpeg
 bbc-top-gear-spa,Top Gear en español,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/36527b18-2a5c-4977-8c04-60dd6e57db24-top-gear-en-espanol-1651835741.jpeg
 yu-gi-oh-new-spa,Yu-Gi-Oh!,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/f23b1f1a-4854-441c-8522-9bf991f0bf21.jpeg
@@ -96,7 +95,6 @@ el-conquistador,El Conquistador,https://images-2.rakuten.tv/storage/global-live-
 filmrise-forensic-files-spa,Archivos Forenses,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/33d033a2-326e-4f5b-b3dc-e8c8bf65e562-archivos-forenses-1642607532.jpeg
 filmrise-unsolved-mysteries-es,Misterios sin resolver,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/2fc7195d-be0a-4c4c-bb7c-6b57202535b7.jpeg
 todo-crimen,Todo Crimen,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/c88bbe13-dfde-41ec-9631-b172537c8b1a.jpeg
-a-haunting-spa,Historias de ultratumba,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/e70ee1d0-6aee-4c0b-97b3-f797acf6d6be.jpeg
 crimenes-reales,Crímenes Reales,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ff4a2f43-f916-4e28-b349-632744ad68f2.jpeg
 aftershock-meo-lc,Aftershock Mi Extraña Obsesión/Loca Compulsión,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a39db06d-1e23-476a-8eda-ee9460c31ef7.jpeg
 royalworld-es,Royalworld - Nobleza y dinastías,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/706db597-244a-4939-9453-ea7b0c543d70.jpeg
