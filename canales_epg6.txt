@@ -128,7 +128,7 @@
 65f96cd34e01740008ef1c97,Realmadrid TV,https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png
 67517fae5534bb0008187997,Actualidad 360,https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png
 60d3583ef310610007fb02b1,Euronews,https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png
-66c45c0de7f5e80008b82005,CNN Headlines,https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1745489270438.png
+66c45c0de7f5e80008b82005,CNN Headlines International,https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png
 6231ede1be5b460007f91bc1,CBS News 24/7,https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png
 5f1ab3c7778230000735cf41,MTV Catfish TV Show,https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png
 62ac3d7dc23b400008ae5b5a,MTV Jerseys,https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png
