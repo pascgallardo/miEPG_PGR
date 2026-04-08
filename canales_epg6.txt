@@ -65,7 +65,7 @@
 66b0dfa1d512590008bfa7fd,Pluto TV Gore &amp; Slasher,https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png
 65786888b228b7000843ad9a,Pluto TV Zombies,https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png
 6267d4d1fb694f0007a6af0e,Pluto TV Horror,https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png
-68e8fd7c3ede4398bc69af93,Dragon Ball Z,https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1770028454770.png
+68e8fd7c3ede4398bc69af93,Dragon Ball Z,https://images.pluto.tv/channels/68e8fd7c3ede4398bc69af93/colorLogoPNG_1775550158845.png
 685a996c7c4f2ad40cb4f276,Dragon Ball,https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG_1756876796024.png
 629a066860ef810008267b70,Detective Conan,https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG_1771323495777.png
 680ba8c3a48b3ead0db701cc,Los caballeros del Zodiaco,https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG_1758616347633.png
