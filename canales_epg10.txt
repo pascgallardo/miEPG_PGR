@@ -17,7 +17,6 @@
 6761ec319b691191bc706e39,Pickle TV,https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5
 6943e7dc182a4a3d2bcd3c10,Top Barca,https://media.unreel.me/prod/freelivesports/logo/3092f43f-1ef2-4357-be60-2706955b7018
 6675b7bda139017a32428e74,SportsGrid,https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2
-6675c077b464f958050c8e7b,BLEAV Football,https://media.unreel.me/prod/sportsplus/logo/e8c966f7-d28c-4bd9-822c-998e85489184
 673b69a49d8c78e3561485b3,GFN Soccer TV,https://media.unreel.me/prod/freelivesports/logo/f9081f8e-2478-42ec-95ac-9bcb27d264ba
 6719351a9127383bf1afb7a0,HOOP TV,https://media.unreel.me/prod/freelivesports/logo/4454e89b-ea81-4752-a9bb-6db85b40a194
 66b0eaeefee09b4f89618a72,Goal TV,https://media.unreel.me/prod/freelivesports/logo/3b9ff291-5825-4cd3-b8f0-5d03a3f1e3c1
