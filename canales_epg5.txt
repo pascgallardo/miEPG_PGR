@@ -1,9 +1,9 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
-plex.tv.NFL.Channel.plex,NFL Channel,https://metadata-static.plex.tv/c/gracenote/cf8749c88f501cc259972a0f038f8f1f.jpg
-plex.tv.Stories.by.AMC.plex,Stories by AMC,https://metadata-static.plex.tv/6/gracenote/6708245222d060544ead3a6f03a4a130.jpg
-plex.tv.Miramax.Movie.Channel.plex,Miramax Movie Channel,https://image.tmdb.org/t/p/original/bj1v6YKF8yHqA489VFfnQvOJpnc.jpg
-plex.tv.Hallmark.Movies.&amp;.More.plex,Hallmark Movies &amp; More,https://metadata-static.plex.tv/5/gracenote/51f842dc33606fc106ab1b52edf4153a.jpg
-plex.tv.ION.plex,ION,https://metadata-static.plex.tv/4/gracenote/4f6cabbb59dd109d439e0051eebca7bb.jpg
+plex.tv.NFL.Channel.plex,NFL Channel,https://metadata-static.plex.tv/3/gracenote/3e780ef62d5b3474a4ad489aa1121261.jpg
+plex.tv.Stories.by.AMC.plex,Stories by AMC,https://metadata-static.plex.tv/d/gracenote/d6bfc6f8ee41d92436fb52d4c4c109dd.jpg
+plex.tv.Miramax.Movie.Channel.plex,Miramax Movie Channel,https://metadata-static.plex.tv/a/gracenote/a80489788c623ad24e7b876e39034bab.jpg
+plex.tv.Hallmark.Movies.&amp;.More.plex,Hallmark Movies &amp; More,https://metadata-static.plex.tv/b/gracenote/b619bb7d68a769d771c44ebfbb92ac8d.jpg
+plex.tv.ION.plex,ION,https://metadata-static.plex.tv/b/gracenote/baae820f788a39ed4a4a7848d1f69c42.jpg
 plex.tv.CW.Forever.plex,CW Forever,https://image.tmdb.org/t/p/original/z4bPJ1BWU2EtV69NII2GVvsugQ2.jpg
 plex.tv.Ion.Mystery.plex,Ion Mystery,https://metadata-static.plex.tv/0/gracenote/0488297ad6a25b6aaa5cf52f24331dc3.jpg
 plex.tv.BET.x.Tyler.Perry.Drama.plex,BET x Tyler Perry Drama,https://image.tmdb.org/t/p/original/9UtwdSXDkDMvqAdMJsbB8JLlBEH.jpg
