@@ -1,5 +1,6 @@
 # Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz
 6964d2179ba4ac18051a18ce,Léo Mattéï: Brigada de protección,https://images.pluto.tv/channels/6964d2179ba4ac18051a18ce/colorLogoPNG_1774344400865.png
+69b030eea9b840a456a1eff3,Dirigido por Alfred Hitchcock,https://images.pluto.tv/channels/69b030eea9b840a456a1eff3/colorLogoPNG_1776087479822.png
 67c7249be979b84e78ca43ff,Los Mosqueteros,https://images.pluto.tv/channels/67c7249be979b84e78ca43ff/colorLogoPNG_1775051096047.png
 6995daa579545c21a10e84de,Pluto TV Basadas en libros,https://images.pluto.tv/channels/6995daa579545c21a10e84de/colorLogoPNG_1774623953804.png
 68751a3bfd6704e9d3cc7b3d,Pequeños aventureros de Pluto TV,https://images.pluto.tv/channels/68751a3bfd6704e9d3cc7b3d/colorLogoPNG_1757596623897.png
@@ -134,8 +135,8 @@
 5f1ab3c7778230000735cf41,MTV Catfish TV Show,https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png
 62ac3d7dc23b400008ae5b5a,MTV Jerseys,https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png
 5f1aadf373bed3000794d1d7,MTV Originals,https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png
-600169ec77e6f70008fa9cf0,MTV Dating,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png
 627d3176d7dfa500077042f1,MTV Geordies,https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png
+600169ec77e6f70008fa9cf0,MTV Dating,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png
 6130d8dc943001000708548d,MTV Reality,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1750751822893.png
 611b87946b7f420007c22361,MTV Tattoo a dos,https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png
 5f98537a5a4341000733aefe,MTV Embarazada a los 16,https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png
