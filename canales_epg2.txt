@@ -210,6 +210,7 @@ IB3 Global,IB3 Global,https://media.tvup.cloud/canales/color_lg_60d9ee5620076b00
 Bon Dia TV,Bon Dia TV,https://media.tvup.cloud/canales/color_lg_6050a6723662e20039601c62.png
 La 1 | Catalunya,La 1 | Catalunya,https://media.tvup.cloud/canales/color_lg_5afea59fd2fc610babd2b87b_1768217377150.png
 CMM Global,CMM Global,https://media.tvup.cloud/canales/color_lg_5eea1958178246005fe5275d.png
+Distrito TV,Distrito TV,https://media.tvup.cloud/canales/color_lg_69b2eb3e5136c743f88eaa77_1773335379130.png
 Betevé,Betevé,https://media.tvup.cloud/canales/color_lg_5cdc1465d1a7460050d8af0a.png
 7TV Andalucía,7TV Andalucía,https://media.tvup.cloud/canales/color_lg_60d9f0a21627ac0021b5163a.png
 La 8 Mediterráneo,La 8 Mediterráneo,https://media.tvup.cloud/canales/color_lg_60d9efa9593c07001c560ac7.png
@@ -242,7 +243,6 @@ Estepona TV,Estepona TV,https://media.tvup.cloud/canales/color_lg_615c5924f6e98a
 9 La Loma TV,9 La Loma TV,https://media.tvup.cloud/canales/color_lg_615c5aa3f6e98a001d68fb14.png
 TVM Córdoba,TVM Córdoba,https://media.tvup.cloud/canales/color_lg_616835e5f83e8a001af668d4.png
 Telemiño,Telemiño,https://media.tvup.cloud/canales/color_lg_698e0c08c22523263e941f45_1771498301451.png
-Distrito TV,Distrito TV,https://media.tvup.cloud/canales/color_lg_69b2eb3e5136c743f88eaa77_1773335379130.png
 Déjate de Historias,Déjate de Historias,https://media.tvup.cloud/canales/color_lg_68dbad0fb99dbf0299283651_1760096916790.png
 50TV,50TV,https://media.tvup.cloud/canales/color_lg_64071465501362001b232195.png
 TAC 12,TAC 12,https://media.tvup.cloud/canales/color_lg_618bac9b0cf6f10021217b45.png

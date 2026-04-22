@@ -51,6 +51,7 @@ surf-channel,Surf Channel,https://images-1.rakuten.tv/storage/global-live-channe
 world-surf-league,World Surf League 24/7,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cc6bb9fa-fbea-40a7-9f1d-ace3c25e9eea.jpeg
 sports-illustrated-tv,Sports Illustrated TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/a05b6f57-bc84-4d9e-8296-6a69acc14f42.jpeg
 pfl-mma,PFL MMA,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1.jpeg
+global-champions-tour-gctv-eng,Global Champions Tour,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/54d52981-e2ea-4a20-8f98-9345171abc4c.jpeg
 racer-international,RACER International,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/e99fd425-48f6-4ced-b550-a9faca315a4d.jpeg
 red-bull-tv-es,Red Bull TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/cf356519-2a5a-4d5e-9737-e133f5c5a5c8.jpeg
 motorvision-tv-spanish,MOTORVISION.TV,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1c0727dc-17ab-4c8b-b6d9-3b300fb3f458.png
