@@ -19,6 +19,7 @@ Paramount Network,Paramount Network
 Veo7,Veo7
 BOM Cine,BOM Cine
 Squirrel TV,Squirrel TV
+Squirrel 2,Squirrel 2
 TRECE,TRECE
 24 Horas,24 Horas
 Teledeporte,Teledeporte
@@ -29,7 +30,7 @@ Boing,Boing
 Nickelodeon HD,Nickelodeon HD
 Andalucía TV,Andalucía TV
 Canal Málaga,Canal Málaga
-101Malaga.TV,101Malaga.TV
+101Malaga.TV,101tv Málaga
 PTV Málaga,PTV Málaga
 7TV Málaga,7TV Málaga
 7TV,7TV
