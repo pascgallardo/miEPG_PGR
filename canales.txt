@@ -37,15 +37,16 @@ PTV Málaga,PTV Málaga
 7TV,7TV
 Distrito TV,Distrito TV
 El Toro TV,El Toro TV
-TVE_INTER.TV,TVE_INTER.TV
+RNE.TV,RNE para todos
+TVE_INTER.TV,TVE Int. Europa
 Antena3Internacional.es@SD,Antena3Internacional.es@SD
 AtreseriesInternacional.es@SD,AtreseriesInternacional.es@SD
-Canal.Parlamento.es,Canal.Parlamento.es
+Canal.Parlamento.es,Canal Parlamento
 Parlamento de Andalucía,Parlamento de Andalucía
 Somos Cine,Somos Cine
 ES33000079W,Crimen
 La Revuelta,La Revuelta
-RTVE_Cocina.TV,RTVE_Cocina.TV
+RTVE_Cocina.TV,Cocina
 ES33000036Q,Docs
 Los Conciertos de Radio 3,Los Conciertos de Radio 3
 Multicine atresplayer,Multicine atresplayer
@@ -60,7 +61,7 @@ AMC HD,AMC HD
 SyFy HD,SyFy HD
 LG 1 Film,LG 1 Film
 LG 1 Spotlight,LG 1 Spotlight
-plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
+plex.tv.ARTFLIX.-.Películas.Clásicas.plex,ARTFLIX
 Todo Drama,Todo Drama
 Sony One Hits Comedia,Sony One Hits Comedia
 Sony One Hits Acción,Sony One Hits Acción
