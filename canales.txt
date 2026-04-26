@@ -43,11 +43,13 @@ TVE_INTER.TV,TVE Int. Europa
 Canal.Parlamento.es,Canal Parlamento
 Parlamento de Andalucía,Parlamento de Andalucía
 Somos Cine,Somos Cine
-ES33000079W,Crimen
+
 La Revuelta,La Revuelta
 RTVE_Cocina.TV,Cocina
-ES33000036Q,Docs
+
 Los Conciertos de Radio 3,Los Conciertos de Radio 3
+ES33000079W,Crimen
+ES33000036Q,Docs
 Multicine atresplayer,Multicine atresplayer
 Comedia atresplayer,Comedia atresplayer
 El club de la comedia,El club de la comedia
