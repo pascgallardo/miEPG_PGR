@@ -292,3 +292,4 @@ NatureVision,NatureVision
 stingray-naturescape,stingray-naturescape
 ZenLIFE.es,ZenLIFE.es
 ES2200001SF,Fireplace Vibes
+CGTN Documentary,CGTN Documentary
