@@ -33,7 +33,7 @@ Canal Málaga,Canal Málaga
 101Malaga.TV,101TV Málaga
 PTV Málaga,PTV Málaga
 7TV Málaga,7TV Málaga
-7TV,7TV
+7TV,7TV Andalucía
 Distrito TV,Distrito TV
 El Toro TV,El Toro TV
 RNE.TV,RNE para todos
@@ -43,11 +43,16 @@ TVE_INTER.TV,TVE Int. Europa
 Canal.Parlamento.es,Canal Parlamento
 Parlamento de Andalucía,Parlamento de Andalucía
 Somos Cine,Somos Cine
-
-La Revuelta,La Revuelta
-RTVE_Cocina.TV,Cocina
-
 Los Conciertos de Radio 3,Los Conciertos de Radio 3
+La Revuelta,La Revuelta
+RTVE_Cuentame.TV,Cuéntame
+RTVE_Moderna.TV,La Moderna
+RTVE_Promesa.TV,La Promesa
+RTVE_Series.TV,Saber y ganar
+RTVE_Cocina.TV,Cocina
+RTVE_PopUp.TV,Al cielo con ella
+RTVE_PopUp2.TV,Dia de la tierra
+RTVE_En_Play.TV,En Play
 ES33000079W,Crimen
 ES33000036Q,Docs
 Multicine atresplayer,Multicine atresplayer
