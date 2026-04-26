@@ -16,10 +16,9 @@ Factoría de Ficción,Factoría de Ficción
 Divinity,Divinity
 Energy,Energy
 Be Mad,Be Mad
-Paramount Network,Paramount Network
 Veo7,Veo7
 BOM Cine,BOM Cine
-Squirrel TV,Squirrel TV
+Squirrel TV,Squirrel
 Squirrel 2,Squirrel 2
 TRECE,TRECE
 24 Horas,24 Horas
@@ -28,19 +27,19 @@ Real Madrid TV,Real Madrid TV
 Clan,Clan
 Kidz,Kidz
 Boing,Boing
-Nickelodeon HD,Nickelodeon HD
+Nickelodeon HD,Nickelodeon
 Andalucía TV,Andalucía TV
 Canal Málaga,Canal Málaga
-101Malaga.TV,101tv Málaga
+101Malaga.TV,101TV Málaga
 PTV Málaga,PTV Málaga
 7TV Málaga,7TV Málaga
 7TV,7TV
 Distrito TV,Distrito TV
 El Toro TV,El Toro TV
 RNE.TV,RNE para todos
+RNE_Radio3.TV,Radio 3
+RNE_Radio5.TV,Radio 5
 TVE_INTER.TV,TVE Int. Europa
-Antena3Internacional.es@SD,Antena3Internacional.es@SD
-AtreseriesInternacional.es@SD,AtreseriesInternacional.es@SD
 Canal.Parlamento.es,Canal Parlamento
 Parlamento de Andalucía,Parlamento de Andalucía
 Somos Cine,Somos Cine
