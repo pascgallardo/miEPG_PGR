@@ -9,6 +9,7 @@ Canal Sur Andalucía,Canal Sur Andalucía
 Neox,Neox
 Nova,Nova
 Atreseries,Atreseries
+Atrescine,Atrescine
 Mega,Mega
 Ten,Ten
 Factoría de Ficción,Factoría de Ficción
