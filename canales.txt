@@ -1,10 +1,10 @@
-La 1 HD,La 1 HD
+La 1 HD,La 1
 La 2,La 2
-Antena 3 HD,Antena 3 HD
-Cuatro HD,Cuatro HD
-Telecinco HD,Telecinco HD
-La Sexta HD,La Sexta HD
-Canal Sur HD,Canal Sur HD
+Antena 3 HD,Antena 3
+Cuatro HD,Cuatro
+Telecinco HD,Telecinco
+La Sexta HD,La Sexta
+Canal Sur HD,Canal Sur
 Canal Sur Andalucía,Canal Sur Andalucía
 Neox,Neox
 Nova,Nova
@@ -19,7 +19,7 @@ Paramount Network,Paramount Network
 Veo7,Veo7
 BOM Cine,BOM Cine
 Squirrel TV,Squirrel TV
-TR3CE,TR3CE
+TRECE,TRECE
 24 Horas,24 Horas
 Teledeporte,Teledeporte
 Real Madrid TV,Real Madrid TV
