@@ -40,21 +40,19 @@ RNE.TV,RNE para todos
 RNE_Radio3.TV,Radio 3
 RNE_Radio5.TV,Radio 5
 TVE_INTER.TV,TVE Int. Europa
-Canal.Parlamento.es,Canal Parlamento
+Canal Parlamento,Canal Parlamento
 Parlamento de Andalucía,Parlamento de Andalucía
 Somos Cine,Somos Cine
 Los Conciertos de Radio 3,Los Conciertos de Radio 3
 La Revuelta,La Revuelta
-RTVE_Cuentame.TV,Cuéntame
-RTVE_Moderna.TV,La Moderna
-RTVE_Promesa.TV,La Promesa
-RTVE_Series.TV,Saber y ganar
-RTVE_Cocina.TV,Cocina
+Cuéntame,Cuéntame
+La Moderna,La Moderna
+La Promesa,La Promesa
+Saber y ganar,Saber y ganar
+Cocina,Cocina
 RTVE_PopUp.TV,Al cielo con ella
 RTVE_PopUp2.TV,Dia de la tierra
 RTVE_En_Play.TV,En Play
-ES33000079W,Crimen
-ES33000036Q,Docs
 Multicine atresplayer,Multicine atresplayer
 Comedia atresplayer,Comedia atresplayer
 El club de la comedia,El club de la comedia
