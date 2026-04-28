@@ -1,6 +1,6 @@
 # Fuente: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/tiviepg.xml
-La 1,La 1,https://media.tvup.cloud/canales/color_lg_5a65fb256ba63915ccb5138e_1768217350332.png
-La 2,La 2,https://media.tvup.cloud/canales/color_lg_5a65fb546ba63915ccb5138f_1768217440330.png
+La 1,La 1,https://media.tvup.cloud/canales/color_lg_5a65fb256ba63915ccb5138e_1777295646184.png
+La 2,La 2,https://media.tvup.cloud/canales/color_lg_5a65fb546ba63915ccb5138f_1777295726076.png
 Antena 3,Antena 3,https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04587_1737963282649.png
 Cuatro,Cuatro,https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png
 Telecinco,Telecinco,https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png
@@ -27,7 +27,7 @@ TPA8,TPA8,https://media.tvup.cloud/canales/color_lg_5efc32cc377b9a00658da210.png
 TVG 2,TVG 2,https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.png
 La Otra,La Otra,https://media.tvup.cloud/canales/color_lg_5f96a0831a1838006f570679.png
 Grupo Cadena Media,Grupo Cadena Media,https://media.tvup.cloud/canales/color_lg_68d50b82b99dbf02992756ef_1760097442254.png
-2Cat,2Cat,https://media.tvup.cloud/canales/color_lg_68e7a2e8f28a3db1aeb0e25b_1768217473865.png
+2Cat,2Cat,https://media.tvup.cloud/canales/color_lg_68e7a2e8f28a3db1aeb0e25b_1777295791506.png
 Cines Verdi TV,Cines Verdi TV,https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png
 El Reino Infantil,El Reino Infantil,https://media.tvup.cloud/canales/color_lg_68b93d3e4d93469d16944395_1761736989866.png
 Crímenes Reales,Crímenes Reales,https://media.tvup.cloud/canales/color_lg_68da93df08f02632a129035e_1759155168639.png
@@ -112,7 +112,7 @@ Armonía TeVe Sana,Armonía TeVe Sana,https://media.tvup.cloud/canales/color_lg_
 Nesting TV,Nesting TV,https://media.tvup.cloud/canales/color_lg_6388e7e31cb5910021615cfd.png
 1+1 Travel,1+1 Travel,https://media.tvup.cloud/canales/color_lg_67b45f2312c340d44a9a3f59_1740572348048.png
 LALIGA Inside,LALIGA Inside,https://media.tvup.cloud/canales/color_lg_654b7c53df47884c5b032b4e.png
-Teledeporte,Teledeporte,https://media.tvup.cloud/canales/color_lg_5ac5e65403080405b20a4ff1_1768217586064.png
+Teledeporte,Teledeporte,https://media.tvup.cloud/canales/color_lg_5ac5e65403080405b20a4ff1_1777295828963.png
 Betis TV,Betis TV,https://media.tvup.cloud/canales/color_lg_5b1e746bdd713247dee47264.png
 Esport 3,Esport 3,https://media.tvup.cloud/canales/color_lg_5b04156ab63af22346518c4c.png
 Red Bull TV,Red Bull TV,https://media.tvup.cloud/canales/color_lg_5c4352438c3e78047f57c408.png
@@ -127,7 +127,7 @@ Surf Channel TV,Surf Channel TV,https://media.tvup.cloud/canales/color_lg_668ba8
 DFB Play TV,DFB Play TV,https://media.tvup.cloud/canales/color_lg_67ab8140d8408152166c2c70_1764334750092.png
 INTROUBLE,INTROUBLE,https://media.tvup.cloud/canales/color_lg_67a0a9927668774da5215303_1739965102633.png
 Boing,Boing,https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png
-Clan,Clan,https://media.tvup.cloud/canales/color_lg_5af069f7e05c6c75f9537c3d_1768217517956.png
+Clan,Clan,https://media.tvup.cloud/canales/color_lg_5af069f7e05c6c75f9537c3d_1777295907627.png
 El Reino Infantil (dial 134),El Reino Infantil (dial 134),https://media.tvup.cloud/canales/color_lg_68da4ff1fa03e9d7985c916b_1759137778125.png
 Pocoyó,Pocoyó,https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png
 Cry Babies,Cry Babies,https://media.tvup.cloud/canales/color_lg_68245fd4fd0e5f592c906fa7_1753883786472.png
@@ -164,7 +164,7 @@ Satén | 100% Español,Satén | 100% Español,https://media.tvup.cloud/canales/c
 Satén | Luxury,Satén | Luxury,https://media.tvup.cloud/canales/color_lg_6572ecbfa139960d20306c6e.png
 Satén | Classy,Satén | Classy,https://media.tvup.cloud/canales/color_lg_6574305becdeacbbc5953216.png
 Satén TV | Promo,Satén TV | Promo,https://media.tvup.cloud/canales/color_lg_679a35c3c94f7e5c9b8e94c2_1738159555540.png
-Canal 24 horas,Canal 24 horas,https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1768217632330.png
+Canal 24 horas,Canal 24 horas,https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png
 Negocios TV,Negocios TV,https://media.tvup.cloud/canales/color_lg_60dab53deb84d1001aa69c13.png
 3CatInfo,3CatInfo,https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094_1758096590448.png
 El País,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
@@ -202,13 +202,12 @@ TV3 CAT (dial 280),TV3 CAT (dial 280),https://media.tvup.cloud/canales/color_lg_
 Canal Sur Andalucía,Canal Sur Andalucía,https://media.tvup.cloud/canales/color_lg_5ee9fff71ce1aa005e15903a.png
 TVG Sat,TVG Sat,https://media.tvup.cloud/canales/color_lg_5ee9f9b1b5254100802858a6.png
 Aragón TV Int,Aragón TV Int,https://media.tvup.cloud/canales/color_lg_5ee9fd0c1ce1aa005e159034_1776940440839.png
-Canal Extremadura Sat,Canal Extremadura Sat,https://media.tvup.cloud/canales/color_lg_5eea025168808e0075a18ebf.png
 Telemadrid Internacional,Telemadrid Internacional,https://media.tvup.cloud/canales/color_lg_5eea1a3668e3f10084d59a2b.png
 ETB 1 ON,ETB 1 ON,https://media.tvup.cloud/canales/color_lg_69e0f790f1d3f99df26ff0ee_1776351120456.png
 ETB 2 ON,ETB 2 ON,https://media.tvup.cloud/canales/color_lg_5ee9fb1628d1e700655d6c44_1775741749679.png
 IB3 Global,IB3 Global,https://media.tvup.cloud/canales/color_lg_60d9ee5620076b001a8401af.png
 Bon Dia TV,Bon Dia TV,https://media.tvup.cloud/canales/color_lg_6050a6723662e20039601c62.png
-La 1 | Catalunya,La 1 | Catalunya,https://media.tvup.cloud/canales/color_lg_5afea59fd2fc610babd2b87b_1768217377150.png
+La 1 | Catalunya,La 1 | Catalunya,https://media.tvup.cloud/canales/color_lg_5afea59fd2fc610babd2b87b_1777295673344.png
 CMM Global,CMM Global,https://media.tvup.cloud/canales/color_lg_5eea1958178246005fe5275d.png
 Distrito TV,Distrito TV,https://media.tvup.cloud/canales/color_lg_69b2eb3e5136c743f88eaa77_1773335379130.png
 Betevé,Betevé,https://media.tvup.cloud/canales/color_lg_5cdc1465d1a7460050d8af0a.png
