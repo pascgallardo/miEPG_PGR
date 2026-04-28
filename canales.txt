@@ -36,10 +36,10 @@ PTV Málaga,PTV Málaga
 7TV,7TV Andalucía
 Distrito TV,Distrito TV
 El Toro TV,El Toro TV
-RNE.TV,RNE para todos
-RNE_Radio3.TV,Radio 3
-RNE_Radio5.TV,Radio 5
-TVE_INTER.TV,TVE Int. Europa
+RNE.TV,RNE.TV
+RNE_Radio3.TV,RNE_Radio3.TV
+RNE_Radio5.TV,RNE_Radio5.TV
+TVE_INTER.TV,TVE_INTER.TV
 Canal Parlamento,Canal Parlamento
 Parlamento de Andalucía,Parlamento de Andalucía
 Somos Cine,Somos Cine
