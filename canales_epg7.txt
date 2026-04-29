@@ -26,7 +26,7 @@ bbc-top-gear-spa,Top Gear en español,https://images-2.rakuten.tv/storage/global
 yu-gi-oh-new-spa,Yu-Gi-Oh!,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/f23b1f1a-4854-441c-8522-9bf991f0bf21.jpeg
 mr-bean-es,Mr. Bean,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/7ff74f0d-63d9-44f5-99e3-d11bdbf81197.jpeg
 mr-bean-live-action,Mr. Bean - Live Action,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/494bf8eb-ab6c-40ba-884a-3625c9181e1d.jpeg
-todo-comedia,Todo Comedia,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/90b320ab-42d4-4a7a-9f7b-643d6c028014.jpeg
+lol-espana,LOL España,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/927977ca-717e-449a-9499-d1364efd3bdb.jpeg
 todo-drama,Todo Drama,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/fd26c4b5-868a-4520-8791-d016d0dd46b8.jpeg
 rookie-blue-spa,Rookie Blue,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/4fd593d9-67b8-46a6-ad8a-b89a33bc4572.jpeg
 wedotv-amor,wedotv Amor,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f2eabb04-9a91-4acb-97ff-8eab64c09446.jpeg
@@ -102,7 +102,7 @@ todo-crimen,Todo Crimen,https://images-3.rakuten.tv/storage/global-live-channel/
 crimenes-reales,Crímenes Reales,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ff4a2f43-f916-4e28-b349-632744ad68f2.jpeg
 aftershock-meo-lc,Aftershock Mi Extraña Obsesión/Loca Compulsión,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a39db06d-1e23-476a-8eda-ee9460c31ef7.jpeg
 royalworld-es,Royalworld - Nobleza y dinastías,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/706db597-244a-4939-9453-ea7b0c543d70.jpeg
-naturaleza,Naturaleza,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/7f26f4ea-f964-4d23-a365-dbbd55108e26.jpeg
+planeta-salvaje,Planeta Salvaje,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/42315941-22ff-4580-aca9-98260d001ad2.jpeg
 weather-spy-new,Weather Spy,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/5e9b49bb-f481-40ee-8dac-dd9341ff52f9.jpeg
 nature-time-es,Nature Time,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/140fe96a-bda7-4ea2-b1ba-798224c28f46.jpeg
 cgtn-documentary,CGTN Documentary,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ca4d6759-647b-4519-99f6-e76de3963de5.jpeg
