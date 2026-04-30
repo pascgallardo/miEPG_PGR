@@ -1,4 +1,6 @@
+La1.TV,La1.TV
 La 1 HD,La 1
+La2.TV,La2.TV
 La 2,La 2
 Antena 3 HD,Antena 3
 Cuatro HD,Cuatro
