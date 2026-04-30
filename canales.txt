@@ -42,6 +42,7 @@ RNE.TV,RNE.TV
 RNE_Radio3.TV,RNE_Radio3.TV
 RNE_Radio5.TV,RNE_Radio5.TV
 TVE_INTER.TV,TVE_INTER.TV
+Star TVE HD,Star TVE HD
 Canal Parlamento,Canal Parlamento
 Parlamento de Andalucía,Parlamento de Andalucía
 Somos Cine,Somos Cine
