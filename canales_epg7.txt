@@ -74,7 +74,6 @@ gusto-tv-new,Gusto TV,https://images-2.rakuten.tv/storage/global-live-channel/tr
 a-bocados,A bocados,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bc94df36-c17c-4496-a6f1-39bd133ddc49.jpeg
 metal-rocks,Metal.Rocks,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/d87dc825-59c3-42cd-b973-a619c211f3a3.jpeg
 qwest-tv,Qwest TV,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/ea0298dc-538a-44b7-b58c-fa23625ff1a0.jpeg
-flamenco-auditorio,Flamenco Auditorio,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/02365da1-268e-42e2-8fe2-5d6486ac5ddc.jpeg
 stingray-greatest-hits,Stingray Greatest Hits,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/6d183d7f-50c9-40f6-825f-e3d70f97247d.jpeg
 stingray-hit-list,Stingray: Hitlist,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/04f1c1b9-2e32-4464-825c-4aa740b3981f-stingray-hitlist-1607508431.jpeg
 stingray-remember-the-80-s,Stingray: Remember the 80’s,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/32a49d06-f203-4b4a-829c-4d1f66bf6a03.jpeg
