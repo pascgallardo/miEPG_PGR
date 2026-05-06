@@ -22,7 +22,7 @@
 6304f530440dc90007f514d3,Poirot &amp; Miss Marple,https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png
 66d71f8ee5de930008016f83,Alice Nevers,https://images.pluto.tv/channels/66d71f8ee5de930008016f83/colorLogoPNG_1730816120590.png
 61bb2814ac085a00074309a6,Unidad de investigación,https://images.pluto.tv/channels/61bb2814ac085a00074309a6/colorLogoPNG.png
-6964d2179ba4ac18051a18ce,Léo Mattéï: Brigada de protección,https://images.pluto.tv/channels/6964d2179ba4ac18051a18ce/colorLogoPNG_1774344400865.png
+6964d2179ba4ac18051a18ce,Léo Mattéï: Brigada de protección,https://images.pluto.tv/channels/6964d2179ba4ac18051a18ce/colorLogoPNG_1777976845815.png
 5f984f4a09e92d0007d74647,Archivos Forenses,https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png
 5f1acbed25948a0007ffbe65,Los archivos del FBI,https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png
 5f1acba0d1f6340007db8843,Los nuevos detectives,https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png
