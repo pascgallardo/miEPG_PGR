@@ -120,7 +120,6 @@ Motorvision TV,Motorvision TV,https://media.tvup.cloud/canales/color_lg_5e455c96
 MMA TV,MMA TV,https://media.tvup.cloud/canales/color_lg_6294d284c044ca001e71987d.png
 Fuel TV,Fuel TV,https://media.tvup.cloud/canales/color_lg_64e720715bc77dacbbbb6ec8.png
 Trace Sport Stars,Trace Sport Stars,https://media.tvup.cloud/canales/color_lg_6458cdd3462b2c49012785fe.png
-My Padel TV,My Padel TV,https://media.tvup.cloud/canales/color_lg_669e7c664641c24ee2ea8b16.png
 Tennis Channel,Tennis Channel,https://media.tvup.cloud/canales/color_lg_6641c6c0e6e81024bb6171b2_1733130445118.png
 Rugby Spain,Rugby Spain,https://media.tvup.cloud/canales/color_lg_67ea5bd64f9cb1be71461795_1750846676105.png
 Surf Channel TV,Surf Channel TV,https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3_1731408353544.png
@@ -312,3 +311,4 @@ Stingray Easy Listening,Stingray Easy Listening,https://media.tvup.cloud/canales
 Stingray The Spa,Stingray The Spa,https://media.tvup.cloud/canales/color_lg_670fd13f093504d2d219fb5b_1729848846212.png
 Stingray Soul Storm,Stingray Soul Storm,https://media.tvup.cloud/canales/color_lg_6710ec60093504d2d21a3e9d_1729849056447.png
 Stingray DanceFloor Fillers,Stingray DanceFloor Fillers,https://media.tvup.cloud/canales/color_lg_671215c3093504d2d21a8822_1729849235326.png
+Descubre Tivify,Descubre Tivify,https://media.tvup.cloud/canales/color_lg_5ef828a88e71ea00650e81cf.png
