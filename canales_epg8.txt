@@ -1,13 +1,13 @@
 # Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz
 69bd2cc70b6c04b3e635ba29,Goku Day,https://images.pluto.tv/channels/69bd2cc70b6c04b3e635ba29/colorLogoPNG_1777475445645.png
 69c5100c3d2597380f0f6422,Gata salvaje,https://images.pluto.tv/missing.png
+69c51060ed1b1f1acb5092dc,Alaska y Mario,https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png
 6793ac47f5c74bff95d18a99,TOP BARÇA,https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG.png
 657868a7a620e30008fdbfeb,Embrujadas,https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png
 6812206e1b3e3be031a5c363,Águila Roja,https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/colorLogoPNG_1754647874286.png
 685a995b460ac82fa504342c,The Good Wife,https://images.pluto.tv/channels/685a995b460ac82fa504342c/colorLogoPNG_1750771214380.png
 683457aebbc703dfd45a89eb,Merlí,https://images.pluto.tv/channels/683457aebbc703dfd45a89eb/colorLogoPNG_1749718381815.png
 5f1acce7f17797000718f9be,Ana y los 7,https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png
-65b91e530d9ab40008340d8d,Al salir de clase,https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png
 5f1acd36779de70007a680d1,Curro Jiménez,https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png
 65dded6966eec80008947157,¡Llama a la Comadrona!,https://images.pluto.tv/channels/65dded6966eec80008947157/colorLogoPNG_1775051870040.png
 6245c03922d9d4000760d205,Melrose Place,https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png
@@ -91,6 +91,7 @@
 6475bfec536e0c0008858e9f,Pluto TV K-Drama,https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png
 5f1ac8f49205650007bc15f1,Pluto TV Series,https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png
 60dafb9a0df1ba000758d37b,BBC Series,https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png
+65b91e530d9ab40008340d8d,Al salir de clase,https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png
 61922be835f3910007fc58f6,En el punto de mira,https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png
 600ae6a78d801e0007117d21,Pluto TV Animales,https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png
 69b3db5d61e8e298254c7108,Space Live,https://images.pluto.tv/channels/69b3db5d61e8e298254c7108/colorLogoPNG_1775061733929.png
