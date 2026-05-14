@@ -126,6 +126,7 @@
 67164414e40c4a00087f450d,MODUS Super Series Darts,https://images.pluto.tv/channels/67164414e40c4a00087f450d/colorLogoPNG_1732095042151.png
 69148c470155f9b136b5d856,Pluto TV Snooker 900,https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png
 67921b873de7c8cf94233f52,UFC,https://images.pluto.tv/channels/67921b873de7c8cf94233f52/colorLogoPNG.png
+69f9c50202b6c1c00a213519,Dominance FC TV,https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/colorLogoPNG_1777976664055.png
 696e02423b9ce349c90edef9,Rally TV,https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png
 660c29f80cd4630008f1547c,FIFA+,https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png
 65f96cd34e01740008ef1c97,Realmadrid TV,https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png
@@ -136,8 +137,8 @@
 5f1ab3c7778230000735cf41,MTV Catfish TV Show,https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png
 62ac3d7dc23b400008ae5b5a,MTV Jerseys,https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png
 5f1aadf373bed3000794d1d7,MTV Originals,https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png
-600169ec77e6f70008fa9cf0,MTV Dating,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png
 627d3176d7dfa500077042f1,MTV Geordies,https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png
+600169ec77e6f70008fa9cf0,MTV Dating,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png
 6130d8dc943001000708548d,MTV Reality,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1750751822893.png
 611b87946b7f420007c22361,MTV Tattoo a dos,https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png
 5f98537a5a4341000733aefe,MTV Embarazada a los 16,https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png
