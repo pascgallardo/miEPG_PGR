@@ -1,5 +1,4 @@
 # Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz
-69bd2cc70b6c04b3e635ba29,Goku Day,https://images.pluto.tv/channels/69bd2cc70b6c04b3e635ba29/colorLogoPNG_1777475445645.png
 69c5100c3d2597380f0f6422,Gata salvaje,https://images.pluto.tv/missing.png
 69c51060ed1b1f1acb5092dc,Alaska y Mario,https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png
 6793ac47f5c74bff95d18a99,TOP BARÇA,https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG.png
@@ -136,8 +135,8 @@
 5f1ab3c7778230000735cf41,MTV Catfish TV Show,https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png
 62ac3d7dc23b400008ae5b5a,MTV Jerseys,https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png
 5f1aadf373bed3000794d1d7,MTV Originals,https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png
-600169ec77e6f70008fa9cf0,MTV Dating,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png
 627d3176d7dfa500077042f1,MTV Geordies,https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png
+600169ec77e6f70008fa9cf0,MTV Dating,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png
 6130d8dc943001000708548d,MTV Reality,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1750751822893.png
 611b87946b7f420007c22361,MTV Tattoo a dos,https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png
 5f98537a5a4341000733aefe,MTV Embarazada a los 16,https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png
