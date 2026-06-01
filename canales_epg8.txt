@@ -1,7 +1,7 @@
 # Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz
 69c5100c3d2597380f0f6422,Gata salvaje,https://images.pluto.tv/missing.png
-69c51060ed1b1f1acb5092dc,Alaska y Mario,https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png
-6793ac47f5c74bff95d18a99,TOP BARÇA,https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG.png
+63fe0111dff38e00083510f9,Pluto TV Orgullo,https://images.pluto.tv/channels/63fe0111dff38e00083510f9/colorLogoPNG_1748269327014.png
+6130d8dc943001000708548d,MTV Pride,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1780300237530.png
 657868a7a620e30008fdbfeb,Embrujadas,https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png
 6812206e1b3e3be031a5c363,Águila Roja,https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/colorLogoPNG_1754647874286.png
 685a995b460ac82fa504342c,The Good Wife,https://images.pluto.tv/channels/685a995b460ac82fa504342c/colorLogoPNG_1750771214380.png
@@ -32,9 +32,9 @@
 64a3f200f238ce0008d47247,Pluto TV True Crime,https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png
 60218baa464ef900073168c1,Empeños a lo bestia,https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png
 68adc3fdd8f7693ae347a63a,Los Gipsy Kings,https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/colorLogoPNG_1759420523581.png
+69c51060ed1b1f1acb5092dc,Alaska y Mario,https://images.pluto.tv/channels/69c51060ed1b1f1acb5092dc/colorLogoPNG_1778483817519.png
 6335a6b6e6f7a600076e589e,Cazasubastas,https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/colorLogoPNG.png
 686cd84603ad75cfd132d672,America's Next Top Model,https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png
-61b87bc867b03a0007864e0d,Pluto TV Reality,https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/colorLogoPNG_1748526677692.png
 68adc697116b783a33f99e6c,Pluto TV Impacto,https://images.pluto.tv/channels/68adc697116b783a33f99e6c/colorLogoPNG_1760448745473.png
 6554bd45aa9ffb00088e5589,COPS,https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/colorLogoPNG.png
 65254e8d81f9420008342cee,La fiebre del Jade,https://images.pluto.tv/channels/65254e8d81f9420008342cee/colorLogoPNG.png
@@ -100,8 +100,8 @@
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina,https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png
 690dd10a37b131228d76d5b1,El Mueble,https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png
 64db2e0835425100080f2f5a,Pluto TV Diseño,https://images.pluto.tv/channels/64db2e0835425100080f2f5a/colorLogoPNG.png
-65786abdb3801200084c593a,Homeful,https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png
 686cd8bb9d079f48dbbdfecb,Metal Rocks,https://images.pluto.tv/channels/686cd8bb9d079f48dbbdfecb/colorLogoPNG_1756372280523.png
+65786abdb3801200084c593a,Homeful,https://images.pluto.tv/channels/65786abdb3801200084c593a/colorLogoPNG.png
 622f42b831233300078658cc,Ciudadanos por el mundo,https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png
 5f1aca0b4e448e00075e7c5e,Bob Esponja,https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png
 6181404ef48321000797bc41,iCarly,https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png
@@ -128,6 +128,7 @@
 69f9c50202b6c1c00a213519,Dominance FC TV,https://images.pluto.tv/channels/69f9c50202b6c1c00a213519/colorLogoPNG_1777976664055.png
 696e02423b9ce349c90edef9,Rally TV,https://images.pluto.tv/channels/696e02423b9ce349c90edef9/colorLogoPNG_1770892063713.png
 660c29f80cd4630008f1547c,FIFA+,https://images.pluto.tv/channels/660c29f80cd4630008f1547c/colorLogoPNG_1750064805891.png
+6793ac47f5c74bff95d18a99,TOP BARÇA,https://images.pluto.tv/channels/6793ac47f5c74bff95d18a99/colorLogoPNG.png
 65f96cd34e01740008ef1c97,Realmadrid TV,https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png
 67517fae5534bb0008187997,Actualidad 360,https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png
 60d3583ef310610007fb02b1,Euronews,https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png
@@ -136,9 +137,8 @@
 5f1ab3c7778230000735cf41,MTV Catfish TV Show,https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png
 62ac3d7dc23b400008ae5b5a,MTV Jerseys,https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png
 5f1aadf373bed3000794d1d7,MTV Originals,https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png
-600169ec77e6f70008fa9cf0,MTV Dating,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png
 627d3176d7dfa500077042f1,MTV Geordies,https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png
-6130d8dc943001000708548d,MTV Reality,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1750751822893.png
+600169ec77e6f70008fa9cf0,MTV Dating,https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG.png
 611b87946b7f420007c22361,MTV Tattoo a dos,https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png
 5f98537a5a4341000733aefe,MTV Embarazada a los 16,https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png
 604f81a49ef73300070e554f,MTV Teen Mom,https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png
