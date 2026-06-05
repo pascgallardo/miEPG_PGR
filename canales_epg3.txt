@@ -41,6 +41,7 @@ FDF,FDF,https://media.tvup.cloud/canales/5ac5e58003080405b20a4feblogoColor.png
 Runtime Series,Runtime Series,https://media.tvup.cloud/canales/color_lg_62d048b854e537001b828bec.png
 Ana y los 7,Ana y los 7,https://media.tvup.cloud/canales/color_lg_6320a26ff8cf6500221fbcf1.png
 Curro Jiménez,Curro Jiménez,https://media.tvup.cloud/canales/color_lg_6320a20a22c53300216710b9.png
+Rebelde,Rebelde,https://media.tvup.cloud/canales/color_lg_6a141d723ee4b064152ea1b6_1780562178641.png
 Todo Novelas,Todo Novelas,https://media.tvup.cloud/canales/color_lg_64109b6bc2b2b100249a9350.png
 Mundo Series,Mundo Series,https://media.tvup.cloud/canales/color_lg_659d3df441ebff82eb57ddc8.png
 Piel Salvaje,Piel Salvaje,https://media.tvup.cloud/canales/color_lg_67ea6a60da42272606a72910_1748330325630.png
