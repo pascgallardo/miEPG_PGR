@@ -39,6 +39,7 @@
 643054b1fc3be59477853717-646d06c9b09f13b2d8af68d8,Azteca Internacional,https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png
 643054b1fc3be59477853717-64487696af92c31f4a190bc4,MyTime Movie Network,https://provider-static.plex.tv/epg/cms/production/eb43f8a1-fb9e-4a1b-b0db-0d720db95f66/MT_PLEX_1500x1000_SPAIN_WHITE_-_Sam_Abraham.png
 643054b1fc3be59477853717-66ea174c9502c5778b828d47,Cine Western,https://provider-static.plex.tv/epg/cms/production/1be934c5-1520-439c-8b0d-52a4f7716311/CinewesternWhite_LogoRDX.png
+643054b1fc3be59477853717-639ba57d3f4612cc150a5723,Pitufo TV,https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png
 643054b1fc3be59477853717-66840a26cd6f1d3940941155,Runtime Crimen,https://provider-static.plex.tv/epg/cms/production/54114614-0221-4487-bcae-168f29eb082f/Runtime_ES_Crimen_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-68864d2d062dc5a487f806e0,Todo Pasión,https://provider-static.plex.tv/epg/cms/production/a0a3a170-5591-4904-8191-4766a2b203a6/LOGO_BLANC_-_JC_DERSOIRRDX.png
 643054b1fc3be59477853717-6684011fcd6f1d394094114d,Runtime Series,https://provider-static.plex.tv/epg/cms/production/077da4d3-b10f-4487-8765-3806a693f8fd/Runtime_ES_Series_Dark_Mode_Logordx.png
@@ -87,7 +88,6 @@
 643054b1fc3be59477853717-621674f168c966be92737ce6,El Conflicto TV,https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png
 643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73,Mi Casa,https://provider-static.plex.tv/epg/cms/production/024f4cb9-2765-4ec5-b222-dc3388106f16/channel_logo_1500x1000_light.png.png
 643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6,Saborear TV,https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png
-643054b1fc3be59477853717-639ba57d3f4612cc150a5723,Pitufo TV,https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png
 643054b1fc3be59477853717-67a1a8ef2358ef4dd5c3018e,Lucha Plus,https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png
 643054b1fc3be59477853717-682d0bc9363625fa508aef43,Nature Time,https://provider-static.plex.tv/epg/cms/production/2264f961-88d5-46c6-a987-9d5dd7a15d69/NATURE_TIMEWHITE_LOGO.png
 643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872,FilmRise Sci-Fi,https://provider-static.plex.tv/epg/cms/production/52e549aa-1c71-4285-a47c-63be6a60aa54/FilmRise_SciFi_1500x1000_Light_Logo.png
