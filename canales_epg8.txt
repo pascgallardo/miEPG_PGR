@@ -30,7 +30,7 @@
 5f1acbed25948a0007ffbe65,Los archivos del FBI,https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png
 5f1acba0d1f6340007db8843,Los nuevos detectives,https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png
 60ed5fb9c4716d0007d180c5,Cazador de Homicidas,https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png
-654a35ce346f420008d5c36e,Pluto TV Invasión Alien,https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG.png
+654a35ce346f420008d5c36e,Pluto TV Invasión Alien,https://images.pluto.tv/channels/654a35ce346f420008d5c36e/colorLogoPNG_1781530240161.png
 64ddcbb14c5ed80008fad416,Crimen &amp; Historia,https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png
 64a3f200f238ce0008d47247,Pluto TV True Crime,https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png
 60218baa464ef900073168c1,Empeños a lo bestia,https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png
