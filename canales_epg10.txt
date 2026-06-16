@@ -1,2 +1,0 @@
-# Fuente: https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz
-/esruntime-series,Runtime Series ,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg

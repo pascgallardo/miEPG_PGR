@@ -28,9 +28,9 @@ La 8,La 8,https://media.tvup.cloud/canales/color_lg_5efb6e543407ff005f143167.png
 La Otra,La Otra,https://media.tvup.cloud/canales/color_lg_5f96a0831a1838006f570679.png
 Grupo Cadena Media,Grupo Cadena Media,https://media.tvup.cloud/canales/color_lg_68d50b82b99dbf02992756ef_1760097442254.png
 2Cat,2Cat,https://media.tvup.cloud/canales/color_lg_68e7a2e8f28a3db1aeb0e25b_1777295991022.png
-Cine Feel Good Verdi TV,Cine Feel Good Verdi TV,https://media.tvup.cloud/canales/color_lg_65b0fa5ea9d9e0e7df13780e.png
-El Mueble,El Mueble,https://media.tvup.cloud/canales/color_lg_692ec41de3d555edbe178836_1767099123599.png
-Djazz,Djazz,https://media.tvup.cloud/canales/color_lg_679392cd97c8c3631a9e12f6_1740999173244.png
+Pocoyó,Pocoyó,https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png
+Rebelde,Rebelde,https://media.tvup.cloud/canales/color_lg_6a141d723ee4b064152ea1b6_1780562178641.png
+Stingray Himnos del fútbol,Stingray Himnos del fútbol,https://media.tvup.cloud/canales/color_lg_6a2184455eff12f6c2dc9abd_1780652329634.png
 TRECE,TRECE,https://media.tvup.cloud/canales/color_lg_5b07e3b5b0b6b936758c5a97.png
 AXN,AXN,https://media.tvup.cloud/canales/color_lg_5ac5c48b03080405b20a4fe0.png
 AMC,AMC,https://media.tvup.cloud/canales/color_lg_5bc6e373057cb0004ba4037c.png
@@ -41,7 +41,7 @@ FDF,FDF,https://media.tvup.cloud/canales/5ac5e58003080405b20a4feblogoColor.png
 Runtime Series,Runtime Series,https://media.tvup.cloud/canales/color_lg_62d048b854e537001b828bec.png
 Ana y los 7,Ana y los 7,https://media.tvup.cloud/canales/color_lg_6320a26ff8cf6500221fbcf1.png
 Curro Jiménez,Curro Jiménez,https://media.tvup.cloud/canales/color_lg_6320a20a22c53300216710b9.png
-Rebelde,Rebelde,https://media.tvup.cloud/canales/color_lg_6a141d723ee4b064152ea1b6_1780562178641.png
+Rebelde (dial 28),Rebelde (dial 28),https://media.tvup.cloud/canales/color_lg_6a2fa0edcdd245543ba388a6_1781506285696.png
 Todo Novelas,Todo Novelas,https://media.tvup.cloud/canales/color_lg_64109b6bc2b2b100249a9350.png
 Mundo Series,Mundo Series,https://media.tvup.cloud/canales/color_lg_659d3df441ebff82eb57ddc8.png
 Piel Salvaje,Piel Salvaje,https://media.tvup.cloud/canales/color_lg_67ea6a60da42272606a72910_1748330325630.png
@@ -58,7 +58,7 @@ Sundance TV,Sundance TV,https://media.tvup.cloud/canales/color_lg_5bd893517525c6
 Somos,Somos,https://media.tvup.cloud/canales/color_lg_5c066ce8af988941cfbcb14f.png
 Be Mad,Be Mad,https://media.tvup.cloud/canales/color_lg_5ac5c4c303080405b20a4fe1.png
 Cines Verdi TV,Cines Verdi TV,https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png
-Cine Feel Good Verdi TV (dial 50),Cine Feel Good Verdi TV (dial 50),https://media.tvup.cloud/canales/color_lg_64e32db00ca0bcff00c1c142.png
+Cine Feel Good Verdi TV,Cine Feel Good Verdi TV,https://media.tvup.cloud/canales/color_lg_65b0fa5ea9d9e0e7df13780e.png
 Runtime,Runtime,https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png
 Runtime Acción,Runtime Acción,https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png
 Runtime Comedia,Runtime Comedia,https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png
@@ -92,7 +92,8 @@ Vivir con perros,Vivir con perros,https://media.tvup.cloud/canales/color_lg_628c
 Fashion TV,Fashion TV,https://media.tvup.cloud/canales/color_lg_639737a1355098001a413cbf.png
 Historia y Vida,Historia y Vida,https://media.tvup.cloud/canales/color_lg_668507f37af6025d72e24193.png
 Love The Planet,Love The Planet,https://media.tvup.cloud/canales/color_lg_64e480ccdc3cd8224ded0426.png
-El Mueble (dial 91),El Mueble (dial 91),https://media.tvup.cloud/canales/color_lg_69898ce91451746315ca25fd_1770622186115.png
+El Mueble,El Mueble,https://media.tvup.cloud/canales/color_lg_692ec41de3d555edbe178836_1767099123599.png
+EscapaTV,EscapaTV,https://media.tvup.cloud/canales/color_lg_667eb39f46a1b3c800aa90cd_1775745272122.png
 Oficios perdidos,Oficios perdidos,https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png
 ZenLIFE,ZenLIFE,https://media.tvup.cloud/canales/color_lg_661414e8317db681aee6b0a1.png
 Love Wine,Love Wine,https://media.tvup.cloud/canales/color_lg_64e4811a758e3601480d3262.png
@@ -129,7 +130,7 @@ INTROUBLE,INTROUBLE,https://media.tvup.cloud/canales/color_lg_67a0a9927668774da5
 Boing,Boing,https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png
 Clan,Clan,https://media.tvup.cloud/canales/color_lg_5af069f7e05c6c75f9537c3d_1777295907627.png
 El Reino Infantil,El Reino Infantil,https://media.tvup.cloud/canales/color_lg_68b93d3e4d93469d16944395_1761736989866.png
-Pocoyó,Pocoyó,https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png
+Pocoyó (dial 135),Pocoyó (dial 135),https://media.tvup.cloud/canales/color_lg_642c2b9dc27d59001cf7e050.png
 Cry Babies,Cry Babies,https://media.tvup.cloud/canales/color_lg_68245fd4fd0e5f592c906fa7_1753883786472.png
 Rabbids Invasion,Rabbids Invasion,https://media.tvup.cloud/canales/color_lg_68245fddfd0e5f592c906fb5_1756896784354.png
 La Abeja Maya,La Abeja Maya,https://media.tvup.cloud/canales/color_lg_6479dd1666328d12f0eb0843_1741875413804.png
@@ -154,7 +155,7 @@ that's 70s,that's 70s,https://media.tvup.cloud/canales/color_lg_654b5e18c4c1cd94
 that's 80s,that's 80s,https://media.tvup.cloud/canales/color_lg_654b5eb7088090b763a00be2_1771316710232.png
 Qwest TV,Qwest TV,https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d551fab_1739965973280.png
 Movie Music,Movie Music,https://media.tvup.cloud/canales/color_lg_679393fd97c8c3631a9e13bb_1741083590706.png
-Djazz (dial 167),Djazz (dial 167),https://media.tvup.cloud/canales/color_lg_6814845f77199634582857f3_1746175072002.png
+Djazz,Djazz,https://media.tvup.cloud/canales/color_lg_679392cd97c8c3631a9e12f6_1740999173244.png
 Naturescape,Naturescape,https://media.tvup.cloud/canales/color_lg_6793919497c8c3631a9e11ca_1741088534802.png
 Private,Private,https://media.tvup.cloud/canales/color_lg_5f5767321bd3b90064cd8785.png
 Hustler TV,Hustler TV,https://media.tvup.cloud/canales/color_lg_5f5766dfcf6e100064479cd1.png
@@ -167,6 +168,7 @@ Canal 24 horas,Canal 24 horas,https://media.tvup.cloud/canales/color_lg_5ac5c56a
 Negocios TV,Negocios TV,https://media.tvup.cloud/canales/color_lg_60dab53deb84d1001aa69c13.png
 3CatInfo,3CatInfo,https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094_1758096590448.png
 El País,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
+El Toro TV,El Toro TV,https://media.tvup.cloud/canales/color_lg_5f9be2ba52dc8c007fc95d13.png
 El Confidencial,El Confidencial,https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68.png
 Canal Parlamento,Canal Parlamento,https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png
 Actualidad 360,Actualidad 360,https://media.tvup.cloud/canales/color_lg_679b4ebbfb38496ae410cd19_1739869091770.png
@@ -281,7 +283,7 @@ Cooking Panda,Cooking Panda,https://media.tvup.cloud/canales/color_lg_6294d04cff
 Heritage+,Heritage+,https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png
 Wedo Big Stories,Wedo Big Stories,https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png
 Xtrem Sports,Xtrem Sports,https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png
-Pocoyó (dial 501),Pocoyó (dial 501),https://media.tvup.cloud/canales/color_lg_642c2b9dc27d59001cf7e050.png
+Stingray Himnos del fútbol (dial 503),Stingray Himnos del fútbol (dial 503),https://media.tvup.cloud/canales/color_lg_6a2fa23077ecd96631a58ae1_1781506609137.png
 SIC Internacional,SIC Internacional,https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png
 SIC Noticias,SIC Noticias,https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png
 RTPi,RTPi,https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png
@@ -312,5 +314,4 @@ Stingray Easy Listening,Stingray Easy Listening,https://media.tvup.cloud/canales
 Stingray The Spa,Stingray The Spa,https://media.tvup.cloud/canales/color_lg_670fd13f093504d2d219fb5b_1729848846212.png
 Stingray Soul Storm,Stingray Soul Storm,https://media.tvup.cloud/canales/color_lg_6710ec60093504d2d21a3e9d_1729849056447.png
 Stingray DanceFloor Fillers,Stingray DanceFloor Fillers,https://media.tvup.cloud/canales/color_lg_671215c3093504d2d21a8822_1729849235326.png
-Stingray Himnos del fútbol (dial 615),Stingray Himnos del fútbol (dial 615),https://media.tvup.cloud/canales/color_lg_6a2184455eff12f6c2dc9abd_1780652329634.png
 Descubre Tivify,Descubre Tivify,https://media.tvup.cloud/canales/color_lg_5ef828a88e71ea00650e81cf.png
