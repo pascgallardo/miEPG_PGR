@@ -262,7 +262,6 @@
 643054b1fc3be59477853717-67828ebf37cd7764c53489b3,DFB Play TV,https://provider-static.plex.tv/epg/cms/production/a0ddf222-f909-4390-844c-b0547916be3f/1500x1000_DFBPlay_DarkBackground.png
 643054b1fc3be59477853717-61d738b5a7b7c7f703418514,Trailers From Hell,https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png
 643054b1fc3be59477853717-6322658be67cf9cd9011fcda,TRACE Urban,https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png
-643054b1fc3be59477853717-62ab5aabbb869dd0df6a3487,TED,https://provider-static.plex.tv/epg/cms/production/acb498f4-49a7-4221-b2a7-646302b670d7/ted.png
 643054b1fc3be59477853717-66be8cd4871131188099527e,TRACE UK,https://provider-static.plex.tv/epg/cms/production/23feecc3-94f6-49b7-98e6-1828f42695ea/1500X1000_PNG_w_transparent_background__Logo_suitable_for_dark_backgrounds__-_Pierre_Gournay.png
 643054b1fc3be59477853717-6329474265c8569187176338,TRACE Brazuca,https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png
 643054b1fc3be59477853717-691d5cba3cc0cf773fb6ac67,FreeTV Banda,https://provider-static.plex.tv/epg/cms/production/471205b6-08e3-4ee9-8d67-8035fd2aac1c/FreeTV_Banda.png
