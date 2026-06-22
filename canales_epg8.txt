@@ -1,4 +1,5 @@
 # Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz
+69e9dd293323dd0f1231418d,Jackass,https://images.pluto.tv/channels/69e9dd293323dd0f1231418d/colorLogoPNG_1780494583570.png
 63fe0111dff38e00083510f9,Pluto TV Orgullo,https://images.pluto.tv/channels/63fe0111dff38e00083510f9/colorLogoPNG_1748269327014.png
 6130d8dc943001000708548d,MTV Pride,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1780300237530.png
 69f0bb1a00ad62de02a6b716,Pluto TV Fútbol,https://images.pluto.tv/channels/69f0bb1a00ad62de02a6b716/colorLogoPNG_1777475097079.png
