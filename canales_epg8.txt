@@ -85,7 +85,6 @@
 63d7a8e5a9957100086bfc23,South Park Versión Original,https://images.pluto.tv/channels/63d7a8e5a9957100086bfc23/colorLogoPNG.png
 5f28009b150b2500077766b8,Vaya semanita,https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png
 5f1abce155a03d0007718834,Pluto TV Comedia made in Spain,https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png
-65786b94cbd0d60008f7e4d9,Star Trek: The Next Generation,https://images.pluto.tv/channels/65786b94cbd0d60008f7e4d9/colorLogoPNG_1752727094278.png
 65787f2eb228b7000843fa5c,Star Trek: Voyager,https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png
 65dded9a0d456100081417ae,Primeval,https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png
 65ddec1ef7f0af0008be4b65,Pluto TV Series Sci-Fi,https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png
