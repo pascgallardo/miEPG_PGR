@@ -186,7 +186,6 @@
 643054b1fc3be59477853717-685f27cca7111a932d28f1ae,Asian Drama,https://provider-static.plex.tv/epg/cms/production/4d7c5e34-9335-479e-8d6a-e7a80565e45b/Asian_Drama_whtLogo.png
 643054b1fc3be59477853717-62167144ab2095ca85353ad6,CINEPRIDE,https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png
 643054b1fc3be59477853717-5eea605474085f0040ddc76d,Glewed TV,https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png
-643054b1fc3be59477853717-682dff1fdfc9c452b8f9842a,K-Baseball TV,https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png
 643054b1fc3be59477853717-5eea71d65252710041e0ccbc,The Reuters 60,https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png
 643054b1fc3be59477853717-6245f06793b402a3d1097787,Euronews Français,https://provider-static.plex.tv/epg/cms/production/2be15415-4f0d-4d23-a4d4-3ec22445740a/Plex-WURL_Euronews-Logos_FR_-_astrid_collomb.png
 643054b1fc3be59477853717-6470477fe536e0faaf10be9d,Robot Wars by Mech+,https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png
