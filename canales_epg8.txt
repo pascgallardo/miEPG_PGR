@@ -1,4 +1,5 @@
 # Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz
+6a0c25d1c3b9403659196293,Terapia con Charlie,https://images.pluto.tv/channels/6a0c25d1c3b9403659196293/colorLogoPNG_1780923463926.png
 69e9dd293323dd0f1231418d,Jackass,https://images.pluto.tv/channels/69e9dd293323dd0f1231418d/colorLogoPNG_1780494583570.png
 63fe0111dff38e00083510f9,Pluto TV Orgullo,https://images.pluto.tv/channels/63fe0111dff38e00083510f9/colorLogoPNG_1748269327014.png
 6130d8dc943001000708548d,MTV Pride,https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1780300237530.png
