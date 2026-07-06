@@ -139,6 +139,7 @@
 643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f88,The Bob Ross Channel,https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png
 643054b1fc3be59477853717-60d4edd6b2fdec002c141123,Johnny Carson TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png
 643054b1fc3be59477853717-66f6b947515e742745f5ca34,21 Jump Street,https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png
+643054b1fc3be59477853717-6a3c2c8c14e447db7984cc3a,Billboard Español TV,https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png
 643054b1fc3be59477853717-6674b68af04cf4bb9233c916,Death Valley Days,https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png
 643054b1fc3be59477853717-608a2c722957c9002c6a617b,Wired2Fish,https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png
 643054b1fc3be59477853717-60aeb5cd87f9b1002ce12323,NHRA TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png
