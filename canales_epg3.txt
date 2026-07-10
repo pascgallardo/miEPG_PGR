@@ -156,6 +156,8 @@ Qwest TV,Qwest TV,https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d55
 Movie Music (dial 166),Movie Music (dial 166),https://media.tvup.cloud/canales/color_lg_69c10151097349540973d3a3_1774256465475.png
 Djazz,Djazz,https://media.tvup.cloud/canales/color_lg_679392cd97c8c3631a9e12f6_1740999173244.png
 Naturescape,Naturescape,https://media.tvup.cloud/canales/color_lg_6793919497c8c3631a9e11ca_1741088534802.png
+Private,Private,https://media.tvup.cloud/canales/color_lg_5f5767321bd3b90064cd8785.png
+Hustler TV,Hustler TV,https://media.tvup.cloud/canales/color_lg_5f5766dfcf6e100064479cd1.png
 Satén | Titanes,Satén | Titanes,https://media.tvup.cloud/canales/color_lg_6572ec3b0e7011f3744385ca.png
 Satén | 100% Español,Satén | 100% Español,https://media.tvup.cloud/canales/color_lg_6574311461d408f879e2945b.png
 Satén | Luxury,Satén | Luxury,https://media.tvup.cloud/canales/color_lg_6572ecbfa139960d20306c6e.png
