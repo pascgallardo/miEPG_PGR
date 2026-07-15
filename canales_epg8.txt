@@ -72,6 +72,7 @@
 685a996c7c4f2ad40cb4f276,Dragon Ball,https://images.pluto.tv/channels/685a996c7c4f2ad40cb4f276/colorLogoPNG_1756876796024.png
 629a066860ef810008267b70,Detective Conan,https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG_1780997960365.png
 680ba8c3a48b3ead0db701cc,Los caballeros del Zodiaco,https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG_1758616347633.png
+61373c865ed5810007173fbc,Avatar,https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png
 683457e5f59cc6a13212fce4,Lupin,https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png
 632c6df43d2bc5000751f621,Inazuma Eleven,https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png
 608035b8d8705f0007260287,Pluto TV Anime,https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png
@@ -87,7 +88,7 @@
 65787f2eb228b7000843fa5c,Star Trek: Voyager,https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png
 65dded9a0d456100081417ae,Primeval,https://images.pluto.tv/channels/65dded9a0d456100081417ae/colorLogoPNG.png
 65ddec1ef7f0af0008be4b65,Pluto TV Series Sci-Fi,https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png
-69c5100c3d2597380f0f6422,Gata salvaje,https://images.pluto.tv/missing.png
+69c5100c3d2597380f0f6422,Gata salvaje,https://images.pluto.tv/channels/69c5100c3d2597380f0f6422/colorLogoPNG_1784105533317.png
 662a69daa0a74e00087a1c72,Pluto TV Telenovelas Clásicas,https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png
 6475bfec536e0c0008858e9f,Pluto TV K-Drama,https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png
 60dafb9a0df1ba000758d37b,BBC Series,https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png
