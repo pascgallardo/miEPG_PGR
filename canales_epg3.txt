@@ -171,7 +171,7 @@ Negocios TV,Negocios TV,https://media.tvup.cloud/canales/color_lg_60dab53deb84d1
 3CatInfo,3CatInfo,https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094_1758096590448.png
 El País,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
 El Toro TV,El Toro TV,https://media.tvup.cloud/canales/color_lg_5f9be2ba52dc8c007fc95d13.png
-El Confidencial,El Confidencial,https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68.png
+El Confidencial,El Confidencial,https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68_1784200877759.png
 Canal Parlamento,Canal Parlamento,https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png
 Actualidad 360,Actualidad 360,https://media.tvup.cloud/canales/color_lg_679b4ebbfb38496ae410cd19_1739869091770.png
 Euronews,Euronews,https://media.tvup.cloud/canales/color_lg_6285166c26317d0022ffee7a.png
