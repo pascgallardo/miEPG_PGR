@@ -62,7 +62,6 @@ Cine Feel Good Verdi TV,Cine Feel Good Verdi TV,https://media.tvup.cloud/canales
 Runtime,Runtime,https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png
 Runtime Acción,Runtime Acción,https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png
 Runtime Comedia,Runtime Comedia,https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png
-Runtime Comedia (NO USAR),Runtime Comedia (NO USAR),https://media.tvup.cloud/canales/color_lg_6486cc5606ab2f2a4bc1075d.png
 Runtime Thriller + Terror,Runtime Thriller + Terror,https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png
 Runtime Crimen,Runtime Crimen,https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png
 Runtime Romance,Runtime Romance,https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png
@@ -132,7 +131,6 @@ Clan,Clan,https://media.tvup.cloud/canales/color_lg_5af069f7e05c6c75f9537c3d_177
 El Reino Infantil,El Reino Infantil,https://media.tvup.cloud/canales/color_lg_68b93d3e4d93469d16944395_1761736989866.png
 Pocoyó,Pocoyó,https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png
 Cry Babies,Cry Babies,https://media.tvup.cloud/canales/color_lg_68245fd4fd0e5f592c906fa7_1753883786472.png
-Cry Babies (NO USAR),Cry Babies (NO USAR),https://media.tvup.cloud/canales/color_lg_69089cc65327d1f34a1385e5_1762172222900.png
 Rabbids Invasion,Rabbids Invasion,https://media.tvup.cloud/canales/color_lg_68245fddfd0e5f592c906fb5_1756896784354.png
 La Abeja Maya,La Abeja Maya,https://media.tvup.cloud/canales/color_lg_6479dd1666328d12f0eb0843_1741875413804.png
 Pitufo TV,Pitufo TV,https://media.tvup.cloud/canales/color_lg_6523ac255350806fd25f836e.png
@@ -156,7 +154,6 @@ that's 70s,that's 70s,https://media.tvup.cloud/canales/color_lg_654b5e18c4c1cd94
 that's 80s,that's 80s,https://media.tvup.cloud/canales/color_lg_654b5eb7088090b763a00be2_1771316710232.png
 Qwest TV,Qwest TV,https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d551fab_1739965973280.png
 Movie Music,Movie Music,https://media.tvup.cloud/canales/color_lg_679393fd97c8c3631a9e13bb_1741083590706.png
-Movie Music (NO USAR),Movie Music (NO USAR),https://media.tvup.cloud/canales/color_lg_69c10151097349540973d3a3_1774256465475.png
 Djazz,Djazz,https://media.tvup.cloud/canales/color_lg_679392cd97c8c3631a9e12f6_1740999173244.png
 Naturescape,Naturescape,https://media.tvup.cloud/canales/color_lg_6793919497c8c3631a9e11ca_1741088534802.png
 Private,Private,https://media.tvup.cloud/canales/color_lg_5f5767321bd3b90064cd8785.png
