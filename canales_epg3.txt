@@ -26,7 +26,6 @@ TVG 2,TVG 2,https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.p
 La Otra,La Otra,https://media.tvup.cloud/canales/color_lg_5f96a0831a1838006f570679.png
 Grupo Cadena Media,Grupo Cadena Media,https://media.tvup.cloud/canales/color_lg_68d50b82b99dbf02992756ef_1760097442254.png
 2Cat,2Cat,https://media.tvup.cloud/canales/color_lg_68e7a2e8f28a3db1aeb0e25b_1777295991022.png
-El País,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
 Qello Concerts,Qello Concerts,https://media.tvup.cloud/canales/color_lg_628b2d6a76d04a001a52833f.png
 Runtime Acción,Runtime Acción,https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png
 TRECE,TRECE,https://media.tvup.cloud/canales/color_lg_5b07e3b5b0b6b936758c5a97.png
