@@ -5,30 +5,30 @@ Antena 3,Antena 3,https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb0
 Cuatro,Cuatro,https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png
 Telecinco,Telecinco,https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png
 La Sexta,La Sexta,https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png
-TV3,TV3,https://media.tvup.cloud/canales/color_lg_5a314e548e26040be8a9f3fd.png
+Aragón TV,Aragón TV,https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png
+TVG,TVG,https://media.tvup.cloud/canales/color_lg_5d777d87a9824d0056b02a67.png
 Canal Sur,Canal Sur,https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png
 ETB2,ETB2,https://media.tvup.cloud/canales/color_lg_5c1762f0a69b842193852d54_1775735609226.png
+Telemadrid,Telemadrid,https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png
 À Punt,À Punt,https://media.tvup.cloud/canales/5cb43c78aada4d004cda83a2logoColor.png
 TPA7,TPA7,https://media.tvup.cloud/canales/color_lg_5c013700b7adda22348eab19.png
-TVG,TVG,https://media.tvup.cloud/canales/color_lg_5d777d87a9824d0056b02a67.png
-7 Región de Murcia,7 Región de Murcia,https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png
-Aragón TV,Aragón TV,https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png
-Telemadrid,Telemadrid,https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png
 Canal Extremadura,Canal Extremadura,https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png
+TV3,TV3,https://media.tvup.cloud/canales/color_lg_5a314e548e26040be8a9f3fd.png
 IB3,IB3,https://media.tvup.cloud/canales/5afeab43d2fc610babd2b87flogoColor.png
+7 Región de Murcia,7 Región de Murcia,https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png
 CMM TV,CMM TV,https://media.tvup.cloud/canales/color_lg_5eb909661a74010063dd01a4.png
 TV Canaria,TV Canaria,https://media.tvup.cloud/canales/color_lg_5f436bcafd67260066323ae5.png
-Super 3-33,Super 3-33,https://media.tvup.cloud/canales/color_lg_5afeb829d2fc610babd2b88f.png
 ETB1,ETB1,https://media.tvup.cloud/canales/color_lg_5c1761caa69b842193852d50_1775735557128.png
+Super 3-33,Super 3-33,https://media.tvup.cloud/canales/color_lg_5afeb829d2fc610babd2b88f.png
 Andalucía TV,Andalucía TV,https://media.tvup.cloud/canales/color_lg_5cbcb460f75662004cbb5040.png
 TPA8,TPA8,https://media.tvup.cloud/canales/color_lg_5efc32cc377b9a00658da210.png
 TVG 2,TVG 2,https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.png
 La Otra,La Otra,https://media.tvup.cloud/canales/color_lg_5f96a0831a1838006f570679.png
 Grupo Cadena Media,Grupo Cadena Media,https://media.tvup.cloud/canales/color_lg_68d50b82b99dbf02992756ef_1760097442254.png
 2Cat,2Cat,https://media.tvup.cloud/canales/color_lg_68e7a2e8f28a3db1aeb0e25b_1777295991022.png
-El País,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
-Qello Concerts,Qello Concerts,https://media.tvup.cloud/canales/color_lg_628b2d6a76d04a001a52833f.png
-Runtime Acción,Runtime Acción,https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png
+Djazz,Djazz,https://media.tvup.cloud/canales/color_lg_679392cd97c8c3631a9e12f6_1740999173244.png
+Cine Feel Good Verdi TV,Cine Feel Good Verdi TV,https://media.tvup.cloud/canales/color_lg_64e32db00ca0bcff00c1c142.png
+Crímenes Reales,Crímenes Reales,https://media.tvup.cloud/canales/color_lg_68da93df08f02632a129035e_1759155168639.png
 TRECE,TRECE,https://media.tvup.cloud/canales/color_lg_5b07e3b5b0b6b936758c5a97.png
 AXN,AXN,https://media.tvup.cloud/canales/color_lg_5ac5c48b03080405b20a4fe0.png
 AMC,AMC,https://media.tvup.cloud/canales/color_lg_5bc6e373057cb0004ba4037c.png
@@ -56,9 +56,9 @@ Sundance TV,Sundance TV,https://media.tvup.cloud/canales/color_lg_5bd893517525c6
 Somos,Somos,https://media.tvup.cloud/canales/color_lg_5c066ce8af988941cfbcb14f.png
 Be Mad,Be Mad,https://media.tvup.cloud/canales/color_lg_5ac5c4c303080405b20a4fe1.png
 Cines Verdi TV,Cines Verdi TV,https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png
-Cine Feel Good Verdi TV,Cine Feel Good Verdi TV,https://media.tvup.cloud/canales/color_lg_65b0fa5ea9d9e0e7df13780e.png
+Cine Feel Good Verdi TV (dial 50),Cine Feel Good Verdi TV (dial 50),https://media.tvup.cloud/canales/color_lg_65b0fa5ea9d9e0e7df13780e.png
 Runtime,Runtime,https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png
-Runtime Acción (dial 52),Runtime Acción (dial 52),https://media.tvup.cloud/canales/color_lg_6461f86c9b363733fddb9c92.png
+Runtime Acción,Runtime Acción,https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png
 Runtime Comedia,Runtime Comedia,https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png
 Runtime Thriller + Terror,Runtime Thriller + Terror,https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png
 Runtime Crimen,Runtime Crimen,https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png
@@ -97,7 +97,7 @@ ZenLIFE,ZenLIFE,https://media.tvup.cloud/canales/color_lg_661414e8317db681aee6b0
 Love Wine,Love Wine,https://media.tvup.cloud/canales/color_lg_64e4811a758e3601480d3262.png
 Trailers,Trailers,https://media.tvup.cloud/canales/color_lg_64f9b2e2aae0260ae8e34fed.png
 Crimen &amp; Historia,Crimen &amp; Historia,https://media.tvup.cloud/canales/color_lg_6746f995367074ada7d2e66e_1733742227105.png
-Crímenes Reales,Crímenes Reales,https://media.tvup.cloud/canales/color_lg_68da93df08f02632a129035e_1759155168639.png
+Crímenes Reales (dial 100),Crímenes Reales (dial 100),https://media.tvup.cloud/canales/color_lg_68eccc1d18549f63c2c53493_1760349214218.png
 Inglés Total,Inglés Total,https://media.tvup.cloud/canales/color_lg_628ce71965774400228da9ae.png
 Vaughan TV,Vaughan TV,https://media.tvup.cloud/canales/color_lg_66e953d1182d829c0a2edbae_1731927623534.png
 Viajes y Sabores,Viajes y Sabores,https://media.tvup.cloud/canales/color_lg_679b54f5c94f7e5c9b8effce_1739785565323.png
@@ -142,7 +142,7 @@ Mezzo Live,Mezzo Live,https://media.tvup.cloud/canales/color_lg_5e442cfa3eb7c200
 Stingray Classica,Stingray Classica,https://media.tvup.cloud/canales/color_lg_698306c8497ec26c754c85f9_1770898604967.png
 Clips Don't Lie,Clips Don't Lie,https://media.tvup.cloud/canales/color_lg_683ef0750f3cea6ce5be7721_1756996692168.png
 SOL Música,SOL Música,https://media.tvup.cloud/canales/color_lg_653ba0f052f985e26c4180b1.png
-Qello Concerts (dial 156),Qello Concerts (dial 156),https://media.tvup.cloud/canales/color_lg_6450e32e71fda6c361d2f38a.png
+Qello Concerts,Qello Concerts,https://media.tvup.cloud/canales/color_lg_628b2d6a76d04a001a52833f.png
 Trace Urban,Trace Urban,https://media.tvup.cloud/canales/color_lg_6458ca8827684c477680a0d9.png
 Trace Latina,Trace Latina,https://media.tvup.cloud/canales/color_lg_6458cbea462b2c4901272564.png
 Trace Brasil,Trace Brasil,https://media.tvup.cloud/canales/color_lg_6458ccb08535b3af28328edf.png
@@ -152,7 +152,7 @@ that's 70s,that's 70s,https://media.tvup.cloud/canales/color_lg_654b5e18c4c1cd94
 that's 80s,that's 80s,https://media.tvup.cloud/canales/color_lg_654b5eb7088090b763a00be2_1771316710232.png
 Qwest TV,Qwest TV,https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d551fab_1739965973280.png
 Movie Music,Movie Music,https://media.tvup.cloud/canales/color_lg_679393fd97c8c3631a9e13bb_1741083590706.png
-Djazz,Djazz,https://media.tvup.cloud/canales/color_lg_679392cd97c8c3631a9e12f6_1740999173244.png
+Djazz (dial 167),Djazz (dial 167),https://media.tvup.cloud/canales/color_lg_6814845f77199634582857f3_1746175072002.png
 Naturescape,Naturescape,https://media.tvup.cloud/canales/color_lg_6793919497c8c3631a9e11ca_1741088534802.png
 Private,Private,https://media.tvup.cloud/canales/color_lg_5f5767321bd3b90064cd8785.png
 Hustler TV,Hustler TV,https://media.tvup.cloud/canales/color_lg_5f5766dfcf6e100064479cd1.png
@@ -164,7 +164,7 @@ Satén TV | Promo,Satén TV | Promo,https://media.tvup.cloud/canales/color_lg_67
 Canal 24 horas,Canal 24 horas,https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png
 Negocios TV,Negocios TV,https://media.tvup.cloud/canales/color_lg_60dab53deb84d1001aa69c13.png
 3CatInfo,3CatInfo,https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094_1758096590448.png
-El País (dial 203),El País (dial 203),https://media.tvup.cloud/canales/color_lg_643d2785f5716200225c35bf.png
+El País,El País,https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png
 El Toro TV,El Toro TV,https://media.tvup.cloud/canales/color_lg_5f9be2ba52dc8c007fc95d13.png
 El Confidencial,El Confidencial,https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68_1784200877759.png
 Canal Parlamento,Canal Parlamento,https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png
@@ -279,9 +279,6 @@ Cooking Panda,Cooking Panda,https://media.tvup.cloud/canales/color_lg_6294d04cff
 Heritage+,Heritage+,https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png
 Wedo Big Stories,Wedo Big Stories,https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png
 Xtrem Sports,Xtrem Sports,https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png
-Djazz (dial 500),Djazz (dial 500),https://media.tvup.cloud/canales/color_lg_6814845f77199634582857f3_1746175072002.png
-Cine Feel Good Verdi TV (dial 501),Cine Feel Good Verdi TV (dial 501),https://media.tvup.cloud/canales/color_lg_64e32db00ca0bcff00c1c142.png
-Crímenes Reales (dial 502),Crímenes Reales (dial 502),https://media.tvup.cloud/canales/color_lg_68eccc1d18549f63c2c53493_1760349214218.png
 SIC Internacional,SIC Internacional,https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png
 SIC Noticias,SIC Noticias,https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png
 RTPi,RTPi,https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png
